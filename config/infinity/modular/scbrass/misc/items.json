@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scbrass:brass_blend"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:brass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:brass_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:deepslate_zinc_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:raw_zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:raw_zinc_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:zinc_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:zinc_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:zinc_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "scbrass:zinc_ore"
+		}
+	]
+}

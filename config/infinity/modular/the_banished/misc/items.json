@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_banished:abyss_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:apollyon_baby_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:apollyon_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:apollyon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:apollyon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:banished_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:banished_slave_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:banished_slave_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:big_banished_slave_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:broken_thanatos_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:chiseled_voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:craked_voidstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:devastator"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:devastator_fist"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:devastator_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:disgusting_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:extinct_banished_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:gloomy_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:gloomy_metal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:gloomy_metal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:gloomy_metal_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:music_disc_forgotten"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:thanatos_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:thanatos_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:thanatos_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:thanatos_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:the_banished_devastator_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:the_banished_devastator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:void_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:voidstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:voidstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:voidstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:voidstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_banished:voidstone_bricks_wall"
+		}
+	]
+}

@@ -1,0 +1,274 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.rats]
+			pirat = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.enlightened_end]
+			indigo = true
+			cerulean = true
+
+		[types.wood_type.autumnity]
+			maple = true
+
+		[types.wood_type.snifferent]
+			globar = true
+
+		[types.wood_type.unusualend]
+			chorus_nest = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.toybox]
+			plastic = true
+
+		[types.wood_type.gardens_of_the_dead]
+			soulblight = true
+			whistlecane = true
+
+		[types.wood_type.scpo]
+			scp_143 = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.environmental]
+			willow = true
+			pine = true
+			plum = true
+			wisteria = true
+
+		[types.wood_type.atmospheric]
+			grimwood = true
+			rosewood = true
+			morado = true
+			yucca = true
+			aspen = true
+			laurel = true
+			kousa = true
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.rats]
+			pirat = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.autumnity]
+			maple = true
+			yellow_maple = true
+			orange_maple = true
+			red_maple = true
+
+		[types.leaves_type.rediscovered]
+			ancient_cherry = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.scpo]
+			scp_143 = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.environmental]
+			pink_wisteria = true
+			blue_wisteria = true
+			purple_wisteria = true
+			white_wisteria = true
+			cheerful_plum = true
+			moody_plum = true
+			hibiscus = true
+			willow = true
+			pine = true
+			plum = true
+			wisteria = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			aspen = true
+			green_aspen = true
+			laurel = true
+			dry_laurel = true
+			kousa = true
+			currant = true
+			grimwood = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+	[types.stone_type]
+
+		[types.stone_type.enlightened_end]
+			void_shale = true
+			palerock = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			permafrost = true
+
+		[types.stone_type.unusualend]
+			gneiss = true
+			gloopstone = true
+			gloopslate = true
+			warped_stone = true
+
+		[types.stone_type.cavesanddepths]
+			slate = true
+			chert = true
+
+		[types.stone_type.jellyfishing]
+			coralstone = true
+
+		[types.stone_type.the_banished]
+			voidstone = true
+
+		[types.stone_type.undergarden]
+			depthrock = true
+			shiverstone = true
+			tremblecrust = true
+
+		[types.stone_type.deep_dark_regrowth]
+			petronium = true
+			grimstone = true
+
+		[types.stone_type.scguns]
+			phosphorite = true
+
+		[types.stone_type.upgrade_aquatic]
+			coralstone = true
+
+		[types.stone_type.vintagedelight]
+			salt = true
+
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
+
+		[types.stone_type.atmospheric]
+			dolerite = true
+			ivory_travertine = true
+			peach_travertine = true
+			persimmon_travertine = true
+			saffron_travertine = true
+
+		[types.stone_type.galosphere]
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+
+		[types.stone_type.ars_nouveau]
+			sourcestone = true
+
+	[types.cake]
+
+		[types.cake.dungeonsdelight]
+			monster_cake = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.another_furniture]
+			drawer = true
+			table = true
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.rediscovered]
+			chair = true
+			table = true
+
+		[entries.wood_type.quark]
+			hollow_log = true
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			vertical_slab = true
+
+		[entries.wood_type.mighty_mail]
+			mail_box = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+	[entries.stone_type]
+
+		[entries.stone_type.quark]
+			pillar = true
+			polished_vertical_slab = true
+			vertical_slab = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
+

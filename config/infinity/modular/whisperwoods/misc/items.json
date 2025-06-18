@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:bottled_moth"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:ghost_light_electric_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:ghost_light_fiery_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:ghost_light_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:ghost_light_magic_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:ghost_light_toxic_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:hand_of_fate"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:hidebehind_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:hirschgeist_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:hirschgeist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:moth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:wisp_lantern_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:wisp_lantern_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:wisp_lantern_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:wisp_lantern_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:wisp_lantern_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:wisp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:zotzpyre_spawn_egg"
+		}
+	]
+}

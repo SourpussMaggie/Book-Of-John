@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:gloop_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:gloop_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:gloop_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:vine_shot"
+		}
+	]
+}

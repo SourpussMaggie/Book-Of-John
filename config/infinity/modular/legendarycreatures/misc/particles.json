@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_splatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:crows_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:desert_mojo_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:wisp_particle"
+		}
+	]
+}

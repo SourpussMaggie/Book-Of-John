@@ -1,0 +1,442 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "octagon"
+	filename: "culinary_arts"
+	group: ""
+	icon: "scpo:scp_458"
+	id: "7A42B9DAA1832E59"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "041AA442E6E671CA"
+			rewards: [{
+				id: "5F8E479E09ED56E8"
+				item: "born_in_chaos_v1:death_totem"
+				type: "item"
+			}]
+			subtitle: "like screamin' sicillian"
+			tasks: [{
+				id: "5CC403F8F2570D23"
+				item: "vintagedelight:meat_pizza"
+				type: "item"
+			}]
+			title: "Big Meaty Pizza"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0FC3A26EF1206741"
+			rewards: [{
+				id: "6FBDF2F79A27EF70"
+				item: "rats:chef_toque"
+				type: "item"
+			}]
+			subtitle: "the home-brined ones always taste better"
+			tasks: [{
+				count: 3L
+				id: "6AC292E01D804579"
+				item: "vintagedelight:pickle"
+				type: "item"
+			}]
+			title: "Artisanal"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "5E5DB887911A072F"
+			rewards: [{
+				id: "12CEC4B2D2584D37"
+				item: "aquaculture:neptunium_block"
+				type: "item"
+			}]
+			subtitle: "i am a god amongst men"
+			tasks: [
+				{
+					count: 10L
+					id: "0D83CF4E7914391E"
+					item: { Count: 10, id: "vintagedelight:kimchi" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "554302032E1402DB"
+					item: { Count: 10, id: "vintagedelight:pickle" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "49B8DB570EC41118"
+					item: { Count: 10, id: "vintagedelight:pickled_onion" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "1EF1EBC76664F0AA"
+					item: { Count: 10, id: "vintagedelight:pickled_egg" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "61FBBABEBB2DC786"
+					item: { Count: 10, id: "vintagedelight:pickled_pepper" }
+					type: "item"
+				}
+				{
+					count: 10L
+					id: "6329DDD32162C1BE"
+					item: { Count: 10, id: "vintagedelight:pickled_pitcher_pod" }
+					type: "item"
+				}
+				{
+					id: "6158A2F9F5AAE6B4"
+					item: "vintagedelight:pickle_soup"
+					type: "item"
+				}
+			]
+			title: "Pickle Everything"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "4DA5EF96A18474D4"
+			rewards: [{
+				id: "42A524B23F12C0D3"
+				item: "rats:rat_upgrade_chef"
+				type: "item"
+			}]
+			subtitle: "extra extra read all about it"
+			tasks: [{
+				id: "28FB5CB1B024C985"
+				item: "vintagedelight:deluxe_burger"
+				type: "item"
+			}]
+			title: "Burger King"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "532CDC8BDCCAF79D"
+			rewards: [{
+				id: "4515FCDC6F4AE6E2"
+				item: "undergardendelight:gronglet_with_roasted_veggies"
+				type: "item"
+			}]
+			subtitle: "??????"
+			tasks: [{
+				id: "0609A3766548E23F"
+				item: "undergardendelight:gronglet_roll"
+				type: "item"
+			}]
+			title: "Bizarre Pallet"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "4F793C4F729BCA24"
+			rewards: [{
+				id: "4CCBFBC8058314F9"
+				item: "jellyfishing:grease_ball"
+				type: "item"
+			}]
+			subtitle: "bussinnn ughh"
+			tasks: [{
+				count: 20L
+				id: "19BD33DE08AB2170"
+				item: { Count: 20, id: "gnumus:grilled_juicy_meat" }
+				type: "item"
+			}]
+			title: "Keto Friendly"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "19179A850B0A8975"
+			rewards: [{
+				count: 2
+				id: "317E125A1E17CF59"
+				item: "immersive_paintings:painting"
+				type: "item"
+			}]
+			subtitle: "LET'S GO FISHING"
+			tasks: [{
+				count: 4L
+				id: "47AAA590768749EB"
+				item: { Count: 4, id: "aquaculture:sushi" }
+				type: "item"
+			}]
+			title: "Su Chef"
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "131E096509343E19"
+			rewards: [{
+				count: 49
+				id: "1D6624798C6CE3E0"
+				item: "scpo:money"
+				type: "item"
+			}]
+			subtitle: "makes everything taste better(?)"
+			tasks: [
+				{
+					id: "3E5F6F40D686C58E"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "55508C178B83AB92"
+					item: "atmospheric:golden_dragon_fruit"
+					type: "item"
+				}
+				{
+					id: "588C8F5974F6D6BA"
+					item: "minecraft:golden_carrot"
+					type: "item"
+				}
+				{
+					id: "429EFD121B67E265"
+					item: "cavesanddepths:golden_lush_fruit"
+					type: "item"
+				}
+				{
+					id: "291FF083363F8669"
+					item: "aquamirae_delight:golden_puree_pasta"
+					type: "item"
+				}
+			]
+			title: "Gilded Gullet"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "184E8A90CB0A109B"
+			rewards: [{
+				id: "2DF8F2A5A651D267"
+				item: {
+					Count: 1
+					id: "useless_sword:hemolymph_broadsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "doesn't get cheddar than this"
+			tasks: [{
+				id: "3AB2FABA784F88B4"
+				item: "rats:potato_knishes"
+				type: "item"
+			}]
+			title: "Culinary Genius"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "527AB298E9F1A8B7"
+			rewards: [{
+				id: "69583A9DB9C30417"
+				item: "rats:rat_upgrade_warrior"
+				type: "item"
+			}]
+			subtitle: "it's not modpack jank if i make it a quest"
+			tasks: [
+				{
+					id: "5893636B4DFBF794"
+					item: "shroom_dealers:cheese"
+					type: "item"
+				}
+				{
+					id: "4622E867A4BE3993"
+					item: "rats:cheese"
+					type: "item"
+				}
+				{
+					id: "658E94157833B927"
+					item: "vintagedelight:cheese_slice"
+					type: "item"
+				}
+			]
+			title: "Three-Cheese"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "2FBAB303E5451267"
+			rewards: [
+				{
+					id: "72CFF64B60742886"
+					item: "vintagedelight:cheese_pizza"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5AF02E00B8072535"
+					item: "vintagedelight:cheese_pizza_slice"
+					type: "item"
+				}
+			]
+			subtitle: "that'll be $50"
+			tasks: [
+				{
+					id: "03CC3FF20E5841ED"
+					item: "minecraft:brown_mushroom"
+					type: "item"
+				}
+				{
+					id: "14B1B3355A5E0DF1"
+					item: "vintagedelight:cheese_slice"
+					type: "item"
+				}
+				{
+					id: "1701B1748254B5EB"
+					item: "farmersdelight:tomato"
+					type: "item"
+				}
+				{
+					id: "017E00E8D11B94CE"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+				{
+					id: "773B718B5D6B960A"
+					item: "jellyfishing:pineapple"
+					type: "item"
+				}
+			]
+			title: "Choosing the Toppings (Bonus Track)"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			id: "5A2F012ABCF53DCB"
+			rewards: [{
+				count: 13
+				id: "64550619328A853F"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			subtitle: "but can you sous vide it"
+			tasks: [
+				{
+					count: 10L
+					id: "6EA27D2F74E77DD2"
+					item: { Count: 10, id: "born_in_chaos_v1:smoked_flesh" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "09F11BA99339780A"
+					item: "born_in_chaos_v1:smoked_monster_flesh"
+					type: "item"
+				}
+			]
+			title: "Low Standards"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "6B2C46619050D3C8"
+			rewards: [{
+				id: "24BDA36EB7F48FF0"
+				item: "farmersdelight:steak_and_potatoes"
+				type: "item"
+			}]
+			subtitle: "it's not gonna be that easy"
+			tasks: [{
+				id: "3DCF3EE1AA13A34D"
+				item: "artifacts:eternal_steak"
+				type: "item"
+			}]
+			title: "Infinite Food?"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "32E92FE98E61AD98"
+			rewards: [{
+				id: "2F53AC31BA9D6CB7"
+				item: {
+					Count: 1
+					id: "useless_sword:chocolate_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "baked to shit"
+			tasks: [{
+				id: "735AA9CBCA660B76"
+				item: "nirvana:weed_brownie"
+				type: "item"
+			}]
+			title: "Wacky Brownie"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "185CB541AA0A0E0D"
+			rewards: [{
+				count: 3
+				id: "42393DC6BEEA0660"
+				item: "born_in_chaos_v1:monstrous_easter_egg"
+				type: "item"
+			}]
+			subtitle: "i'll have the monster meal"
+			tasks: [{
+				id: "5C9D18B1AE76C0C8"
+				item: "dungeonsdelight:malicious_sandwich"
+				type: "item"
+			}]
+			title: "Dangerous Dinner"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "20C04A0E5605E6DF"
+			rewards: [{
+				id: "252CED5C60668A0A"
+				item: "rats:rat_upgrade_milker"
+				type: "item"
+			}]
+			subtitle: "you should see the cave"
+			tasks: [
+				{
+					count: 3L
+					id: "6082049D81F89D17"
+					item: { Count: 3, id: "dungeonsdelight:wardenzola" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "04BC602AD6DE23D7"
+					item: { Count: 5, id: "gnumus:gnumus_cheese" }
+					type: "item"
+				}
+			]
+			title: "Unusual Cheese"
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			id: "7B75629A0DD8FD60"
+			rewards: [{
+				id: "780646D05F1D935F"
+				item: "ars_additions:ancient_codex_entry"
+				type: "item"
+			}]
+			subtitle: "so that's what they're made of"
+			tasks: [{
+				id: "51D34059A7E08532"
+				item: "dungeonsdelight:snuffledog"
+				type: "item"
+			}]
+			title: "Dirty Dog"
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	subtitle: ["the hollowness within you grows ever deeper"]
+	title: "TARRARE'S TOUCH"
+}

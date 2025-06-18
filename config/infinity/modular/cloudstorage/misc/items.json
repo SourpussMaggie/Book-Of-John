@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:angry_cloud_in_a_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_bit"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_buddy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_buddy_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_blower"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_blower_inventory"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cotton_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:guide_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:happy_cloud_in_a_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:music_disc_drift"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:propeller_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:spawn_egg_badloon"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:spawn_egg_bloviator"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:static_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:static_cloud_chest"
+		}
+	]
+}

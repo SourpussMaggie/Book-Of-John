@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "scpo:acid",
+				"Name": "scpo:acid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "scpo:scp_006",
+				"Name": "scpo:scp_006"
+			}
+		}
+	]
+}

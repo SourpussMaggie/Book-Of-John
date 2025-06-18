@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.card.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.card.shove"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.dice"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.menu"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.pause.off"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.pause.on"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.pickup"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.reward"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.roulette"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:casinocraft.tetris"
+		}
+	]
+}

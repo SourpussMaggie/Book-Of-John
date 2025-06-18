@@ -1,0 +1,128 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:absorber_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:bag_of_horrors"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:crocofang_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:dark_drink"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:dark_linger"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:dark_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:engineer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:eyesore_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:freakager_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:freaky_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:funnybone_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:greenbone"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:igniter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:illashooter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:invalid"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:magi_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:magispeller_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:preserver_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:ragno_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:spellbound_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:spiri_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:spiritcaller_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:totem_of_banishment"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:treat1"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:treat2"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:treat3"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:treat4"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:treat5"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:treat6"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:twittollager_spawn_egg"
+		}
+	]
+}

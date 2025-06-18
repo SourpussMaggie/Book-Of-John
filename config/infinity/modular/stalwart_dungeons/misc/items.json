@@ -1,0 +1,396 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:ancient_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_dungeon_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_dungeons_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_ghast_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_ghast_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:awful_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:blaze_armor_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:cannon_pr"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chiseled_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:chorundum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:cracked_endstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:diamond_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:end_dungeon_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:ender_globe_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:giddy_blaze_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:giddy_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:golden_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:igniter"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:incomplete_wither_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:iron_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:keeping_castle_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:keeping_castle_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:levitation_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:logo_stalwart_dungeons"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_bricks_and_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_bricks_and_netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_bricks_and_netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_bricks_and_soul_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_bricks_and_soul_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_bricks_and_soul_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_keeper_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:nether_keeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:netherite_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:obsidian_striker"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:propulk_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks_and_endstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks_and_endstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks_and_endstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:purpur_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:pusher"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:raw_tungsten"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:reinforced_blaze_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:shelterer_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:shelterer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:shruster"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:shulker_cannon_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_magma_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:soul_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:spore_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:spore_vaporizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:stalwart_dungeons_end_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:stone_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:teleporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:teleporter_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:transient_block_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:transient_block_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:tungsten_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:void_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:warted_tungsten_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:warted_tungsten_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:warted_tungsten_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:warted_tungsten_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:warted_tungsten_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "stalwart_dungeons:wooden_hammer"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.music"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.music"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.music"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.music"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.music_april"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:item.freaky_disc.music"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:item.magi_disc.music"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:item.spiri_disc.music"
+		}
+	]
+}

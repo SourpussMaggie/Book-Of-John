@@ -1,0 +1,224 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "burnt:air"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:bamboo_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:breaks_falling_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:broken_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_doors"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_stripped_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_stripped_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_trapdoors"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burning_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_doors"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_grows"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_leaves_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_sugar_cane_places_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:fallen_slab_places_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:fire_destroys"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:fire_resistant"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:flames_valid"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:furtile"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:is_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:on_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:smoldering_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:smoldering_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:smoldering_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:sooty"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:sooty_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:soul_burnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:soul_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:stairs_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:stripped_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:sulphur"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:tall_flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:will_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:will_soul_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:wood_fire"
+		}
+	]
+}

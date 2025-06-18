@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cruncherbite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cruncherbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fiend_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flail_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_spider_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_spider_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_spider_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:griever_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:griever_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:griever_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:griever_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mudkin_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mudkin_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mudkin_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mudkin_run"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:weeper_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:weeper_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:weeper_hurt"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:bloviator_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:bloviator_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:bloviator_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:bloviator_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_blower"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_chest_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_chest_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:static_shock"
+		}
+	]
+}

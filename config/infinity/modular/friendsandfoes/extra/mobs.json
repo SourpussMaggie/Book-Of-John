@@ -1,0 +1,53 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "friendsandfoes:crab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "glares",
+				"Name": "friendsandfoes:glare"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "friendsandfoes:iceologer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "friendsandfoes:mauler"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "creature",
+				"Name": "friendsandfoes:moobloom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "rascals",
+				"Name": "friendsandfoes:rascal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "friendsandfoes:wildfire"
+			}
+		}
+	]
+}

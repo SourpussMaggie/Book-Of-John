@@ -1,0 +1,1612 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scguns:adrien_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:adrien_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:adrien_helm"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:adrien_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:advanced_composter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:advanced_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:advanced_silencer"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ammo_turret_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ancient_brass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ancient_brass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_bayonet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_respirator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:anthralite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:arc_worker"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:asgharian_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:asgharian_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:asgharian_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:asgharian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:asgharian_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:astella"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:auto_turret"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:auvtomag"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:basic_poultice"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:basic_turret"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:bearpack_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:beowulf_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:big_bore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:black_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blank_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blasphemy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blaze_fuel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blue_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blunderbuss"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blunderer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:bomb_lance"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:boomstick"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:brass_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:brawler"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:brown_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:bruiser"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:buckshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:bullet_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:callwell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:callwell_conversion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:carapice"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:charged_amethyst_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:choke_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:clump_anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cog_knight_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cog_knight_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cog_knight_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cog_knight_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cog_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cog_minion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cogloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cold_pack"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:combat_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:compact_advanced_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:compact_copper_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:composite_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:copper_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:copper_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:copper_gun_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cr4k_mining_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cracked_asgharian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cracked_phosphorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:creative_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:crusader"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:crushed_raw_anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cryoniter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cyan_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:cyclone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:damage_turret_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:dark_matter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:deep_dark_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:deepslate_anthralite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:deepslate_sulfur_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:defender_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:depleted_energy_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_bayonet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_blend"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_gun_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:dirty_dust_anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:disc_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:dishes_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:dissident_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:dozier_rl"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:dragon_salve"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:earths_corpse"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:echoes_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:empty_blasphemy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:empty_casing_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:empty_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:empty_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:empty_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:enchanted_bandage"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:end_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:enemy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:enemy_turret"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:energy_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:energy_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:energy_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:extended_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:extended_mag"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:felix_memorial"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:fire_rate_turret_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:firing_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:flayed_god"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:flintlock_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:floundergat"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:forlorn_hope"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:freyr"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gale"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gas_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gattaler"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gauss_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:geothermal_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gibbs_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:grandle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:grapeshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gray_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:greaser_smg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:green_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_grip"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_magazine"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_parts_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gun_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gunpowder_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:gyrojet_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:handcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:hardened_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:hardened_pebbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:heavy_gun_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:heavy_gun_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:hive_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:hog_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:honey_sulfur_poultice"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:hornlin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:hostile_turret_targeting_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:howler"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:howler_conversion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:inertial"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:iron_bayonet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:iron_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:iron_gun_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:iron_javelin"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:iron_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:jackhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:krahg_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:krauser"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:large_brass_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:large_casing_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:large_iron_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:laser_musket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:laser_sight"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:light_blue_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:light_gray_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:light_grip"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:light_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:lightning_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:lightning_rod_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:lime_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:llr_director"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:lockewood"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:locust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:lone_wonder"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:long_scope"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:m22_waltz"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:m3_carabine"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:macerator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:magenta_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:magnum_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:makeshift_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mangalitsa"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:marlin"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mas_55"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mechanical_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:medium_brass_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:medium_casing_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:medium_copper_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:medium_diamond_steel_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:medium_scope"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:microjet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mk43_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mob_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:molotov_cocktail"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:music_disc_mass_destruction"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:music_disc_mass_destruction_extended"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:music_disc_mass_production"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:musket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:muzzle_brake"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nervepinch"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nether_star_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nether_sulfur_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:netherite_bayonet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:netherite_respirator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:netherite_scrap_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:newborn_cyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:niami"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:niter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:niter_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:niter_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nitro_buckshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nitro_keg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nitro_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:nitro_powder_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ocean_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:orange_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:osborne_slug"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:osgood_50"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:pax"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:peal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:peal_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:pebbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:penetrator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:phosphor_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:phosphorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:phosphorite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:phosphorite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:phosphorite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:phosphorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:piglin_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:pink_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:pistol_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasmabuss"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:player_turret_targeting_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plus_p_mag"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:polar_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:polished_phosphorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:powder_and_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:powder_keg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:powered_macerator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:powered_mechanical_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:prima_materia"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:prush_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:pulsar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:purple_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:pyroclastic_flow"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ramrod_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:range_finder"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:range_turret_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rapid_firing_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rat_king_and_queen"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:raw_anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:raw_anthralite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:raw_phosphor"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:raw_phosphor_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:raygun"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:red_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:redcoat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:reflex_sight"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:repair_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:repeating_musket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rich_phosphorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ridgetop"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rifle_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rock_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rocket_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rocket_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rusty_gnat"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:saketini"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sandbag"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scamp_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scamp_package"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scorched_blend"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scorched_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scorched_gun_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scorched_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scrapper"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:scratches"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sculk_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sculk_resonator"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sequoia"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shard_anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shard_culler"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shell_catcher_turret_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shellurker"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sheol"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sheol_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shock_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shotgun_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shotgun_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shotgun_turret"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shulker_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shulkshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:silencer"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:skibidi"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sky_carrier_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:small_brass_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:small_casing_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:small_copper_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:small_diamond_steel_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:small_iron_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:soul_drummer"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:special_ammo_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:speed_mag"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:spitfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:standard_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:standard_copper_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:stone_gun_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:stun_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:super_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:supply_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:supply_scamp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:swarm_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:swarm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:syringe"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:team_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:thermolith"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:thunderhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_blend"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_blueprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_gun_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_brass_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_iron_blend"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_iron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:treated_iron_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:trenchur"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:turret_targeting_module"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ultra_knight_hawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:umax_pistol"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_advanced_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_bearpack_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_beowulf_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_compact_advanced_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_compact_copper_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_energy_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_gibbs_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_gun_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_heavy_gun_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_hog_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_krahg_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_microjet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_osborne_slug"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_plasma_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_ramrod_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_sculk_cell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_shotgun_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_shulkshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:unfinished_standard_copper_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:uppercut"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:valora"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:vehement_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:vehement_coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:vehement_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:vent_collector"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:venturi"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:vertical_grip"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:vulcanic_repeater"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:waltz_conversion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:weighted_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:whispers"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:white_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:winnie"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:wooden_stock"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:yellow_niter_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:zombified_hornlin_spawn_egg"
+		}
+	]
+}

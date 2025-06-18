@@ -1,0 +1,1656 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "croptopia:ajvar"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ajvar_toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:almond"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:almond_brittle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:almond_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:anchovy"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:anchovy_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:apple_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:apple_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:apple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:apricot"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:apricot_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:apricot_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:artichoke_dip"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:artichoke_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:asparagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:asparagus_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:avocado"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:avocado_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:avocado_toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:bacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:baked_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:baked_crepes"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:baked_sweet_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:baked_yam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:banana"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:banana_cream_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:banana_nut_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:banana_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:banana_smoothie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:barley"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:barley_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:basil"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:basil_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:beef_jerky"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:beef_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:beef_stir_fry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:beef_wellington"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:beer"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:beetroot_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:bellpepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:bellpepper_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blackbean"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blackbean_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blackberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blackberry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blackberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blt"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blueberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blueberry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:blueberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:borscht"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:broccoli"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:broccoli_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:brownies"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:burrito"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:buttered_green_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:buttered_toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cabbage"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cabbage_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cabbage_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:caesar_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:calamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:candied_kumquats"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:candied_nuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:candy_corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cantaloupe"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cantaloupe_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:caramel"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:carnitas"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cashew"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cashew_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cashew_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cauliflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cauliflower_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:celery"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:celery_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cheese_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cheese_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cheeseburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cheesy_asparagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cherry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cherry_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cherry_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chicken_and_dumplings"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chicken_and_noodles"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chicken_and_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chile_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chile_pepper_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chili_relleno"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chimichanga"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chocolate_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:chocolate_milkshake"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:churros"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cinnamon"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cinnamon_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cinnamon_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cinnamon_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cinnamon_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:clam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:coconut_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:coffee_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:coffee_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cooked_anchovy"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cooked_bacon"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cooked_calamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cooked_shrimp"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cooked_tuna"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cooking_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:corn_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:corn_husk"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:corn_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cornish_pasty"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:crab"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:crab_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cranberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cranberry_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cranberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:crema"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:croque_madame"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:croque_monsieur"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cucumber"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cucumber_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:cucumber_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:currant"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:currant_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:date"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:date_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:dauphine_potatoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:deep_fried_shrimp"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:doughnut"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:dragonfruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:dragonfruit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:egg_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:eggplant_parmesan"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:eggplant_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:elderberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:elderberry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:elderberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:enchilada"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:eton_mess"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fajitas"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fig"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fig_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:figgy_pudding"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fish_and_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:flour"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:food_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:french_fries"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fried_calamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fried_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fried_frog_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:frog_legs"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fruit_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fruit_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:fruit_smoothie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:frying_pan"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:garlic"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:garlic_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ginger"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ginger_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:glowing_calamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:goulash"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grape"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grape_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grape_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grape_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grapefruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grapefruit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:greenbean"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:greenbean_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:greenonion"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:greenonion_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grilled_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grilled_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:grilled_oysters"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ground_pork"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:guide"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ham_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:hamburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:hashed_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:honeydew"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:honeydew_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:hops"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:hops_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:horchata"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kale"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kale_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kale_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kale_smoothie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kiwi"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kiwi_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kiwi_sorbet"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kumquat"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:kumquat_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:leafy_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:leek"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:leek_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:leek_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lemon"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lemon_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lemon_coconut_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lemon_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lemonade"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lettuce"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lettuce_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:lime_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:limeade"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:macaron"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mango"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mango_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mango_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mashed_potatoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mead"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:melon_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:meringue"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:milk_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:molasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mortar_and_pestle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mustard"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:mustard_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nectarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nectarine_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nether_wart_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:noodle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nougat"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nutmeg"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nutmeg_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:nutty_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:oat"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:oat_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:oatmeal"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:olive_oil"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:olive_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:onion"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:onion_rings"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:onion_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:orange_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:orange_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:oyster"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:paprika"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peach_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peach_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peanut"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peanut_butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peanut_butter_and_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peanut_butter_with_celery"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:peanut_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pear"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pear_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pecan"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pecan_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pecan_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pecan_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pepper_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pepperoni"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:persimmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:persimmon_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pineapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pineapple_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pineapple_pepperoni_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pineapple_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:plum"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:plum_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:popcorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pork_and_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pork_jerky"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:potato_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:potato_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:protein_bar"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pumpkin_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pumpkin_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:pumpkin_spice_latte"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:quesadilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:quiche"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:radish"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:radish_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:raisin_oatmeal_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:raisins"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:raspberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:raspberry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:raspberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ratatouille"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:ravioli"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:refried_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rhubarb"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rhubarb_crisp"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rhubarb_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rhubarb_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rice_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_asparagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_nuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_pumpkin_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_radishes"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_sunflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roasted_turnips"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:roe"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rum"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rum_raisin_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rutabaga"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:rutabaga_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:saguaro"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:saguaro_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:saguaro_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:salsa"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:salt_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:saucy_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sausage"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:scones"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:scrambled_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sea_lettuce"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:shepherds_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:shrimp"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:snicker_doodle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:soy_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:soy_sauce"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:soybean"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:soybean_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:spaghetti_squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:spinach"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:spinach_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:squash"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:squash_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:starfruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:starfruit_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:steamed_broccoli"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:steamed_clams"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:steamed_crab"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:steamed_green_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:steamed_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sticky_toffee_pudding"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:stir_fry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:strawberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:strawberry_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:strawberry_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:strawberry_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:strawberry_smoothie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:stripped_cinnamon_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:stripped_cinnamon_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:stuffed_artichoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:stuffed_poblanos"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sunny_side_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:supreme_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sushi"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sweet_crepes"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sweet_potato_fries"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sweetpotato"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:sweetpotato_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tamales"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tea_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tea_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:the_big_breakfast"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:toast_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:toast_with_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tofu"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tofu_and_dumplings"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tofuburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tomatillo"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tomatillo_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tomato_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tomato_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tortilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tostada"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:trail_mix"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:treacle_tart"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tres_leche_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:trifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tuna"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tuna_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:tuna_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:turmeric"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:turmeric_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:turnip"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:turnip_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:vanilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:vanilla_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:vanilla_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:veggie_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:walnut"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:walnut_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:water_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:whipping_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:wine"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:yam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:yam_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:yam_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:yoghurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:zucchini"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:zucchini_seed"
+		}
+	]
+}

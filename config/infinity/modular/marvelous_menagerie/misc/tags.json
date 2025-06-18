@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_amber_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_aqua_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_beige_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_coral_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_forest_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_ginger_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_indigo_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_maroon_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_mint_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_navy_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_olive_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_rose_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_slate_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_tan_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_teal_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_verdant_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dye_depot_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:pikaia_coral_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_log_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_log_block"
+		}
+	]
+}

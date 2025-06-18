@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dragon_breath_pour"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:nether_reactor_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:skylands_portal"
+		}
+	]
+}

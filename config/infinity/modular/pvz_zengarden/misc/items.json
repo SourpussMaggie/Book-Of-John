@@ -1,0 +1,204 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:big_flower_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:big_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:big_sun_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:blue_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bonk_choy_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bug_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:cherry_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:chomper_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:cold_snapdragon_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:fertilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:fire_pea_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:flower_pot_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:fume_shroom_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:gardening_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:gardening_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:gatling_pea_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:ghost_pepper_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:giant_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:giant_sun_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:green_sprout_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:green_sprout_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:jalapeno"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:mowed_grass_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:mowed_grass_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:peashooter_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:pickled_pepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:plantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:potato_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:puff_shroom_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:pvz_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:reddish_sapling_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:reddish_sapling_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:repeater_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:scaredy_shroom_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:small_flower_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:small_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:small_sun_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:snapdragon_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:snow_pea_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:soldier_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:sun_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:sun_shroom_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:sunflower_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:tall_flower_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:torchwood_seedpacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:wall_nut_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:zengarden_guide"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:zombie_dummy_item"
+		}
+	]
+}

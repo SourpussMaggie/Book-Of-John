@@ -1,0 +1,5092 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/autumnity/maple_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/born_in_chaos_v1/scorched_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/blazing_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_soul_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/burnt_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/ember_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_soul_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/smoldering_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_cherry_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/burnt/sooty_spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/azalea_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/coconut_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/flowering_azalea_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/ecologics/walnut_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/cerulean_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/enlightened_end/indigo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/soulblight_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/gardens_of_the_dead/whistlecane_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/iter_rpg/sacred_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/mushroom_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/luminous_nether/withered_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/marvelous_menagerie/sigillaria_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/paranormal_pleistocene/reaping_willow_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/ancient_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/azalea_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/quark/blossom_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/rats/pirat_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/scpo/scp_143_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/snifferent/globar_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/toybox/plastic_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/grongle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/smogstem_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/undergarden/wigglewood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualend/chorus_nest_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/dryo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/foxxi_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_flower_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:af/unusualprehistory/ginkgo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:all_woods"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/born_in_chaos_v1/scorched_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/blazing_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/burnt_bamboo_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/burnt_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/burnt_soul_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/ember_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/smoldering_bamboo_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/smoldering_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/smoldering_soul_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_acacia_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_birch_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_cherry_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_dark_oak_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_jungle_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_mangrove_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_oak_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/burnt/sooty_spruce_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/ecologics/azalea_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/ecologics/coconut_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/ecologics/flowering_azalea_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/ecologics/walnut_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/enlightened_end/cerulean_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/enlightened_end/indigo_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/gardens_of_the_dead/soulblight_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/gardens_of_the_dead/whistlecane_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/iter_rpg/sacred_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/luminous_nether/mushroom_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/luminous_nether/withered_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/marvelous_menagerie/sigillaria_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/paranormal_pleistocene/reaping_willow_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/quark/ancient_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/quark/azalea_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/quark/blossom_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/rats/pirat_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/scpo/scp_143_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/snifferent/globar_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/toybox/plastic_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/undergarden/grongle_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/undergarden/smogstem_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/undergarden/wigglewood_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/unusualend/chorus_nest_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/unusualprehistory/dryo_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/unusualprehistory/foxxi_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:faf/unusualprehistory/ginkgo_beehive"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/autumnity/maple_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/autumnity/maple_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/autumnity/maple_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/autumnity/maple_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/autumnity/maple_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/born_in_chaos_v1/scorched_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/born_in_chaos_v1/scorched_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/born_in_chaos_v1/scorched_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/born_in_chaos_v1/scorched_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/born_in_chaos_v1/scorched_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/blazing_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/blazing_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/blazing_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/blazing_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/blazing_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_bamboo_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_bamboo_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_bamboo_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_bamboo_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_bamboo_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_soul_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_soul_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_soul_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_soul_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_soul_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/burnt_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/ember_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/ember_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/ember_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/ember_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/ember_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_bamboo_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_bamboo_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_bamboo_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_bamboo_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_bamboo_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_soul_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_soul_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_soul_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_soul_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_soul_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/smoldering_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_acacia_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_acacia_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_acacia_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_acacia_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_acacia_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_birch_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_birch_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_birch_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_birch_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_birch_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_cherry_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_cherry_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_cherry_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_cherry_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_cherry_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_dark_oak_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_dark_oak_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_dark_oak_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_dark_oak_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_dark_oak_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_jungle_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_jungle_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_jungle_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_jungle_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_jungle_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_mangrove_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_mangrove_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_mangrove_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_mangrove_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_mangrove_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_oak_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_oak_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_oak_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_oak_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_oak_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_spruce_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_spruce_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_spruce_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_spruce_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/burnt/sooty_spruce_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/azalea_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/azalea_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/azalea_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/azalea_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/azalea_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/coconut_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/coconut_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/coconut_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/coconut_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/coconut_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/flowering_azalea_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/flowering_azalea_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/flowering_azalea_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/flowering_azalea_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/flowering_azalea_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/walnut_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/walnut_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/walnut_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/walnut_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/ecologics/walnut_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/cerulean_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/cerulean_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/cerulean_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/cerulean_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/cerulean_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/indigo_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/indigo_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/indigo_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/indigo_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/enlightened_end/indigo_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/soulblight_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/soulblight_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/soulblight_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/soulblight_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/soulblight_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/whistlecane_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/whistlecane_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/whistlecane_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/whistlecane_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/gardens_of_the_dead/whistlecane_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/iter_rpg/sacred_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/iter_rpg/sacred_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/iter_rpg/sacred_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/iter_rpg/sacred_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/iter_rpg/sacred_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/mushroom_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/mushroom_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/mushroom_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/mushroom_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/mushroom_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/withered_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/withered_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/withered_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/withered_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/luminous_nether/withered_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/marvelous_menagerie/sigillaria_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/marvelous_menagerie/sigillaria_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/marvelous_menagerie/sigillaria_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/marvelous_menagerie/sigillaria_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/marvelous_menagerie/sigillaria_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/paranormal_pleistocene/reaping_willow_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/paranormal_pleistocene/reaping_willow_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/paranormal_pleistocene/reaping_willow_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/paranormal_pleistocene/reaping_willow_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/paranormal_pleistocene/reaping_willow_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/ancient_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/ancient_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/ancient_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/ancient_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/ancient_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/azalea_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/azalea_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/azalea_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/azalea_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/azalea_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/blossom_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/blossom_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/blossom_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/blossom_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/quark/blossom_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/rats/pirat_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/rats/pirat_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/rats/pirat_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/rats/pirat_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/rats/pirat_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/scpo/scp_143_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/scpo/scp_143_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/scpo/scp_143_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/scpo/scp_143_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/scpo/scp_143_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/snifferent/globar_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/snifferent/globar_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/snifferent/globar_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/snifferent/globar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/snifferent/globar_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/toybox/plastic_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/toybox/plastic_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/toybox/plastic_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/toybox/plastic_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/toybox/plastic_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/grongle_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/grongle_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/grongle_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/grongle_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/grongle_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/smogstem_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/smogstem_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/smogstem_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/smogstem_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/smogstem_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/wigglewood_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/wigglewood_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/wigglewood_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/wigglewood_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/undergarden/wigglewood_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualend/chorus_nest_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualend/chorus_nest_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualend/chorus_nest_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualend/chorus_nest_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualend/chorus_nest_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/dryo_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/dryo_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/dryo_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/dryo_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/dryo_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/foxxi_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/foxxi_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/foxxi_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/foxxi_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/foxxi_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/ginkgo_lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/ginkgo_parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/ginkgo_sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/ginkgo_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:hnhome/unusualprehistory/ginkgo_vertical_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/autumnity/maple_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/born_in_chaos_v1/scorched_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/blazing_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/burnt_bamboo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/burnt_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/burnt_soul_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/ember_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/smoldering_bamboo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/smoldering_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/smoldering_soul_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_acacia_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_birch_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_cherry_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_dark_oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_jungle_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_mangrove_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/burnt/sooty_spruce_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/ecologics/azalea_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/ecologics/coconut_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/ecologics/flowering_azalea_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/ecologics/walnut_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/enlightened_end/cerulean_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/enlightened_end/indigo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/gardens_of_the_dead/soulblight_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/gardens_of_the_dead/whistlecane_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/iter_rpg/sacred_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/luminous_nether/mushroom_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/luminous_nether/withered_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/marvelous_menagerie/sigillaria_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/paranormal_pleistocene/reaping_willow_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/quark/ancient_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/quark/azalea_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/quark/blossom_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/rats/pirat_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/scpo/scp_143_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/snifferent/globar_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/toybox/plastic_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/undergarden/grongle_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/undergarden/smogstem_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/undergarden/wigglewood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/unusualend/chorus_nest_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/unusualprehistory/dryo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/unusualprehistory/foxxi_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:mm/unusualprehistory/ginkgo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/hollow_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/maple_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/orange_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/orange_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/red_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/red_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/stripped_maple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/vertical_maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/yellow_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/autumnity/yellow_maple_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/hollow_scorched_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/scorched_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/stripped_scorched_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/born_in_chaos_v1/vertical_scorched_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blast_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blast_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blazing_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blazing_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blazing_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blazing_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blazing_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/blazing_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_bamboo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_bamboo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_bamboo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_bamboo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_bamboo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_soul_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/burnt_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/ember_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/ember_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/ember_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/ember_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/ember_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/ember_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/hollow_burnt_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/hollow_ember_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/hollow_smoldering_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_acacia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_acacia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_bamboo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_bamboo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_bamboo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_bamboo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_bamboo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_cherry_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_cherry_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_dark_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_dark_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_jungle_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_jungle_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_mangrove_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_mangrove_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_soul_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_soul_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_soul_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_soul_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_soul_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_spruce_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/smoldering_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_acacia_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_acacia_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_acacia_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_acacia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_acacia_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_acacia_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_birch_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_birch_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_birch_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_birch_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_birch_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_birch_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_cherry_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_cherry_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_cherry_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_cherry_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_cherry_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_cherry_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_dark_oak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_dark_oak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_dark_oak_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_dark_oak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_dark_oak_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_dark_oak_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_jungle_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_jungle_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_jungle_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_jungle_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_jungle_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_jungle_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_mangrove_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_mangrove_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_mangrove_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_mangrove_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_mangrove_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_mangrove_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_oak_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_oak_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_oak_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_oak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_oak_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_oak_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_spruce_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_spruce_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_spruce_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_spruce_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_spruce_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/sooty_spruce_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_acacia_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_acacia_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_cherry_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_cherry_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_jungle_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_jungle_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_mangrove_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_mangrove_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_oak_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_spruce_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/soul_spruce_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/stripped_burnt_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/stripped_smoldering_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_blazing_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_burnt_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_burnt_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_burnt_soul_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_ember_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_smoldering_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_smoldering_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_smoldering_soul_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_cherry_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/burnt/vertical_sooty_spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/croptopia/cinnamon_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/croptopia/cinnamon_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/azalea_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/azalea_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/azalea_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/azalea_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/azalea_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/azalea_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/coconut_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/flowering_azalea_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/flowering_azalea_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/flowering_azalea_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/flowering_azalea_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/flowering_azalea_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/flowering_azalea_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/hollow_azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/hollow_coconut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/hollow_flowering_azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/hollow_walnut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/stripped_azalea_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/stripped_coconut_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/stripped_walnut_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/vertical_azalea_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/vertical_coconut_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/vertical_flowering_azalea_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/vertical_walnut_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/ecologics/walnut_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/cerulean_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/hollow_cerulean_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/hollow_indigo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/indigo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/stripped_indigo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/vertical_cerulean_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/enlightened_end/vertical_indigo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/hollow_soulblight_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/soulblight_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/stripped_soulblight_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/vertical_soulblight_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/vertical_whistlecane_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/gardens_of_the_dead/whistlecane_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/hollow_sacred_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/sacred_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/iter_rpg/vertical_sacred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/ash_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/ash_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/mushroom_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/mushroom_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/mushroom_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/mushroom_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/vertical_mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/vertical_withered_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/withered_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/withered_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/withered_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/withered_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminous_nether/withered_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminousworld/palm_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminousworld/palm_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminousworld/yellow_birch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/luminousworld/yellow_birch_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/hollow_sigillaria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/sigillaria_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/stripped_sigillaria_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/marvelous_menagerie/vertical_sigillaria_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/hollow_reaping_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/reaping_willow_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/stripped_reaping_willow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/paranormal_pleistocene/vertical_reaping_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/hollow_pirat_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/pirat_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/stripped_pirat_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rats/vertical_pirat_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rediscovered/ancient_cherry_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/rediscovered/ancient_cherry_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/scp_143_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/scpo/vertical_scp_143_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/globar_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/globar_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/globar_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/globar_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/globar_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/globar_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/hollow_globar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/stripped_globar_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/snifferent/vertical_globar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/blue_gummy_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/blue_gummy_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/chocolate_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/chocolate_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/milk_chocolate_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/milk_chocolate_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/white_chocolate_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/white_chocolate_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/yellow_gummy_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/sweet_calamity/yellow_gummy_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/plastic_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/toybox/vertical_plastic_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/grongle_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/hollow_grongle_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/hollow_smogstem_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/hollow_wigglewood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/smogstem_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/stripped_grongle_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/stripped_smogstem_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/stripped_wigglewood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/vertical_grongle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/vertical_smogstem_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/vertical_wigglewood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/undergarden/wigglewood_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/chorus_nest_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/hollow_chorus_nest_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualend/vertical_chorus_nest_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/dryo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/foxxi_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_leaf_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_trapped_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/ginkgo_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/hollow_dryo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/hollow_foxxi_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/hollow_ginkgo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/stripped_dryo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/stripped_foxxi_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/stripped_ginkgo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/vertical_dryo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/vertical_foxxi_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:q/unusualprehistory/vertical_ginkgo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/autumnity/maple_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/autumnity/maple_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/born_in_chaos_v1/scorched_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/born_in_chaos_v1/scorched_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/blazing_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/blazing_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/burnt_bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/burnt_bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/burnt_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/burnt_soul_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/burnt_soul_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/burnt_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/ember_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/ember_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/smoldering_bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/smoldering_bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/smoldering_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/smoldering_soul_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/smoldering_soul_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/smoldering_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_cherry_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_cherry_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/burnt/sooty_spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/azalea_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/azalea_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/coconut_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/coconut_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/flowering_azalea_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/flowering_azalea_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/walnut_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/ecologics/walnut_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/enlightened_end/cerulean_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/enlightened_end/cerulean_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/enlightened_end/indigo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/enlightened_end/indigo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/gardens_of_the_dead/soulblight_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/gardens_of_the_dead/soulblight_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/gardens_of_the_dead/whistlecane_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/gardens_of_the_dead/whistlecane_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/iter_rpg/sacred_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/iter_rpg/sacred_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/luminous_nether/mushroom_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/luminous_nether/mushroom_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/luminous_nether/withered_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/luminous_nether/withered_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/marvelous_menagerie/sigillaria_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/marvelous_menagerie/sigillaria_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/paranormal_pleistocene/reaping_willow_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/paranormal_pleistocene/reaping_willow_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/quark/ancient_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/quark/ancient_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/quark/azalea_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/quark/azalea_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/quark/blossom_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/quark/blossom_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/rats/pirat_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/rats/pirat_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/scpo/scp_143_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/scpo/scp_143_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/snifferent/globar_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/snifferent/globar_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/toybox/plastic_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/toybox/plastic_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/undergarden/grongle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/undergarden/grongle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/undergarden/smogstem_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/undergarden/smogstem_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/undergarden/wigglewood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/undergarden/wigglewood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualend/chorus_nest_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualend/chorus_nest_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualprehistory/dryo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualprehistory/dryo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualprehistory/foxxi_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualprehistory/foxxi_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualprehistory/ginkgo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rdscvrd/unusualprehistory/ginkgo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/autumnity/maple_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/autumnity/maple_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/autumnity/maple_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/born_in_chaos_v1/scorched_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/born_in_chaos_v1/scorched_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/born_in_chaos_v1/scorched_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/blazing_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/blazing_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/blazing_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_bamboo_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_bamboo_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_bamboo_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_soul_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_soul_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/burnt_soul_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/ember_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/ember_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/ember_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_bamboo_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_bamboo_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_bamboo_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_soul_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_soul_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/smoldering_soul_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_acacia_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_acacia_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_acacia_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_birch_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_birch_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_birch_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_cherry_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_cherry_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_cherry_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_dark_oak_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_dark_oak_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_dark_oak_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_jungle_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_jungle_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_jungle_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_mangrove_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_mangrove_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_mangrove_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_oak_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_oak_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_oak_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_spruce_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_spruce_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/burnt/sooty_spruce_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/azalea_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/azalea_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/azalea_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/coconut_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/coconut_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/coconut_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/flowering_azalea_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/flowering_azalea_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/flowering_azalea_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/walnut_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/walnut_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/ecologics/walnut_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/enlightened_end/cerulean_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/enlightened_end/cerulean_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/enlightened_end/cerulean_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/enlightened_end/indigo_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/enlightened_end/indigo_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/enlightened_end/indigo_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/gardens_of_the_dead/soulblight_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/gardens_of_the_dead/soulblight_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/gardens_of_the_dead/soulblight_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/gardens_of_the_dead/whistlecane_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/gardens_of_the_dead/whistlecane_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/gardens_of_the_dead/whistlecane_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/iter_rpg/sacred_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/iter_rpg/sacred_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/iter_rpg/sacred_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/luminous_nether/mushroom_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/luminous_nether/mushroom_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/luminous_nether/mushroom_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/luminous_nether/withered_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/luminous_nether/withered_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/luminous_nether/withered_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/marvelous_menagerie/sigillaria_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/marvelous_menagerie/sigillaria_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/marvelous_menagerie/sigillaria_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/paranormal_pleistocene/reaping_willow_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/paranormal_pleistocene/reaping_willow_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/paranormal_pleistocene/reaping_willow_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/ancient_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/ancient_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/ancient_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/azalea_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/azalea_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/azalea_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/blossom_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/blossom_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/quark/blossom_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/rats/pirat_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/rats/pirat_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/rats/pirat_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/scpo/scp_143_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/scpo/scp_143_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/scpo/scp_143_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/snifferent/globar_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/snifferent/globar_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/snifferent/globar_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/toybox/plastic_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/toybox/plastic_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/toybox/plastic_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/grongle_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/grongle_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/grongle_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/smogstem_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/smogstem_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/smogstem_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/wigglewood_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/wigglewood_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/undergarden/wigglewood_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualend/chorus_nest_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualend/chorus_nest_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualend/chorus_nest_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/dryo_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/dryo_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/dryo_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/foxxi_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/foxxi_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/foxxi_connect_four"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/ginkgo_chess"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/ginkgo_chess_timer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:ttc/unusualprehistory/ginkgo_connect_four"
+		}
+	]
+}

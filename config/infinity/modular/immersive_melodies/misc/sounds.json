@@ -1,0 +1,292 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet.c8"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c1"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c2"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c3"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c4"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c5"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c6"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c7"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle.c8"
+		}
+	]
+}

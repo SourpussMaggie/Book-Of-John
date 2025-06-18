@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:broken_nut"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:ghost_pepper_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:spore"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 11184810,
+				"Instant": false,
+				"Name": "oreganized:lung_damage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 7235236,
+				"Instant": false,
+				"Name": "oreganized:stunning"
+			}
+		}
+	]
+}

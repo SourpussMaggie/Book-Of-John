@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16767620,
+				"Instant": false,
+				"Name": "autumnity:extension"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 14722092,
+				"Instant": false,
+				"Name": "autumnity:foul_taste"
+			}
+		}
+	]
+}

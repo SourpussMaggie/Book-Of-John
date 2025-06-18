@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:barred_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:barred_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:chimneys"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:columns"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:lattices"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:paper_lanterns"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:parquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:parquets"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:sanded_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:stained_barred_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:stained_barred_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "hearth_and_home:trims"
+		}
+	]
+}

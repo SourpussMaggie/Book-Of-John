@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6628754,
+				"Instant": false,
+				"Name": "luminous_nether:antidote"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6321,
+				"Instant": false,
+				"Name": "luminous_nether:automending"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -6222326,
+				"Instant": false,
+				"Name": "luminous_nether:hemorrhage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -9655,
+				"Instant": false,
+				"Name": "luminous_nether:infected"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -9061922,
+				"Instant": false,
+				"Name": "luminous_nether:levitation"
+			}
+		}
+	]
+}

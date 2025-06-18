@@ -1,0 +1,520 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_foliage.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_foliage.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_foliage.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_foliage.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_foliage.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_grass.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_grass.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_grass.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_grass.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_grass.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_moss.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_moss.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_moss.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_moss.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.alphacene_moss.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.collect"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.enter"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.exit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.birt_dwelling.work"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_hair.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_hair.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_hair.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_hair.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_hair.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_meat.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_meat.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_meat.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_meat.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.frozen_meat.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.petrified_egg.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.petrified_egg.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.petrified_egg.plop"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.springling_egg.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.springling_egg.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.springling_egg.plop"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.wraptor_egg.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.wraptor_egg.crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:block.wraptor_egg.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:effect.birtd.applied"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:effect.gut_feeling.applied"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:effect.gut_feeling.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:effect.gut_feeling.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.birt.message"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.cruncher.stun"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.deepfish.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.idle_resting"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.lay_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.rear_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.sneeze"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.goober.yawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.deflect"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.limpet.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.bleed"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.cough"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.mammutiful_howl"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.mammutilation.mammutiful_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.goofy_aah_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.snoring"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.roombug.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.extend"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.extend_finish"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.springling.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.idle_planted"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.shake_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.shake_success"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.treeper.uproot"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.trooper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.trooper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.trooper.leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.trooper.plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.trooper.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.trooper.uproot"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.aggro"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.agitated"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.feather_loss"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:entity.wraptor.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.birt_egg.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.birt_egg.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.cracked_wraptor_egg.slurp"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.ichor_bottle.applied"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.youth_potion.baby"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:item.youth_potion.stumped"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:baby_john_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:bloody_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:freed_spirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:immortality_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:immortalitygem"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:john_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:mega_john_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:music_disc_john_mod"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:perennial_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:table_of_johns"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:table_of_johns_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:veil_o_johns"
+		}
+	]
+}

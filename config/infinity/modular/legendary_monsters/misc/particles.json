@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:black_hole"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorus_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:flame_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:soul_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:tornado"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:tornado_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:warning"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:milk_chocolate_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_logs"
+		}
+	]
+}

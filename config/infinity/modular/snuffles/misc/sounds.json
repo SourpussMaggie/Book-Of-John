@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "snuffles:block.frosty_fluff.thaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.shear"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.style"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:entity.snuffle.thaw"
+		}
+	]
+}

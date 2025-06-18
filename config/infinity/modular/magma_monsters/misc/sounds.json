@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "magma_monsters:magma_monster_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "magma_monsters:magma_monster_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "magma_monsters:magma_monster_living"
+		}
+	]
+}

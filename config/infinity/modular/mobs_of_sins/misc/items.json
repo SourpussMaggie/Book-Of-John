@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:capucin_monkey_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:cockroach_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:frilled_shark_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:gazelle_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:grizzly_bear_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:mobs_of_sins_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:nuisances_muscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:rattle_sickle_of_struggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:soul_sickle_of_struggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:tarantula_hawk_muscles"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:tentacle_sickle_of_struggle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mobs_of_sins:tiger_muscles"
+		}
+	]
+}

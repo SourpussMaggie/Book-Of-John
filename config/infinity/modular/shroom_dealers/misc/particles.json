@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:earth_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:earth_small"
+		}
+	]
+}

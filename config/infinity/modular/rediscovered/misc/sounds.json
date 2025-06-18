@@ -1,0 +1,260 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.nether_reactor.activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.nether_reactor.deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.nether_reactor.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.red_dragon_egg.fertilize"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.red_dragon_egg.hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.red_dragon_egg.shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.rotational_converter.click"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.table.add_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:block.table.remove_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.beast_boy.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.beast_boy.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.black_steve.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.black_steve.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.dragon_pylon.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.dragon_pylon.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.dragon_pylon.shield_lost"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.fish.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.fish.flop"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.fish.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.agree"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.disagree"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.scared"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.work_bowyer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.work_doctor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.work_metalworker"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.work_tailor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.work_technician"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pigman.zombify"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pylon_burst.destroyed"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.pylon_burst.explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.rana.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.rana.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.bolt_ball_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.bolt_ball_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.equip_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.equip_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.flap"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.idle_calm"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.prepare_thunder_clouds"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.prepare_wind_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.shed_bursts"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.shield_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.red_dragon.wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.steve.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.steve.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.cure"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.finish_cure"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.select_melee"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:entity.zombie_pigman.select_ranged"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:item.armor.equip_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:item.armor.equip_studded"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:records.magnetic_circuit"
+		}
+	]
+}

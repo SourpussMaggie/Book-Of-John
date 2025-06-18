@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 10029835,
+				"Instant": false,
+				"Name": "rediscovered:crimson_veil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16757327,
+				"Instant": false,
+				"Name": "rediscovered:golden_aura"
+			}
+		}
+	]
+}

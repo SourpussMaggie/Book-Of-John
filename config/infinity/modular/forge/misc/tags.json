@@ -1,0 +1,824 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "forge:air"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:air_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:air_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:barrels"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:barrels/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:bookshelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:canblockbeastpit"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests/ender"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests/trapped"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:chests/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/infested"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/mossy"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:cobblestone/normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:conductive_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:crafting_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:crops/flax"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:earth_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:end_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:end_stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:enderman_place_on_blacklist"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fence_gates/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fences/nether_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fences/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fiber"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fiber/flax"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:fire_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:geodites"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/silica"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/tinted"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:glass_panes/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:has_inventory_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:huge_mushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:immovable"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:iter_projectile_passable"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ladders"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:melts_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:mushroom_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:mushroom_caps"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:mushroom_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:needs_diamond_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:needs_iron_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:needs_netherite_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:needs_stone_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:needs_wood_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/depthrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/shiverstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_bearing_ground/tremblecrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_rates/dense"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_rates/singular"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ore_rates/sparse"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/cloggrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/froststeel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/gem_of_ratlantis"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/malachite"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/netherite_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/oratchalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/randomium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/regalium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/utherium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores/zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/depthrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/shiverstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ores_in_ground/tremblecrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:pollen"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:relocation_not_supported"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:ropes"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sand/colorless"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sand/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stained_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stained_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/anthralite"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/beetroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/blaze_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/blue_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/brass"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/charcoal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/chorus_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/cloggrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/cocoa_beans"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/electrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/forgotten_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/froststeel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/glow_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/golden_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/golden_carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/gunpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/neptunium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/nether_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/nether_wart"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/oratchalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/rabbit_hide"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_cloggrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_froststeel"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/regalium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/sugar_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/sulfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/sweet_berries"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/utherium"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/wax"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:storage_blocks/zinc"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stripped_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:stripped_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:top_soil_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:under_soil_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:vases"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:void_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:water_element"
+		},
+		{
+			"weight": 1.0,
+			"key": "forge:wood"
+		}
+	]
+}

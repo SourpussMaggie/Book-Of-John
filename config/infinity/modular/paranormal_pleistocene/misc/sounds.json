@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:entity.necrosloth.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:entity.necrosloth.emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:entity.necrosloth.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:entity.necrosloth.idle"
+		}
+	]
+}

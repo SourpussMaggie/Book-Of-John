@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9474192,
+				"Instant": false,
+				"Name": "biomancy:armor_shred"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9044739,
+				"Instant": false,
+				"Name": "biomancy:bleed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3800852,
+				"Instant": false,
+				"Name": "biomancy:corrosive"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 14514175,
+				"Instant": false,
+				"Name": "biomancy:despoil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 10186930,
+				"Instant": false,
+				"Name": "biomancy:drowsy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 16711422,
+				"Instant": false,
+				"Name": "biomancy:essence_anemia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 13697052,
+				"Instant": false,
+				"Name": "biomancy:frenzy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": 14707320,
+				"Instant": false,
+				"Name": "biomancy:libido"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 12467937,
+				"Instant": false,
+				"Name": "biomancy:primordial_infestation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 6048648,
+				"Instant": false,
+				"Name": "biomancy:withdrawal"
+			}
+		}
+	]
+}

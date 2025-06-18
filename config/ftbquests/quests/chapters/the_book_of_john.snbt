@@ -1,0 +1,235 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "octagon"
+	filename: "the_book_of_john"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: "alexsmobs:void_worm_eye"
+	id: "7A306B3A63DCC79F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["the quests in this pack are &lnon-linear&r because linear quest progression is stupid and antithetical to the sandbox-y way this modpack is designed"]
+			icon: {
+				Count: 1
+				id: "toybox:vortex_of_fun"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6C3CFFB67DF42E0D"
+			rewards: [{
+				id: "63502E8D05741122"
+				item: {
+					Count: 1
+					id: "travelersbackpack:standard"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "the first one's free"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "born_in_chaos_v1:orbofthe_summoner"
+				id: "6C095326E5454320"
+				type: "dimension"
+			}]
+			title: "Howdy"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			description: ["&nFUN FACT&r: there was a short-lived period of this modpack's development where the player initially spawned in Toybox. that was dumb i'm glad i got rid of it"]
+			id: "3B422AF46C6152F4"
+			rewards: [{
+				count: 5
+				id: "4EEFD6C6C77ED202"
+				item: "gnumus:gnumus_totem"
+				type: "item"
+			}]
+			subtitle: "we're going to the green dimension!"
+			tasks: [{
+				dimension: "toybox:toybox"
+				icon: {
+					Count: 1
+					id: "toybox:toybox"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "7AD2AFFCF8DDA0B1"
+				type: "dimension"
+			}]
+			title: "An Eerie Place"
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			id: "26E3D6FBAEB35815"
+			rewards: [{
+				count: 10
+				id: "39B2467B7D92B860"
+				item: "clay:soldier/clay"
+				type: "item"
+			}]
+			subtitle: "it's sticky in here"
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				icon: {
+					Count: 1
+					id: "undead_revamp2:queenbeeperfume"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "20B451CF595EFA9E"
+				type: "dimension"
+			}]
+			title: "Get Buzzed"
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			id: "2C09FA2C8A01CC12"
+			rewards: [{
+				id: "65298A5D1F537094"
+				item: "exposure:camera"
+				type: "item"
+			}]
+			subtitle: "sightseeing"
+			tasks: [{
+				dimension: "undergarden:undergarden"
+				icon: "undergarden:catalyst"
+				id: "6170065C9995C411"
+				type: "dimension"
+			}]
+			title: "Baby's First Portal"
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "0BC48CECD232CF58"
+			rewards: [
+				{
+					count: 6
+					id: "10B4303FB5FF6BD6"
+					item: "oreganized:raw_silver"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "7C59DBCDD91CAE50"
+					item: "undergarden:raw_cloggrum"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "5BAABE97A7516398"
+					item: "oreganized:raw_lead"
+					type: "item"
+				}
+			]
+			subtitle: "get broiled idiot"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "nethersdelight:raw_stuffed_hoglin"
+				id: "41397A0CE9790862"
+				type: "dimension"
+			}]
+			title: "The Pit of Fire"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "79E069CBCFDE3D30"
+			rewards: [{
+				id: "55A1FD632AC9F589"
+				item: "scpo:scp_458"
+				type: "item"
+			}]
+			subtitle: "beyond the stars"
+			tasks: [{
+				dimension: "rats:ratlantis"
+				icon: "rats:idol_of_ratlantis"
+				id: "07E792F8F866ADB5"
+				type: "dimension"
+			}]
+			title: "True Endgame"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "74D26EEC115425B3"
+			rewards: [{
+				id: "38C22646E31807E8"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "archeryexp:baby_face"
+							lvl: 2s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "back to the past samurai jack"
+			tasks: [{
+				dimension: "rediscovered:skylands"
+				icon: "rediscovered:ruby_flute"
+				id: "3BDEF8C7FE579302"
+				type: "dimension"
+			}]
+			title: "But Not Forgotten"
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			id: "4EDFF1A266433184"
+			rewards: [{
+				id: "4AE6E334AE014E19"
+				item: "royalvariations:spiritual_crown"
+				type: "item"
+			}]
+			subtitle: "say hi to Jean for me"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:dragon_head"
+				id: "2E0B419C290EA57D"
+				type: "dimension"
+			}]
+			title: "Space Adventure"
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			id: "74B8ED65A94D8E4E"
+			rewards: [{
+				count: 8
+				id: "5F0BBB1DDFFCC36D"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			subtitle: "scrappy mechanic?"
+			tasks: [{
+				id: "6025CDCAF82477FC"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Bamboozled"
+			x: -1.0d
+			y: 2.0d
+		}
+	]
+	subtitle: ["worlds ad infinitum"]
+	title: "THE YEARNING"
+}

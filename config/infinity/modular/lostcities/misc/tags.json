@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lostcities:easybreakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "lostcities:foliage"
+		},
+		{
+			"weight": 1.0,
+			"key": "lostcities:lights"
+		},
+		{
+			"weight": 1.0,
+			"key": "lostcities:needspoi"
+		},
+		{
+			"weight": 1.0,
+			"key": "lostcities:notbreakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "lostcities:rotatable"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:vanilla_beds"
+		}
+	]
+}

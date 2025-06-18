@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 6188954,
+				"Instant": false,
+				"Name": "unusualprehistory:brachi_protection"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 8171462,
+				"Instant": false,
+				"Name": "unusualprehistory:health_reduction"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 12984095,
+				"Instant": false,
+				"Name": "unusualprehistory:pachys_might"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 15788513,
+				"Instant": false,
+				"Name": "unusualprehistory:prevent_click"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 15788513,
+				"Instant": false,
+				"Name": "unusualprehistory:screen_shake"
+			}
+		}
+	]
+}

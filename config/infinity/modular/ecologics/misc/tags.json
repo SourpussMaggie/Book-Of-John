@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguins_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_logs"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_sparkle"
+		}
+	]
+}

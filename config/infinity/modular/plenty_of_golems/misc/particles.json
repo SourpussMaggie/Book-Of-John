@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:beam_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:cocoa"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:enchant"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:log_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ray_gun_particle"
+		}
+	]
+}

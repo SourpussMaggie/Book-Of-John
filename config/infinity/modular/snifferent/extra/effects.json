@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1322872,
+				"Instant": false,
+				"Name": "snifferent:sniffing"
+			}
+		}
+	]
+}

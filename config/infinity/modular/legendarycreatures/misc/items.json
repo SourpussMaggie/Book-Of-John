@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:bullfrog_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:desert_mojo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:ender_wisp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:forest_mojo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:nether_wisp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:peacock_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scarecrow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_baby_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:straw_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:wisp_spawn_egg"
+		}
+	]
+}

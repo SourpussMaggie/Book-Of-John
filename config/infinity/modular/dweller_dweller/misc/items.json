@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:disc_fragment_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:dweller_dweller_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:dweller_dweller_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:music_disc_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:ominous_presence_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:teeth_necklace_chestplate"
+		}
+	]
+}

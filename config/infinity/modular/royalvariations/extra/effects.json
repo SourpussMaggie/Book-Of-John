@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -12356571,
+				"Instant": false,
+				"Name": "royalvariations:chosen_victim"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10460054,
+				"Instant": false,
+				"Name": "royalvariations:headshot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11907239,
+				"Instant": false,
+				"Name": "royalvariations:knighting"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -7004385,
+				"Instant": false,
+				"Name": "royalvariations:skillrecharge"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8994267,
+				"Instant": false,
+				"Name": "royalvariations:toxic_spores"
+			}
+		}
+	]
+}

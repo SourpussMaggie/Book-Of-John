@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "monster",
+				"Name": "bogos_binted:alien_cat"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "underground_water_creature",
+				"Name": "bogos_binted:alien_rat_entity"
+			}
+		}
+	]
+}

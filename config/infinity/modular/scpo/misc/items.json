@@ -1,0 +1,1604 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scpo:acid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:amnc_227"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:anti_memetics"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:attack_telekill_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:azazel_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:azazel_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:baby_scp_939_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:baja_dile_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:big_containment_door_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:big_containment_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:big_containment_door_opened"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:black_moon_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:black_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:blue_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:blue_unity_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:boreal_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:boreal_reaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:broken_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:brown_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cage_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:candy_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:candyblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:candygreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:candyred"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:carmin_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:caution_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:chair_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:charged_telekill_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:clipboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cobalt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cobalt_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cobalt_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cobalt_ore_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:coffee_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:coffee_machine_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:coffee_machine_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:coffee_machine_stage_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:coke_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:computer"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:computer_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:containment_door_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:containment_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:containment_door_opened"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cotton_soda_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:crowbar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cupcake"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cupholder"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cured_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cyan_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:d_class_clothing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:dash_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:deepslate_iridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:deepslate_platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:dillager_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:dillager_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:dillager_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:dillager_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:dillager_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:empty_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:entity_when_day_breaks_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_bottom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_ceiling_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_checkered_tile_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_checkered_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_checkered_tile_stair"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_middle_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_tile_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_tile_floor_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_tile_floor_stair"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:ez_top_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:femur_breaker_entity_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:femurbreaker_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:filling_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:fire_extinguisher"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:first_tp_087"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:floodlamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:floodlamp_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:floodlamp_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:flourecent_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:food_counter_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:food_counter_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:frosty_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:frosty_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:gas_mask_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:gray_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:green_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:gus_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:gus_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:h_2_o_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:h_2_o_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hand_cuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hazmat_suit_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hazmat_suit_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hazmat_suit_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hazmat_suit_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hc_metal_panel_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hc_metal_panel_floor_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hc_metal_panel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hc_middle_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hc_middle_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:hc_middle_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:heavy_containment_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:heavy_containment_door_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:heavy_containment_door_opened"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_058"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_066"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_0662"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_1000"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_105"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_106"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_131_a"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_131_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_457"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_650"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_682"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_87"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_966"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_999"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_camera"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_contact"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_cow_seed"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_femur"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_happy_105"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:icon_josie"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:iridium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:iridium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:iridium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:iron_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:item_locker"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_omni"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:krylon_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:label_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:label_item_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:label_item_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:label_item_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:label_item_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:large_door_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:large_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:large_door_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lavander"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lavender_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lcz_bottom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lcz_ceiling_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lcz_middle_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lcz_middle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lcz_middle_stair"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lcz_top_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:light_blue_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:light_gray_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:lime_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:magenta_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:magnetic_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mauler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:metal_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:milkyfur_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:milkyfur_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mimicry"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:money"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:moneyprinter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mystery_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:no_voices"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:nvg_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:office_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:office_desk_left"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:office_desk_right"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:office_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:office_door_double"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:orange_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pancakes_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pancakes_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:papercup"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:papercup_coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:papercup_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pda"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:phone_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pink_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_bianca"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_biscuit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_colzone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_deepdish"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_fleshy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_greenpepper"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_hawaiian"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_margherita"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_neopolitan"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_olive_onion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_pepperoni"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_square"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_swedish"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:pizza_taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:platinum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:polaroid"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:portal_093_lower"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:portal_093_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:portal_overworld_lower"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:portal_overworld_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:portrait_049"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:portrait_049_anger"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:potted_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:projectile_058"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:purple_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_amongus"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_bleach"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_burning"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_darknight"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_donka"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_hardbass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_hysteria"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_jojo"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_kayava"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_lethal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_lobotomy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_maxwell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_muzak"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_noiz"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_scp"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_seduce"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_shanty"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_spaces"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_zomboid"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:raw_cobalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:raw_cobalt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:raw_iridium"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:raw_iridium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:raw_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:raw_platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:red_hand"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:red_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:redacted_soda_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_c_sim_top_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_bottom_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_bottom_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_bottom_small_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_large_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_large_door_solid"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:right_click_sim_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:rightclick_sim_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:rightclicm_sim_door_s"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:roomba_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_005"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_006_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_009"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_009_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_019"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_0192_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_023_item_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_023_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_055"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_066"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_0662_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_087_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_087_block_teleport_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_087_block_teleporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_087_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_093"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_098_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1000_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_a_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_a_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_b_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_c_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_c_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_105_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1079"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1079_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_111_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_113"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_131_b_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_131_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1471_a_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1507_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1548_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_178_creature_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_178_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_207"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_207_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_2501"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_250_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_280_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_3199_baby_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_3199_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_330"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_409"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_409_spread"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_420_j"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_457_flamethrower"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_457_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_458"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_5175"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_529_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_538_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_6051_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_650_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_689item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_745_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_843"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_8432_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_biped_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_93_unclean_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_966_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_96_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_999_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_card_reader"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scredriver_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:screwdriver"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:secretion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:senbonzakura"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spikebot_berry_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spikebot_tomato_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spino_plush"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spino_plush_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spiral"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spot_item_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spot_item_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:spotlight_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:stitch_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:stool_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:stripped_143_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:stripped_scp_143_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:structure_gen_french_house"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:structure_gen_helipad"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:structure_gen_mudpit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:structure_gen_stairwell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tape_recorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:telekill_alloy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:telekill_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:telekill_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:telekill_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:the_contact_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:trash_bin"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:trash_bin_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:trash_bin_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:trash_bin_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:trash_bin_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:unity_office_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:unity_office_door_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_blue_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_blue_u"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_light_blue_u"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_orange_u"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_pink_u"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_drink_red_u"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_light_blue_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_orange_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_pink_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_red_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:wakeup_call"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:wall_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:water_dispenser_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:water_dispenser_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:water_dispenser_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:yellow_phone"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:yellow_unity_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:zombie_candy"
+		}
+	]
+}

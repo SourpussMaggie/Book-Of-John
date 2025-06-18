@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:falling_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:melting"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:orange_confetti"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:purple_confetti"
+		}
+	]
+}

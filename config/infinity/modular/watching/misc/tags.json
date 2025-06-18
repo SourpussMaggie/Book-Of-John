@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "watching:air_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:footsteps_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:glass_sight_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:liquid"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:shrine_center"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:sight_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:spawning_raycast/no_col_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:spawning_raycast/pause_raycast"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:spotted/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:torch_nonspawn_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:torch_spawn_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "watching:torches"
+		}
+	]
+}

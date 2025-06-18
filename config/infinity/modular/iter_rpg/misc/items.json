@@ -1,0 +1,1888 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:abstruse_cloth"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:abyss_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:abyssquartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:abyssquartz_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:abyssquartz_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_elemental_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_runestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:amethyst_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ametrine_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ancient_knowledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:arcane_bouquete"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:arcane_flower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:arcanist_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:arthropod_catacombs_gen_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:awakened_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:axebeak_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:axebeak_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:axebeak_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:azure_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:azure_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:azure_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:azure_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:barrier_projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:beer_mug"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:big_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:big_vase_deco"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:blackstone_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:blackstone_geodite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bloated_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:blood_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bloodbranch"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bloodletter"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bloodroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bloodthirst"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bonb"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bone_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bottle_of_obsidian_tears"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:bowstring"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:calibrated_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:caltrop"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:carcass_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cattail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:chaos_apparition_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:charged_grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:chiseled_grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cobbled_obscurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cog_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:coin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:coin_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:coin_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:compacted_sorrowsealed"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:component_deposit"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cooked_axebeak_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cracked_grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cracked_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:crescent"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:crumbling_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cruncher"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:crystal_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:cut_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:damned_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:damned_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:damned_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:damned_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:deepslate_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:deepslate_geodite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:deepsteel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:deepsteel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:deepsteel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:deepsteel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:demon_fangs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:demonbone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:demonbone_fragments"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:demonbones"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:devilthorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:diamond_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:diamond_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:diamond_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:diamond_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:driftbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:dwarf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:dwarven_components"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_elemental_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_runestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:empty_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:enchanted_page"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:enchantome"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:endstone_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:endstone_geodite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:essence_of_creation"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:eternal_torrent"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ether_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:etherbloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:etherbloom_decoction"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:etherbrew"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:festering_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fiend_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_elemental_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_runestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:firestarter"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:first_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flawless_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flawless_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flawless_magmanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flesh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flesh_weaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fleshmite_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:generic_dungeon_gen_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:geodite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_phantom_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:giant_weeper_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gist"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:glowcyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gnawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:goblin_dungeon_gen"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:goblin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:goblin_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:goblin_warrior_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gobsteel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gobsteel_javelin"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gobsteel_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_abyssquartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_awakened_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_magmanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gold_ring_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:golden_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:golden_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:golden_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:golden_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grand_spire_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grave_cross"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:griever_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grim_keyhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grim_locker"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grim_soultrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimace_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_pebble"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gunpowder_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:halflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:harvest"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:haunted_splinter"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:heart_of_evil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hivestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hivestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hivestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hobgoblin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hollow_visage"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:humie_butcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:hydra_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:infested_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ink_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:insatiable_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_abyssquartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_awakened_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_magmanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_ring_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:iron_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:keeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:magmanum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:marrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mob_placer"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_door_starter"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:monolith_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mournstone_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mudkin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:mug"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_abyssquartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_awakened_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_magmanum"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_ring_sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherite_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherrack_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:netherrack_geodite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:neural_appendage"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:neural_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:nimble_copper_shortstaff"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:obscurite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:otherwordly_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:pearl_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:pearl_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:pebble_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:peeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:pigboss_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:polished_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:polished_grimstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:polished_grimstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:polished_grimstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:potsherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:primordial_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:primordial_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:prismatic_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:prismauler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:prismaw_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:profane_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ragged_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ragged_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ragged_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ragged_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:recurve_bow"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:revenant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:ring_mould"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:rune_of_chaos"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:runic_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:runic_grimstone_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:runic_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_twig"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sacred_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sanguarnet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sanguarnet_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sanguarnet_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:scab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:scallop_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:seashell"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:seven_seas_concoction"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:silky_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:small_scallop_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:small_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:small_vase_deco"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:smoldering_tome"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:smooth_monolith_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:smooth_monolith_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:smooth_monolith_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:smooth_monolith_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:solstice"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sorrow_spire_gen_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sorrowsealed_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spawner_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_attract"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_cultivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_droplets"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_embers"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_etherblast"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_etherbolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_flamebolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_frost_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_ignite"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_lesser_heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_mend"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_poison_gas"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_recall"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_scribbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_shadelash"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_splashes"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_voidbeam"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spell_zap"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spider_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spider_mead_mug"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spider_silk"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spider_silk_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spiderling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spire_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stardust_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:starfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:starlessness"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stone_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stone_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stone_geode"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stone_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stone_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stormcaller"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:stripped_sacred_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:sword_of_bounding"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tall_glowcyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tall_neural_appendage"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tear_catcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tendons_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:the_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:thews_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:thunderclap"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tombstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tombstone_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tombstone_fragments_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:tormentor"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:twiffle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:twiffle_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:twiffle_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:twiffle_lump"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:unbound_soul_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:unidentified_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:vase_deco"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:very_good_and_cheerful_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:vile_tissue"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_elemental_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_maw"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_runestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:volatile_fireball_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:warped_goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_elemental_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_runestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:weaved_hivestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:weeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:witchmud"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:wodden_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:wooden_flail"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:wooden_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:wooden_spear"
+		}
+	]
+}

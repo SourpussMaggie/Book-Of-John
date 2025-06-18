@@ -1,0 +1,468 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:amethy_ststatue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:amethyst_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:amethystgolem_statueitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ancient_of_prismarine_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ancient_of_prismarine_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ancient_of_prismarine_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:andesite_golemin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:anvil_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:bamboo_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:barrel_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:bigsnowballentityeffect_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:blast_furnace_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:blu_fire_zone_placeble_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:blue_concrete_golemin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:blue_fire_zone_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:blue_firecharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:blue_golemin_throwable"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:bone_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:bookshelf_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:bookshelf_tower_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:candle_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:carved_melon"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:chiseled_mud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:composter_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:concrete_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dark_oak_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dark_oak_golem_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dark_oak_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:deepslate_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dirt_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dirt_pile_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dispenser_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dust_devil_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:enchanting_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:endstone_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:fiery_first_of_dispenser_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:fire_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:firework_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_basalt_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_basalt_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_basalt_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_dispenser_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_dispenser_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_sand_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_sand_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_sand_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_dungeon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_dungeon_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_tundra_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_tundra_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_village_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_village_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_the_village_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:first_of_tundra_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:firstof_dungeon_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:golems_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:green_concrete_golemin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:green_golemin_throwable"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:guardian_of_the_deep_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:guardian_of_the_deep_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:guardian_of_the_deep_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:hay_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:healthdebug"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:honey_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:jungle_plank_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:jungle_planks_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:light_invisible"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:medium_bone_minion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:melon_golem_no_face_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:melon_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ministrosity_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:mud_brick_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:mud_puddle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:necromins_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:nether_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:obsidian_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:obsidian_golem_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:obsidian_golem_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:peter_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:piston_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:powder_snow_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:prismarine_ministrosity_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:pyrotechnician_first_of_dispencer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ranged_bone_minion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:red_concrete_golemin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:red_concrete_goleminin_throwable"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:sculk_gauntlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:shockwave_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:smithing_golem_diamond_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:smithing_golem_empty_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:smithing_golem_gold_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:smithing_golem_iron_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:sonicboom_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:soulsand_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:spruce_giant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:spruce_giant_statue_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:spruce_giant_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_2_piece_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_3_piece_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_4_piece_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_face_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_mossy_face_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stack_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stone_cutter_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:the_ancient_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tiky_mask_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tnt_air_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tnt_air_golem_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tnt_ground_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tnt_ground_golem_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tnt_yeeter_golem_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:tnt_yeeter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:weathered_first_of_granite_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:wool_golem_spawn_egg"
+		}
+	]
+}

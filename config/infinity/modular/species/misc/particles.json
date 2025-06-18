@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "species:ascending_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:birtd"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:dripping_pellet_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:falling_pellet_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:food"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:ichor"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:landing_pellet_drip"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:snoring"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:treeper_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:youth_potion"
+		}
+	]
+}

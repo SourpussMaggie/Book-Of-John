@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:amber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:bog_body_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:bubbling_tar"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:direbeast_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:direbeastskull"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:emerged_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:grassy_peat"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:necrosloth_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:necrosloth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:peat"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:peat_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:petrified_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:primal_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:reaping_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:relic"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:sabretooth_direbeast_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:sabretooth_direbeast_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:stripped_reaping_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:stripped_reaping_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:suspicious_tar"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:tar"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:tarochs_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "paranormal_pleistocene:tarochs_spawn_egg"
+		}
+	]
+}

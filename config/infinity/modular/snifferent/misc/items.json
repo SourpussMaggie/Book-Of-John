@@ -1,0 +1,248 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber_glass_glowing"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber_glowing"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:bloom_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:bloom_plant_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:bloom_plant_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:bloom_plant_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:bloom_plant_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:bloom_plant_nut"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:club_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:club_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:club_moss_patch"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_branch_middle"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_sap_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_sap_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:porus_globar_log_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:porus_globar_log_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:porus_globar_log_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry_seedling"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry_vine_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry_vine_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry_vine_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry_vine_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:sniffberry_vine_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spindlefern"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spindlefern_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spindlefern_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spindlefern_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spindlefern_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spindlefern_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spineflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spineflower_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spineflower_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spineflower_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:spineflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:stripped_globar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:stripped_globar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:tall_spindlefern"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:tuber_fruit"
+		}
+	]
+}

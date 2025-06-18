@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "another_furniture:block.chair.tuck"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:block.chair.untuck"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:block.curtain.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:block.service_bell.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:item.furniture_hammer.use"
+		}
+	]
+}

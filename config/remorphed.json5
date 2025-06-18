@@ -1,0 +1,16 @@
+{
+  "creativeUnlockAll": true,
+  "killToUnlock": 2,
+  "killToUnlockPlayers": 13,
+  "autoTransform": false,
+  "lockTransform": false,
+  "unlockFriendlyNormal": false,
+  "killToUnlockByType": {
+    "minecraft:wither": 3,
+    "minecraft:ender_dragon": 3,
+    "minecraft:bat": 999,
+    "whisperwoods:wisp": 999
+  },
+  // Whether the entities that should be rendered can be loaded asynchronously
+  "loadMenuAsynchronous": true
+}

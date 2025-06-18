@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "iter_rpg:sacred_tree_feature"
+			}
+		}
+	]
+}

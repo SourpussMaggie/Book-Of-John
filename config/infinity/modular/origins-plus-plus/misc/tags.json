@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:end_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:non_solid"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:purpur_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:redstone_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:regeneration_light_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:sand_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:saturation_light_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:speed_light_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:unbreakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:water_breathing_light_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "origins-plus-plus:water_plants"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 13665499,
+				"Instant": false,
+				"Name": "marvelous_menagerie:hallucinating"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 16222207,
+				"Instant": false,
+				"Name": "marvelous_menagerie:pacified"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 796861,
+				"Instant": false,
+				"Name": "marvelous_menagerie:sea_cow_serenity"
+			}
+		}
+	]
+}

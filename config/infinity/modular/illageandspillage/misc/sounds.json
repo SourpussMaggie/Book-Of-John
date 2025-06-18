@@ -1,0 +1,700 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:block.ghost_block.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.absorber.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.absorber.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.absorber.collapse"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.absorber.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.absorber.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.boss_randomizer.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.boss_randomizer.boss"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.boss_randomizer.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.boss_randomizer.finalboss"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.boss_randomizer.goofy"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.boss_randomizer.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.crocofang.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.crocofang.bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.crocofang.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.crocofang.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.crocofang.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.crocofang.prepare_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.death_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.intro_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.intro_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.land"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.prepare_wallcrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.ravager_mutate"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.slam_ground_intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.devastator.wallcrash"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.beeper.beep"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.hinder.heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.poker.poke"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.engineer.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.faker.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.faker.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.angry_axes"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.axe_draw"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.cymbal"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.eyesore_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.eyesore_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.eyesore_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.eyesore_land"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.force_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.funnybone_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.funnybone_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.funnybone_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.funnybone_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.minions"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.pumpkinbomb_boing"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.pumpkinbomb_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.pumpkinbombs"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.reveal"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.scythe_catch"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.scythe_spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.shiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.skid"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.skullbomb_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.trickortreat"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.trickortreat_bounce"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.trickortreat_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.villager_hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.villager_panic"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.villager_sigh"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.freakager.villager_wave"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.igniter.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.igniter.celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.igniter.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.igniter.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.arrowbarrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.cast_spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.crossbowspin"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.dispenser_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.dispenser_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.escape"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.fangrun"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.fangrun_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.fireball"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.fireball_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.forcefield"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.heal"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.heal_interrupt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.kaboomer"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.kaboomer_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.kaboomer_hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.life_steal"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.lifesteal_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.load"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.potions"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.potions_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.prepare_fakers"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.ravager"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.ravager_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.magispeller.swing_bat"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.mob_spirit.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.mob_spirit.death_corrupted"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.mob_spirit.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.mob_spirit.hurt_corrupted"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.preserver.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.preserver.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.preserver.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.preserver.jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.preserver.land"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.block"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.cough"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.crawl"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.jumpscare"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.leap"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.prepare_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.screech"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.stun"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.trans"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.web"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.ragno.web_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.anticheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.block_alert"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.charge_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.clap"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.death_animation"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.descent"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.earth_rumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.imp_laugh"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.imprise"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.soul_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.spirit_absorb"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.spirit_hands"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.spirit_swarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.spirithand_warn"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.steal_spirits"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.spiritcaller.wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.celebrate"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.ding"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.hmm"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:entity.twittollager.scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:item.spellbound_book.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:item.totem_of_banishment.banish"
+		}
+	]
+}

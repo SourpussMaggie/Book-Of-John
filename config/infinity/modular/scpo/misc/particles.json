@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scpo:amnesiac_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:bath_bubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:bath_bubbles_face"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:biteparticle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:blunt_hit_frozen"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:cola_bubbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:fire_extinguisher_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:frozen_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:manacing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mimicry_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:particle_telekill"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_143_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:senbonzakura_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:stink_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:summon_5175"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:sweep_5175"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:sweep_telekill"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:warning"
+		}
+	]
+}

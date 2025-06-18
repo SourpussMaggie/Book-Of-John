@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:starved.chomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:troll.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:troll.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:troll.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:troll.roar"
+		}
+	]
+}

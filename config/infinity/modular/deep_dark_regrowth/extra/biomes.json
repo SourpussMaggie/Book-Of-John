@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -3355444,
+				"Name": "deep_dark_regrowth:deep_light"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -16777216,
+				"Name": "deep_dark_regrowth:rotten_caverns"
+			}
+		}
+	]
+}

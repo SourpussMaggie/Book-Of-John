@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10471748,
+				"Name": "autumnity:maple_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10471748,
+				"Name": "autumnity:pumpkin_fields"
+			}
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:bedbug_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:bedbug_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:dreamer_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:hammock_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:moon_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "sleep_tight:night_bag"
+		}
+	]
+}

@@ -1,0 +1,2572 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acacia_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciashelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciashelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciashelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciashelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciatable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciatable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciatable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:acaciatable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:amethyst_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ancient_chiseled_half_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ancient_cracked_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ancient_halfsandstonebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ancient_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ancient_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ancient_sandstonebricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:arid_yeti_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:arid_yeti_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburn_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburnlog"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburnshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburnshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburnshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburnshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburntable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburntable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburntable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburntable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:auburntrapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:autumnfence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:autumnfencegate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:autumnleaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:autumnplank"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:autumnslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:autumnstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:azurejar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baby_penguin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baby_pheonix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baby_wind_phoenix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bao_bab_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bao_bab_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bao_bob_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bao_bob_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_plank"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobab_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobabfence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baobabtrapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baoshelf_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baoshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baoshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baoshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baotable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baotable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baotable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:baotable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bass_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bass_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:beast_pit"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:beast_pit_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:beast_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:beastiary"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birch_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchshelf_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchtable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchtable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchtable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchtable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birchtreemushrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birdwing_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:birdwing_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_berry_stage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_berry_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_berry_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:black_squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blackberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blackberrybush"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bleach"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_monarch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_petunia_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_petunia_pot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_petunia_pot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_petunia_pot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blueberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blueberry_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blueberry_stage_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blueberrybush"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blueberrystage_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blueishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bluemonarchjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bogged_bone_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bogged_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bone_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bone_rattle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bone_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bone_stalker_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bookstack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bookstackthree"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bookstacktwo"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:brown_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:brown_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:brown_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:brown_ishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:brown_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:brown_squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bucket_of_bass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bucket_of_sunny"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:bucket_of_trout"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:buckeye_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:buckeye_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:butterfly_encyclopedia"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:butterfly_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:charaxes_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:charaxes_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cherry_rose_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cherry_rose_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cherry_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cherry_treant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cherry_treant_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cherry_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:chorus_morpho_butterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:clovers"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:clovers_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:clovers_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:clovers_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:clovers_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:clovers_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cooked_bass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cooked_squirrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cooked_sunny"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cooked_trout"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cooked_venison"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:coral_sea_viper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:coral_viper_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cornflower_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cornflower_pot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cornflower_pot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cornflowerpot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:creepberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:creepbush"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:crimson_butterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:crimsonbutterflyjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:croc_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cyan_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cyan_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cyan_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cyan_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:cyanishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dandelionpot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dandelionpot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dandelionpot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dandelionpot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dark_oak_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dark_oak_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dark_oak_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoakshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoakshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoakshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoakshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoaktable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoaktable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoaktable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:darkoaktable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_black_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_blue_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_brown_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_cyan_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_ishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_l_bishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_lime_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_orange_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_pink_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_purple_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_red_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_white_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dec_yellow_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decgreen_ish_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_brown_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_brown_mushroom_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gb_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gb_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gb_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gb_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gb_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gp_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gp_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gp_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gp_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_gp_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_diamond_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_diamond_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_diamond_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_diamond_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_gold_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_gold_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_gold_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_gold_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_iron_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_iron_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_iron_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_iron_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_netherite_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_netherite_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_netherite_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_pickaxe_netherite_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_red_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorative_red_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativesworddiamond_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativesworddiamond_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativesworddiamond_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativesworddiamond_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordgold_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordgold_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordgold_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordgold_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordiron"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordiron_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordiron_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordiron_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordnetherite_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordnetherite_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordnetherite_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:decorativeswordnetherite_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:deer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:diamond_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:dirt_ball_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:elephant_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:emerald_swallowtail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:emeraldswallowtailjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:emptyflowerpot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:emptyflowerpot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:emptyflowerpot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:emptyflowerpot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:enchanted_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:enderfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:enderflyjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:endermorphobutterflyjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:far_lands"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:fire_flyjar_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:fire_flyjar_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:firebugs_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:firefly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:fireflyjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:firerespotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:firerespotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:firerespotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:frigid_gator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:frigid_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:frigid_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:frigid_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:frost_golem_plaque"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:frozen_vile_gator_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:gator_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:gilded_ent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:gilded_tree_ent_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:glowstonebutterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:glowstonebutterflyjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:golden_king_hermit_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:golden_king_hermit_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:goldhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:grassflowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:grassvariant_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:grassvariant_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:grassvariant_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:green_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:green_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:green_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:green_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:green_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:green_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:greenishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:grey_squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:groundpebbles_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:groundpebbles_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:groundpebbles_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hairstreak_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hairstreakjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanging_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hanginglantern_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hastepotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hastepotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hastepotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:headwraps_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:healing_pot_decorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:healing_pot_decorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:healing_pot_decorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:hollow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:invispotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:invispotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:invispotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ironhammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ishslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ishstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ishstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ishwall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:j_bpotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:j_bpotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:j_bpotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungle_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungle_pendant"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungleshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungleshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungleshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungleshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungletable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungletable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungletable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:jungletable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:king_crab_plaque"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:king_crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:legendary_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:light_blue_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:light_blue_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:light_blue_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:light_blue_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:light_blue_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lightblueishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lime_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lime_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lime_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lime_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lime_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:lime_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:limeishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:littlewood_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:littlewood_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangrove_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangroveshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangroveshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangroveshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangroveshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangrovetable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangrovetable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangrovetable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mangrovetable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:medeival_sands"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:miner_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:miner_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:monarch_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:monarch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mossbuds_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mossbuds_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mossbuds_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mourning_cloak_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mourning_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:mummy_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:n_vpotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:n_vpotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:n_vpotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:netherite_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oak_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oakshelf_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oakshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oakshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oakshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oaktable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oaktable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oaktable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oaktable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orange_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orange_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orange_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orange_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orange_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orangeishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orangetip_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orangetipjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orchid_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orchid_pot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orchid_pot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:orchidpot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_fencegate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmfence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmplank"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmslab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmtable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmtable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmtable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmtable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:palmtrapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:paperpile_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:paperpile_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:paperpile_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:paperpile_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:paperpile_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:paperpile_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:penguin_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:penguin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pheonix_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pheonix_fire_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pheonix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pheonix_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:phoenix_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pink_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pink_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pink_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pink_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pink_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pink_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pinkishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purpleishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purplepetuniapot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purplepetuniapot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purplepetuniapot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purplepetuniapot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rare_bone_stalker_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rare_phoenix_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rare_viper_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rare_witch_doctor_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:raw_squirrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:raw_venison"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_ishstairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_mummy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_mummy_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:red_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:redishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:regenpotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:regenpotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:regenpotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ringlet_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:ringlet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:roseflower_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:roseflower_pot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:roseflowerpot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:roseflowerpot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rusty_page_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:rustypagejar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sand_crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savanna_grass_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savannah_grass_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savannah_grass_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savannah_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savannah_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savannah_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:savannah_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sea_viper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:shallowtailjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:shellmet_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:small_cauldron_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:snow_dande"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:snow_poppy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:snowgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:soawwhytb"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:soft_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:soulbfjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:soulbutterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:speedpotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:speedpotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:speedpotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spring_azure_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spruce_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spruceshelf_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spruceshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spruceshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spruceshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sprucetable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sprucetable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sprucetable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sprucetable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:spuds"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:strengthpotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:strengthpotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:strengthpotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_auburn_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_auburn_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_baobab_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_baobab_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_palm_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_white_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:stripped_white_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:submerged"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunken_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunny"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunny_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunset_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunsetpetuniapot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunsetpetuniapot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunsetpetuniapot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunsetpetuniapot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:swallowtail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:swamp_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:swamp_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:swamp_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tall_birch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tall_birch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tall_deadbush"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tall_soul_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tall_soul_torch_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tall_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:talltorchtop"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tamed_stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:toxic_gator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:treant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:tree_ant_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:trout"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:trout_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:viper_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:viper_plaque"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:vipertooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:w_bpotdecorative_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:w_bpotdecorative_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:w_bpotdecorative_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:wallleaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_hairstreak_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_log_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_plank"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_oakfencegate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_petuniapot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whitehairstreakjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoakleaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoaklog"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoakshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoakshelf_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoakshelf_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoakshelf_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoaktable"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoaktable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoaktable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoaktable_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whiteoaktrapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whitepetuniapot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whitepetuniapot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:whitepetuniapot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:wind_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:wind_pheonix_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:wind_phoenix_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:witch_doctor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:witch_doctor_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:woodland_witch_doctor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_birch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_fire_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_grassflowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_ish_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_ish_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_ish_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_patterned_ish_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellow_swallowtail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowishbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowpetuniapot"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowpetuniapot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowpetuniapot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowpetuniapot_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowpetunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowswalolwtailjar"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yeti_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:zebra_longwing_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:zebra_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:zebralongwingjar"
+		}
+	]
+}

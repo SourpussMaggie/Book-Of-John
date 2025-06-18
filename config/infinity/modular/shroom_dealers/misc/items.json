@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:amethyst_deceiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:amethyst_deceiver_dealer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:bay_bolete"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:bay_bolete_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:bay_bolete_dealer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:bread_caserol"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:champignon"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:champignon_dealer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:champignon_grilled_cheese_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:champignon_smoke_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:champignon_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:cooked_amethyst_deceiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:cooked_bay_bolete"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:cooked_champignon"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:cooked_toadstool"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:deceiver_power_up_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:good_vine_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:laccaria_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:lasso_lasso"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:mini_bay_bolete_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:mushroom_poison_dart"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:swampy_gloop_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:swampy_glooper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:swampy_gloops_ammo"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:toadstool"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:toadstool_dealer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:vine_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shroom_dealers:viney_lasso"
+		}
+	]
+}

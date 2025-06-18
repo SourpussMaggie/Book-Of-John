@@ -1,0 +1,232 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:achievement"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:achievement_fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:baker_speak"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bittersweet_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bittersweet_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bittersweet_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bittersweet_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:boing"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bomber_cherry_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cake_penguin"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cake_penguin_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cake_penguin_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_boom_beep"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_knight"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_knight_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_knight_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_idle_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_idle_drop"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:clown_wake_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cold_lullaby"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:corneta"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:dried_hope"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:eclipse_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:golem_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:golem_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:golem_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:golem_pisoton"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:golem_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:golem_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_dab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_dead"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_steal"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:ice_cream_penguin"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:ice_cream_penguin_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:ice_cream_penguin_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_pumpkin_0"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_pumpkin_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_pumpkin_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_pumpkin_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_pumpkin_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:mellowy_cotton"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:popsicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:pumpkin_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sticky_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:witch_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:witch_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:witch_jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:witch_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:witch_teleport"
+		}
+	]
+}

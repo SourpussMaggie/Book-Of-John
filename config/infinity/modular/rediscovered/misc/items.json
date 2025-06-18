@@ -1,0 +1,400 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rediscovered:acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ancient_cherry_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ancient_cherry_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ancient_crying_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:beast_boy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:black_steve_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:bright_green_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:bright_green_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:brittle_mud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:brittle_packed_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:cherry_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:cherry_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:coarse_dirt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:cooked_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:crimson_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:crimson_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:cyan_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:deepslate_ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dirt_path_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dirt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:draconic_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dragon_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dragon_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dragon_armor_chain_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dragon_armor_inlay_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:dragon_armor_plating_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:empty_peony_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:empty_rose_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:glowing_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:grass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:large_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:large_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:large_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:large_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:lavender_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:lavender_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:melee_pigman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:mini_dragon_pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:music_disc_calm4"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:mycelium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:nether_reactor_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:obsidian_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:paeonia"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:pigman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:plate_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:plate_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:plate_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:plate_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:podzol_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:purple_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:rana_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ranged_pigman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:raw_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:red_dragon_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:rooted_dirt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:rose_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:rose_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:rotational_converter"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ruby"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ruby_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ruby_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ruby_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:ruby_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:scarecrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:sky_blue_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:sky_blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:slate_blue_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:slate_blue_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:spring_green_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:spring_green_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:steve_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:studded_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:studded_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:studded_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:studded_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:warped_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:warped_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:zombie_pigman_spawn_egg"
+		}
+	]
+}

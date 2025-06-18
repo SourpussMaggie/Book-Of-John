@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:down"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:dweller_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:dweller_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "dweller_dweller:dweller_hurt"
+		}
+	]
+}

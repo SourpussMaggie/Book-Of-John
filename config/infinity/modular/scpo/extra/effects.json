@@ -1,0 +1,202 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10673630,
+				"Instant": false,
+				"Name": "scpo:amnesia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -35584,
+				"Instant": false,
+				"Name": "scpo:black_shuck_gaze"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -2667851,
+				"Instant": false,
+				"Name": "scpo:bubble_bath"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10087661,
+				"Instant": false,
+				"Name": "scpo:choking"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -9356250,
+				"Instant": false,
+				"Name": "scpo:cola_bottles"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -11184811,
+				"Instant": false,
+				"Name": "scpo:coughing"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -3124898,
+				"Instant": false,
+				"Name": "scpo:cryophobia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1,
+				"Instant": false,
+				"Name": "scpo:crystallophobia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7267043,
+				"Instant": false,
+				"Name": "scpo:ear_infection"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "scpo:fear"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7142396,
+				"Instant": false,
+				"Name": "scpo:glasses_effect_3d"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -15372755,
+				"Instant": false,
+				"Name": "scpo:hunter_in_the_dark"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -10275656,
+				"Instant": false,
+				"Name": "scpo:insomnia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -8175227,
+				"Instant": false,
+				"Name": "scpo:lavender"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -15395563,
+				"Instant": false,
+				"Name": "scpo:mal_o_effect"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -9828087,
+				"Instant": false,
+				"Name": "scpo:no_hands_procedure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -15779827,
+				"Instant": false,
+				"Name": "scpo:pestilence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -4222318,
+				"Instant": false,
+				"Name": "scpo:scopophobia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "scpo:sinking"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -6847950,
+				"Instant": false,
+				"Name": "scpo:sleep"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "scpo:sneaking"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "scpo:when_day_breaks_status"
+			}
+		}
+	]
+}

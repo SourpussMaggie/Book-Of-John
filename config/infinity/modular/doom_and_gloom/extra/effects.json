@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 2696993,
+				"Instant": false,
+				"Name": "doom_and_gloom:fog"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 13221267,
+				"Instant": false,
+				"Name": "doom_and_gloom:warding"
+			}
+		}
+	]
+}

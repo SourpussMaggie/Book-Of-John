@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:debilitator_warn"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:nothing"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:omnitrident_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:paranoia"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sonic_boom_player"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:warn"
+		}
+	]
+}

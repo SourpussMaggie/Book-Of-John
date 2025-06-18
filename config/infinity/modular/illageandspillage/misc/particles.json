@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:blood_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:mutation_drip_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:mutation_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "illageandspillage:mutation_particles2"
+		}
+	]
+}

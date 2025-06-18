@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_eerie"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:cough_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:cough_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:cough_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:cough_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:wisp_quick"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:wisp_slow"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:wisp_treasure"
+		}
+	]
+}

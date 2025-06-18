@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:amber_footstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_branch_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_wood_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:globar_wood_footstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_flicker_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "snifferent:lumibulb_flicker_on"
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -9297631,
+				"Instant": false,
+				"Name": "gnumus:aiming"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8710878,
+				"Instant": false,
+				"Name": "gnumus:bitterness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1455298,
+				"Instant": false,
+				"Name": "gnumus:cheap_buy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1455298,
+				"Instant": false,
+				"Name": "gnumus:expensive_buy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3442615,
+				"Instant": false,
+				"Name": "gnumus:hearty_meal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8967379,
+				"Instant": false,
+				"Name": "gnumus:lackof_energy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -7119833,
+				"Instant": false,
+				"Name": "gnumus:merchants_curse"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -4245705,
+				"Instant": false,
+				"Name": "gnumus:mouse_snack"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -2237488,
+				"Instant": false,
+				"Name": "gnumus:surgeof_energy"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3102677,
+				"Instant": false,
+				"Name": "gnumus:trade"
+			}
+		}
+	]
+}

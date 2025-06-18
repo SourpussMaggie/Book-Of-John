@@ -1,0 +1,168 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:botfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:bottled_flutterfly"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:deathstick"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:direwolf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:drone_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:equestrian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:faller_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:flutterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:goblin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:headbiter_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:healing_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:horsehead_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:huntsman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:intruder_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:ladybug_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:meathead_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:meature_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:phantasm_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:phantasm_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:phantasm_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:phantasm_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:phantom_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:scorpion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:scorpion_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:silverhead_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:silverqueen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:silverqueenbodiless_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:slugger_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:sprinter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:starved_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:tarantula_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:troll_molar"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:troll_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:trollenraged_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:trollface"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:vampbiter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:vampflyer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:vampire_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:wasp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "enemyexpansion:wasp_thorax"
+		}
+	]
+}

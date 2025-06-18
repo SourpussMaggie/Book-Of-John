@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -12241793,
+				"Instant": false,
+				"Name": "enemyexpansion:bitten"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1,
+				"Instant": false,
+				"Name": "enemyexpansion:cardiac"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -65485,
+				"Instant": false,
+				"Name": "enemyexpansion:despawner"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -30435,
+				"Instant": false,
+				"Name": "enemyexpansion:explosive_launch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "enemyexpansion:metamorphosis"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "enemyexpansion:morphlocked"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -16754658,
+				"Instant": false,
+				"Name": "enemyexpansion:overtime"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -13312,
+				"Instant": false,
+				"Name": "enemyexpansion:sandstorm"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3342337,
+				"Instant": false,
+				"Name": "enemyexpansion:swift_flight"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "enemyexpansion:timer"
+			}
+		}
+	]
+}

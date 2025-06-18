@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "zombieawareness:alert"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombieawareness:investigate"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombieawareness:target"
+		}
+	]
+}

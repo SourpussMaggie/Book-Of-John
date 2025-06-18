@@ -1,0 +1,244 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:anchor_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:anchor_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:anchor_swing1"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:anchor_swing2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_guardian_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_guardian_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_guardian_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:beam_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:beam_go"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:beam_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cannon_shoot_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cannon_shoot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cannon_shoot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorusling_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorusling_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorusling_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorusling_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_golem_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_golem_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_golem_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dune_sentinel_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dune_sentinel_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_hurt1"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_hurt2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_tp_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:fatal_mortar_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ground_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ice_spike_emerge"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:lightning_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:living_armor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:mossy_golem_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:mossy_golem_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:overgrown_colossus_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:overgrown_colossus_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:posessed_paladin_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:posessed_paladin_attack2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:posessed_paladin_attack3"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:posessed_paladin_spin"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:posessed_paladin_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:powerful_sword_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:powerful_sword_impact2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:pp_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeletosaurus_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeletosaurus_hurt1"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeletosaurus_hurt2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeletosaurus_hurt3"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:soul_fly"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:step_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:step_sound_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:step_sound_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:step_sound_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:the_warped_one_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:weapon_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_abomination_dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_abomination_dash2"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_abomination_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_abomination_hurt"
+		}
+	]
+}

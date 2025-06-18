@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "xercapaint:color_picker"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:color_picker_suck"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:mix"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:stroke_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:water"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:water_drop"
+		}
+	]
+}

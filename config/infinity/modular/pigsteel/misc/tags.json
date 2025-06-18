@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pigsteel:pigsteel_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:pigsteel_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombification_acceleration"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombification_deceleration"
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:adayinthenether"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimsonexplosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimsongrowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:forestambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghostbreath"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:nullaudio"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ritual"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:sunsetatglegorm"
+		}
+	]
+}

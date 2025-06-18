@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hidebehind.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hidebehind.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hidebehind.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hidebehind.scare"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hirschgeist.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hirschgeist.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "whisperwoods:entity.hirschgeist.hurt"
+		}
+	]
+}

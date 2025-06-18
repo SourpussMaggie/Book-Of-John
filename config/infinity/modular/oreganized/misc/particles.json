@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oreganized:asbestos_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:dripping_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:falling_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:kinetic_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:landing_lead"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:lead_shrapnel"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:vengeance"
+		}
+	]
+}

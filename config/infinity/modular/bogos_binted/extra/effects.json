@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "bogos_binted:no"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "bogos_binted:no_2"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "bogos_binted:sugary"
+			}
+		}
+	]
+}

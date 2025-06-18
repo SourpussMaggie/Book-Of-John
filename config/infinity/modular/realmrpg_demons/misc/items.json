@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "realmrpg_demons:ancient_demon_lord_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_demons:chort_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_demons:demon_lord_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_demons:demon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_demons:imp_guard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "realmrpg_demons:imp_spawn_egg"
+		}
+	]
+}

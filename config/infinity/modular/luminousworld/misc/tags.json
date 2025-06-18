@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminousworld:air_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:can_trees_grow_in"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sand_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sapling_liquids"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:top_sand_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:top_soil_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:under_sand_tag"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:under_soil_tag"
+		}
+	]
+}

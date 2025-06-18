@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -3407668,
+				"Instant": false,
+				"Name": "iter_rpg:arcane_conduction"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8504912,
+				"Instant": false,
+				"Name": "iter_rpg:cursed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16724737,
+				"Instant": false,
+				"Name": "iter_rpg:ionized"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16751002,
+				"Instant": false,
+				"Name": "iter_rpg:wrath_of_the_depths"
+			}
+		}
+	]
+}

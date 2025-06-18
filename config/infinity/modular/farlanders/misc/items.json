@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farlanders:classic_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:deepslate_endumium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:elder_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:ender_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:ender_guardian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:ender_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:enderminion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:endumium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:endumium_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:endumium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:fanmade_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:farlander_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:looter_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:looter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_enderman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_enderminion_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_wand_fire_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_wand_fire_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_wand_invisible"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_wand_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_wand_regen"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:mystic_wand_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:nightfall_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:nightfall_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:nightfall_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:nightfall_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:nightfall_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:rebel_farlander_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:rebel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:titan_hide"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:titan_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:wanderer_spawn_egg"
+		}
+	]
+}

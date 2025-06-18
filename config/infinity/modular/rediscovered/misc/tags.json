@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rediscovered:chairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:nether_reactor_base_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:nether_reactor_power_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:nether_reactor_strong_power_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:pigman_village_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:pigman_village_rare_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:skylands_pool_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:skylands_portal_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:skylands_portal_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "rediscovered:tables"
+		}
+	]
+}

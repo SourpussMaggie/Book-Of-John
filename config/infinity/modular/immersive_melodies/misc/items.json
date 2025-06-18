@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:bagpipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:didgeridoo"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:lute"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:piano"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:tiny_drum"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:triangle"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:trumpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "immersive_melodies:vielle"
+		}
+	]
+}

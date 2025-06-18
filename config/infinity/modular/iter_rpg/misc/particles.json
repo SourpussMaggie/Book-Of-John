@@ -1,0 +1,100 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:air_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:arcane_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:chain_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:coin_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:demonblood"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:earth_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elem_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_droplet"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:elemental_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fire_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:gobsteel_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:lightning_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:poison_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:portal_spark_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:snow_shards"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:spirit_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:vengeful_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_eye_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_poof"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:void_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:water_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:weeper_tear_particle"
+		}
+	]
+}

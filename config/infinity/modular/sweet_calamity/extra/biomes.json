@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -12482238,
+				"Name": "sweet_calamity:candy_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -12482238,
+				"Name": "sweet_calamity:cloying_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -12482238,
+				"Name": "sweet_calamity:crunchy_garden"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 10387789,
+				"Name": "sweet_calamity:sticky_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -12482238,
+				"Name": "sweet_calamity:sweet_plains"
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "create:fan_transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:movable_empty_collider"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:simple_mounted_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:sugar_cane_variants"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:windmill_sails"
+		},
+		{
+			"weight": 1.0,
+			"key": "create:wrench_pickup"
+		}
+	]
+}

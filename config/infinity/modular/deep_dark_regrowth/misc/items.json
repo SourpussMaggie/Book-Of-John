@@ -1,0 +1,1340 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:abomination_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_illusioner_mask_charge_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_illusioner_mask_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ancient_vase_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:annihilator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:anniversary_boombox_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:apatine"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:apatine_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:apatine_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:apatine_stage_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:aware_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:awareness_glasses_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:between_gems"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:blue_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:blue_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:brown_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:brown_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:castle"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cerebrawl"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:chiseled_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:chrome_butterfly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cobbled_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cobbled_grimstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cobbled_grimstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cobbled_grimstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:combusted_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:combusted_soul_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:combusted_soul_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:combusted_soul_crystal_block_normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:consuming_galm"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corrupted_combusted_soul_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corrupted_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corrupted_matter"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corrupted_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corrupted_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corruption_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corruption_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corruption_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:corruption_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cracked_grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cracked_grimstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:creeper_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:creeper_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:creeper_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cut_petronium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cut_petronium_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cut_petronium_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cut_petronium_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cyan_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cyan_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:dead_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:dead_warden_helmet_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:decomposing_echo_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:dungeon"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:enlightened_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ethereum_coin"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:etherium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:etherium_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:exhaler"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:exhaler_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:exxo_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:exxo_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:fake_sculk_sensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:fernus"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:fluorescent_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:fluorite_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_debilitator"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_debilitator_unactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_hole"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_starlamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_starlamp_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_starlamp_2_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_starlamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_traps_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_traps_spawner_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_traps_spawner_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_traps_spawner_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_traps_spawner_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galm_traps_spawner_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galmium_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galmium_claws"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galmium_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galmium_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:galmium_sprouts_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:gear_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:gear_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:gear_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ghost_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ghost_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ghost_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:ghost_stone_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:green_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:green_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_lapislazuli_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:grimstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:heart_goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:hunter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:illager_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:illager_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:illager_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:impulse_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:impulse_platform_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:impulse_platform_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:infected_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:infected_sculk_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:infected_sculk_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:infected_sculk_very_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:infection_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:infested_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_ancient_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_ancient_vase_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_ancient_vase_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_ancient_vase_top_west"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_fernus"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_galm_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:large_infected_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:life_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:light_blue_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:light_blue_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:lime_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:lime_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:long_sculk_tendril"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:long_sculk_tendril_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:magenta_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:magenta_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_crusher"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_crusher_activated"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_crusher_activated_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_crusher_activated_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_yaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_yaw_activated"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_yaw_activated_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mechanical_yaw_activated_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mojang_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mojang_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mojang_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:moonstone_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:moonstone_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mossy_fluorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:mossy_galm"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:observer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:omnitrident"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:omnitrident_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:orange_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:orange_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:overloaded_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:petronium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:petronium_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:petronium_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:petronium_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:petronium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:petronium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantasmal_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantasmal_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_charge_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_charge_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_charge_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_charge_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_invisible_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_invisible_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_invisible_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_invisible_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:phantom_armor_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:piglin_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:piglin_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:piglin_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pink_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pink_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:planet_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:planet_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:planet_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasma_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:plasmatic_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_grimstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_grimstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_grimstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_grimstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_petronium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_petronium_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_petronium_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:polished_petronium_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pulse_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pulse_flower_activated"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pulse_flower_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:purple_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:purple_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:red_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:red_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:reinforced_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:reinforced_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:reinforced_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:replicate_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:rough_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:rough_petronium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:rough_petronium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:rough_petronium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_biter"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_biter_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_biter_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_bone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_carapace"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_carapace_piece"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_exhaler"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_moss_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_moss_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_moss_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_parasite_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_remnants"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_ribs_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_ribs_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_starlamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_starlamp_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_starlamp_2_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_starlamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_tendril"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_tendril_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_traps_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_traps_spawner_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_traps_spawner_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_traps_spawner_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_traps_spawner_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sculk_traps_spawner_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:short_infected_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:skeleton_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:skeleton_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:skeleton_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sleeping_annihilator"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:sleeping_annihilator_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:smooth_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:soul_burner"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:soul_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:soul_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:soul_key_awake_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:soul_of_the_depths"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:spectating_galm"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:spectating_galm_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:spectating_galmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:spectator_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:spiky_galmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:spreader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stalker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stalker_statue_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stone_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stone_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:tentacle_lamp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:time_capsule"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:time_capsule_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:trapped_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:trapped_stone_tiles_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:trapped_stone_tiles_pre_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakability_seal"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_chiseled_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_deepslate_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_door_keyframe"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_door_update"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_polished_deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_polished_deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_rough_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_smooth_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_stone_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:unbreakable_stone_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:vault_chest_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:vilethorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:void_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:void_collar_charge_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:void_collar_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:warden_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:warden_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:warden_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:warden_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:weakened_bedrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:white_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:white_neon_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:wither_chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:wither_polished_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:wither_stone_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:yellow_neon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:yellow_neon_lamp_off"
+		}
+	]
+}

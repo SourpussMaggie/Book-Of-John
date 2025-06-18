@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "morevillagers:blueprint_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:decayed_workbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:gardening_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:hunting_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:mining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:oceanography_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:purpur_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "morevillagers:woodworking_table"
+		}
+	]
+}

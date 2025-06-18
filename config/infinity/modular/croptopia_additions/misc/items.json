@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:beans_on_toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:bratwurst"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:carbonation_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:cherry_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:chicken_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:churro"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:cola"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:cotton_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:cupcake"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:curry_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:eggplant_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:frosted_churro"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:frosting"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:grape_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:green_bean_casserole"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:hot_dog"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:kraut_dog"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:lemon_lime_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:orange_soda"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:pad_thai"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:ramen"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:rice_flour"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:rice_noodle"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:sauerkraut"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:sugar_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia_additions:weiner"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:angry_brachi_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:club_whitelist_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dino_hatchable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dino_natural_spawnable"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_diggables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megatherium_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megatherium_mineables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:passive_brachi_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_diggables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tar_pit_replaceable"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_breakables"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:zuloagae_plantable_on"
+		}
+	]
+}

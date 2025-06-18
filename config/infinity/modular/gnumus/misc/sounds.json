@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gnumus:bamm"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:battere"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:bum"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:par"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:rerold"
+		}
+	]
+}

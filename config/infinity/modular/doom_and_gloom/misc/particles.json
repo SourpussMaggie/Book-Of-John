@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:bone_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:fog"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:fog_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:hollering_soul"
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "burnt:big_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:blue_flame_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:burnt_leaves_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:fire_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:flame_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:fog"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:large_flame_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:large_soul_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:large_steam_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:light_flame_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:medium_steam_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:moss_fire_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:smolder_leaves_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:soot_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:soul_flames"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:soul_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:soul_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:tall_fog"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:tar_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:test_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "burnt:thick_fog"
+		}
+	]
+}

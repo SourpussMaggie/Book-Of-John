@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:babyjohn_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:babyjohn_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:babyjohn_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:john_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:john_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:john_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:megajohn_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:megajohn_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:megajohn_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:the_hunted_help_me"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:the_hunted_i_need_you"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:the_hunted_please"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:the_hunted_please_help_me"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:the_hunted_soul"
+		}
+	]
+}

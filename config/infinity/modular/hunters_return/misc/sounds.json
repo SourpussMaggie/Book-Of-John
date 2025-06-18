@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hunters_return:mob.hunterillager.cheer"
+		},
+		{
+			"weight": 1.0,
+			"key": "hunters_return:mob.hunterillager.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "hunters_return:mob.hunterillager.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "hunters_return:mob.hunterillager.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "hunters_return:mob.hunterillager.laugh"
+		}
+	]
+}

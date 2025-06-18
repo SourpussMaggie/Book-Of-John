@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "philipsruins:bone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:bone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:bone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:bone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:bone_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:bone_chunk_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:broken_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:chiseled_bone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:cracked_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:dark_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:fractured_bone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:frozen_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:frozen_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:frozen_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:frozen_prismarine_crystals"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:frozen_prismarine_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:frozen_sea_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:infested_sculk_bone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:mossy_dark_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:obsidian_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:obsidian_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:obsidian_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:obsidian_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:red_sand_stone_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:red_sand_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sand_stone_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sandstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sculk_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sculk_bone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sculk_bone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sculk_bone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sculk_bone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:sculk_bone_meal"
+		},
+		{
+			"weight": 1.0,
+			"key": "philipsruins:soul_sand_bricks"
+		}
+	]
+}

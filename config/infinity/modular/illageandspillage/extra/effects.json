@@ -1,0 +1,49 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3484199,
+				"Instant": false,
+				"Name": "illageandspillage:disability"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 3484199,
+				"Instant": false,
+				"Name": "illageandspillage:misconduction"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3484199,
+				"Instant": false,
+				"Name": "illageandspillage:mutation"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 3484199,
+				"Instant": false,
+				"Name": "illageandspillage:preserved"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3484199,
+				"Instant": false,
+				"Name": "illageandspillage:webbed"
+			}
+		}
+	]
+}

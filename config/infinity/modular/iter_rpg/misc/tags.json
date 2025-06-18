@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:arcane_flower_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:demon_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:flesh_spread_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:fleshmite_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grave_chill_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:grimstone_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:twiffle_food"
+		},
+		{
+			"weight": 1.0,
+			"key": "iter_rpg:twiffle_water"
+		}
+	]
+}

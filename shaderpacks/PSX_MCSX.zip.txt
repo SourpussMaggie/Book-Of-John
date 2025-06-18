@@ -1,0 +1,4 @@
+#Tue Dec 10 23:04:19 PST 2024
+resolution_scale=0.3334
+fog_distance=60
+Floodfill=0

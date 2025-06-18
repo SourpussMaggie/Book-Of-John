@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1515057,
+				"Instant": false,
+				"Name": "useless_sword:dizziness"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -1,
+				"Instant": false,
+				"Name": "useless_sword:spider_trap_effect_potion_item"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -3355444,
+				"Instant": false,
+				"Name": "useless_sword:vex_effect_potion_item"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "useless_sword:wither_rage_potion_item"
+			}
+		}
+	]
+}

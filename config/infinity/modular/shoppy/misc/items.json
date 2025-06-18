@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shoppy:bartering_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "shoppy:creative_bartering_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "shoppy:creative_shop_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "shoppy:shop_block"
+		}
+	]
+}

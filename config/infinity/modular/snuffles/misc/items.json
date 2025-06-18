@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "snuffles:frosty_fluff"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:frosty_fluff_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:snuffle_fluff"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:snuffle_fluff_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "snuffles:snuffle_spawn_egg"
+		}
+	]
+}

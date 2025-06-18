@@ -1,0 +1,180 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:bullfrog_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:bullfrog_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:bullfrog_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:bullfrog_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:bullfrog_tongue_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_attack_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:corpse_eater_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:geonach_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:geonach_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:geonach_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_base_attack_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_root_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:hound_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:mojo_base_attack_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:mojo_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:mojo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:mojo_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:mojo_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:mojo_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:peacock_spider_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:peacock_spider_hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:peacock_spider_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:peacock_spider_run"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:peacock_spider_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scarecrow_base_attack_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scarecrow_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scarecrow_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scarecrow_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_claws_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:scorpion_tail_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:wisp_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendarycreatures:wisp_idle"
+		}
+	]
+}

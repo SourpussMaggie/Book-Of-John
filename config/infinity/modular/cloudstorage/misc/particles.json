@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:balloon_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:bloviator_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cloud_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:cool"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:static_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "cloudstorage:stop_spawn"
+		}
+	]
+}

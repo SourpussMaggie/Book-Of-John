@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9328819,
+				"Name": "jellyfishing:jellyfish_fields"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9198249,
+				"Name": "jellyfishing:rock_bottom"
+			}
+		}
+	]
+}

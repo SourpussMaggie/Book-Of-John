@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:bony_king_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:explosive_king_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:mini_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:rotten_king_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_bone_meal"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_gunpowder"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_knight_helmet_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royal_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:spiritual_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:spiritual_crown_shard"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -14146529,
+				"Name": "scpo:desert_093"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -14146529,
+				"Name": "scpo:plain_093"
+			}
+		}
+	]
+}

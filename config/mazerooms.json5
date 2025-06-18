@@ -1,0 +1,10 @@
+{
+  "dimension_config": {
+    "mazerooms:pool": {
+      "dead_end_chance": 0.05,
+      "hallway_chance": 0.75,
+      "t_room_chance": 0.15,
+      "intersection_chance": 0.05
+    }
+  }
+}

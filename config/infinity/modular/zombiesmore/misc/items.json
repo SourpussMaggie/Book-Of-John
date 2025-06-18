@@ -1,0 +1,104 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:agile_instinct_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:boomer_charged_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:boomer_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:bottle_of_toxic_compound"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:brain_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:brute_force_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:cursed_essence_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:cursed_head_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:cursed_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:cursed_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:dynamite"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:explosive_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:fire_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:flammable_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:frozen_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:potion_of_intoxication"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:radar"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:rotten_flesh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:tank_zombie_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:toxic_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:toxic_compound"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:toxic_lung"
+		},
+		{
+			"weight": 1.0,
+			"key": "zombiesmore:veins"
+		}
+	]
+}

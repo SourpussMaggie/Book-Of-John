@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "scguns:blinded"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "scguns:deafened"
+			}
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1,
+				"Instant": false,
+				"Name": "deep_dark_regrowth:cooldown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "deep_dark_regrowth:insanity"
+			}
+		}
+	]
+}

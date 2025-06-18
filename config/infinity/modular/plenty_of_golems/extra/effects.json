@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -65536,
+				"Instant": false,
+				"Name": "plenty_of_golems:bleed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -6736897,
+				"Instant": false,
+				"Name": "plenty_of_golems:enchanted"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -5400285,
+				"Instant": false,
+				"Name": "plenty_of_golems:glazed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -5891558,
+				"Instant": false,
+				"Name": "plenty_of_golems:thorns"
+			}
+		}
+	]
+}

@@ -1,0 +1,452 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:air_suit_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:air_suit_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:air_suit_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:air_suit_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:algae_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:algae_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:bamboo_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:black_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_bamboo_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_jellyfish_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_jellyfish_jelly_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:blue_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:brown_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:bubble_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:bubble_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:bubble_soap"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:bubble_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chiseled_pineapple_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_metal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_metal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:chrome_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:coral_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:coralstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:cow_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:cow_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:cyan_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:deep_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:deep_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:deep_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:gelatinous_milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:gelatinous_milk_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:golden_spatula"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:gray_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:grease_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:grease_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:grease_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:grease_jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:grease_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:green_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jellyfish_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jellyfish_jelly_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jellyfish_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jellyfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jumper_jelly"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jumper_jelly_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:jumper_jelly_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:karate_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:kelp_mustache"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:kelp_shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:krabby_patty"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:lantern_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:light_blue_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:light_gray_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:lime_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:magenta_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:master_karate_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:net_of_blue_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:net_of_bubble_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:net_of_cow_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:net_of_grease_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:net_of_jellyfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:net_of_two_fisted_jumper"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:orange_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:patty_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:pineapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:pineapple_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:pineapple_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:pineapple_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:pink_bamboo_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:pink_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:polished_coralstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:polished_coralstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:polished_coralstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:power_karate_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:purple_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:red_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:roasted_seanut"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:scrap_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:scrap_metal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:scrap_metal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:scrap_metal_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut_brittle"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut_brittle_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut_butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut_butter_blue_jellyfish_jelly_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut_butter_jellyfish_jelly_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:seanut_butter_jumper_jelly_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:spatula"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:tall_lantern_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:triple_gooberberry_sunrise"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:tube_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:two_fisted_jumper"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:two_fisted_jumper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:vault_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:vault_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:white_carpeted_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:yellow_bamboo_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "jellyfishing:yellow_carpeted_tiles"
+		}
+	]
+}

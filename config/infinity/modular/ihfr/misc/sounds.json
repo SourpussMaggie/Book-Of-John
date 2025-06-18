@@ -1,0 +1,212 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ihfr:ambient.carnage"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:ambient.carnage.bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:ambient.nerval.forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:armor.flesh.equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:block.flesh.maw.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:block.gilly.destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:block.gilly.summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:block.nexus.portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:carnage.ambience2"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:carnage.noise"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:effect.sickness.vomit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:effect.sickness.vomit.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.hurt.twist"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.idle.writhes"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.barnacle.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.exiled"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.gorebat.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.gorebat.fly.attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.gorebat.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.gorebat.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.hulker.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.hulker.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.marrow.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.marrow.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.marrow.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.marrow.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.snapper.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.snapper.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.snapper.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.specimen.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.specimen.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.specimen.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.worm.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.worm.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.worm.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:entity.worm.scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:event.spread"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:fluid.bile.empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:fluid.bile.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gui.party.blower"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:item.harpoon.deployed"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:item.harpoon.tick"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:misc.intro"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:player.sickness.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:record.sanguine"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:tada"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:weapon.corporeal.hook.eject"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:weapon.corporeal.hook.retract"
+		}
+	]
+}

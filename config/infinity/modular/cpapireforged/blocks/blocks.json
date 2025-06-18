@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "cpapireforged:custom_portal_block",
+				"full": false
+			}
+		}
+	]
+}

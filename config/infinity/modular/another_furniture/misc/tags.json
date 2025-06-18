@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "another_furniture:above_bypasses_seat_check"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:awnings"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:benches"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:can_use_shutters_through"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:chairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:chairs_tuckable_under"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:curtains"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:dont_connect_to_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:drawers"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:flower_boxes"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:grandfather_clocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:lamp_connectors"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:lamps"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:lattices"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:shelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:shutters"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:sofas"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:stools"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:table_connectable"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "another_furniture:tall_stools"
+		}
+	]
+}

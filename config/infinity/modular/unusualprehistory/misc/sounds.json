@@ -1,0 +1,456 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_preen"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barina_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barina_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barina_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_toss"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:crocarina"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_trade"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megalania_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megalania_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megalania_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megather_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megather_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megather_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_headbutt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_kick"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paracer_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paracer_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paracer_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paracer_stomp"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_search"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_boombox"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_stomp_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_tail_swipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sludge_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sludge_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sludge_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sludge_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sludge_slap"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilodon_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilodon_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilodon_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tail_swipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_panic"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tar_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tar_pop"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:zulogae_disc"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_arrow_particles"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:goldensporeparticle"
+		}
+	]
+}

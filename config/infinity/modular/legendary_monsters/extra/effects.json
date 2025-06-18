@@ -1,0 +1,103 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 11141120,
+				"Instant": false,
+				"Name": "legendary_monsters:bleeding"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "legendary_monsters:broken_armor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3124687,
+				"Instant": false,
+				"Name": "legendary_monsters:chorus_infection"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "legendary_monsters:curse_of_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 11141120,
+				"Instant": false,
+				"Name": "legendary_monsters:fear"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 3124687,
+				"Instant": false,
+				"Name": "legendary_monsters:freeze"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "legendary_monsters:gravity_pull"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 1,
+				"Instant": false,
+				"Name": "legendary_monsters:low_attack_reach"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 542834,
+				"Instant": false,
+				"Name": "legendary_monsters:soul_eater"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 11141120,
+				"Instant": false,
+				"Name": "legendary_monsters:soul_rage"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 0,
+				"Instant": false,
+				"Name": "legendary_monsters:stun"
+			}
+		}
+	]
+}

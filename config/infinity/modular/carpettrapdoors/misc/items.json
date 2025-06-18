@@ -1,0 +1,140 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:black_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:black_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:blue_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:blue_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:brown_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:brown_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:cyan_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:cyan_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:gray_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:gray_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:green_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:green_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:light_blue_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:light_blue_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:light_gray_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:light_gray_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:lime_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:lime_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:magenta_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:magenta_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:moss_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:moss_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:orange_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:orange_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:pink_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:pink_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:purple_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:purple_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:red_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:red_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:white_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:white_carpet_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:yellow_carpet_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "carpettrapdoors:yellow_carpet_trapdoor"
+		}
+	]
+}

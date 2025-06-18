@@ -1,0 +1,164 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_mushroom_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:alphacene_tall_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:ancient_pinecone"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:birt_dwelling"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:birt_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:birt_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:bone_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:bone_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:bone_vertebra"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:cracked_wraptor_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:cruncher_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:cruncher_pellet"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:cruncher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:deepfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:deepfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:frozen_hair"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:frozen_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:goober_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:ichor_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:limpet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:logo"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:mammutilation_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:music_disc_dial"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:music_disc_lapidarian"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:petrified_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:red_suspicious_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:roombug_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:springling_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:springling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:treeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:trooper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:wraptor_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:wraptor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:youth_potion"
+		}
+	]
+}

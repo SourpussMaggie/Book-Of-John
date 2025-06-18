@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:plant_bullet_extra_height"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:plant_type/block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_spot/common"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_spot/dessertic"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_spot/frozen"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_spot/ignited"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_spot/spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:pvz_flower_pots"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:special_action/bugspray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:special_action/fertilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:special_action/suns"
+		}
+	]
+}

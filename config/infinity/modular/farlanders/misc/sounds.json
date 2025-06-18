@@ -1,0 +1,180 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_golem.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_golem.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_golem.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_guardian.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_guardian.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_guardian.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.ender_guardian.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.enderminion.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.enderminion.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.enderminion.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.fanmade_enderman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.fanmade_enderman.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.farlander.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.farlander.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.farlander.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.looter.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.looter.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.looter.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderman.blindness"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderman.confusion"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderman.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderman.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderman.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderminion.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderminion.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.mystic_enderminion.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.rebel.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.rebel.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.rebel.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.enrage"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.holding_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.holding_med"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.holding_short"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.hurt_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.titan.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.wanderer.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.wanderer.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:entity.wanderer.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:item.mystic_wand.cast_fireball"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:item.mystic_wand.cast_invis"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:item.mystic_wand.cast_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "farlanders:item.mystic_wand.cast_regen"
+		}
+	]
+}

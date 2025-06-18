@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bonk"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bonk_choy_punch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bonk_choy_uppercut"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:bug_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:buzzer"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:chomper_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:chomper_glup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:dave_dialogue"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:frozen_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:fume"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:gardening_glove"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:ghost_pepper_living"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:ghost_pepper_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:jalapeno"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:no_sound"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:pea_shot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:plant_grow"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_on_grown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:planting_on_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:power-up"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:puff"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:puff_disapear"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:pvz_fertilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:recycling_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:snapfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:throwing_plant"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:using_sun"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:wall-nut_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "pvz_zengarden:wall-nut_rolling"
+		}
+	]
+}

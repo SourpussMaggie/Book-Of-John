@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "scguns:white_niter_glass"
+				},
+				{
+					"Name": "scguns:light_gray_niter_glass"
+				},
+				{
+					"Name": "scguns:gray_niter_glass"
+				},
+				{
+					"Name": "scguns:black_niter_glass"
+				},
+				{
+					"Name": "scguns:brown_niter_glass"
+				},
+				{
+					"Name": "scguns:red_niter_glass"
+				},
+				{
+					"Name": "scguns:orange_niter_glass"
+				},
+				{
+					"Name": "scguns:yellow_niter_glass"
+				},
+				{
+					"Name": "scguns:lime_niter_glass"
+				},
+				{
+					"Name": "scguns:green_niter_glass"
+				},
+				{
+					"Name": "scguns:light_blue_niter_glass"
+				},
+				{
+					"Name": "scguns:blue_niter_glass"
+				},
+				{
+					"Name": "scguns:cyan_niter_glass"
+				},
+				{
+					"Name": "scguns:purple_niter_glass"
+				},
+				{
+					"Name": "scguns:magenta_niter_glass"
+				},
+				{
+					"Name": "scguns:pink_niter_glass"
+				}
+			]
+		}
+	]
+}

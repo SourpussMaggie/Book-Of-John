@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "everycomp:burnt/burnt_soul_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:iter_rpg/sacred_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:marvelous_menagerie/sigillaria_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:paranormal_pleistocene/reaping_willow_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:scpo/scp_143_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:unusualprehistory/dryo_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:unusualprehistory/foxxi_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:unusualprehistory/ginkgo_logs"
+		}
+	]
+}

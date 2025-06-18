@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "croptopia:cinnamon_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "croptopia:crops"
+		}
+	]
+}

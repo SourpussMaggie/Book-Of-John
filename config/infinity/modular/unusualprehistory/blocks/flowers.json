@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:archaeos"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:bennett"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:horsetail"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:leefructus"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sarracenia"
+		}
+	]
+}

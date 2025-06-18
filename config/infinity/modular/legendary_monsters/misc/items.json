@@ -1,0 +1,496 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:air_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ambusher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ambushers_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:anchor_handle"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_detonator"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_dripstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_guardian_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_sandstone_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ancient_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:atmospheric_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:axe_of_lightning"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:blastproof_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:blastproof_metal_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:bomber_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chiseled_ancient_dripstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chiseled_ancient_dripstone_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chiseled_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorus_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorus_bomb_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorus_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorus_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorus_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:chorusling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:cloud_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:corrupted_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:crystal_of_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:crystal_of_sandstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:deactivated_guard_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:deactivated_knight_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dinosaur_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dinosaur_bone_club"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dinosaur_bone_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dinosaur_bone_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:dune_sentinel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:ender_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:endersent_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:entity_warper"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:explosive_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_air"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_bones"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_chorus"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_magma"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_many_ribs"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_sandstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_shulker"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:eye_of_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:falling_cloud_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:falling_cloud_small_projectile"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:fiery_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:fiery_jaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:frostbitten_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:frostbitten_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:frozen_rune"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:golden_halbert"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:guard_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:guide_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:haunted_guard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:haunted_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:heart_of_tornado"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:hovering_hurricane_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:infected_chorus_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:knight_summoner"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:knights_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:knights_sword_blade_half"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:large_shulker_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:lava_eater_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:lava_eaters_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:long_stick_half"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:molten_metal_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:monstrous_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:mossy_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:mossy_golem_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:mossy_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:music_disc_advance"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:nature_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:overgrown_colossus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:polished_diorite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:posessed_paladin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:primal_ice_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:purified_soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:reinforced_monstrous_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:sand_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:sharp_battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:sharp_sai"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:shulker_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:shulker_mimic_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:shulker_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:sickle_of_harvest"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeletosaurus_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeletosaurus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:skeloraptor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:soul_great_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:spike_bug_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:spiky_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:stratling_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:the_great_frost"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:totem_of_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:void_entity_warper"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:void_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:void_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:wand_of_clouds"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:warped_fungussus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:warped_mushroom_cap_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_abomination_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_ribcage"
+		},
+		{
+			"weight": 1.0,
+			"key": "legendary_monsters:withered_scythe"
+		}
+	]
+}

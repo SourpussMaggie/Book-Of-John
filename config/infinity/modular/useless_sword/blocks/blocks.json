@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "useless_sword:invisible_glowstone",
+				"full": false
+			}
+		}
+	]
+}

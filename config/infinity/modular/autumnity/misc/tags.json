@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "autumnity:maple_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:slippery_snail_goo_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "autumnity:snail_snacks"
+		}
+	]
+}

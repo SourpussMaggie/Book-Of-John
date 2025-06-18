@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hunters_return:boomerang"
+		},
+		{
+			"weight": 1.0,
+			"key": "hunters_return:mini_crossbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "hunters_return:spawnegg_hunter"
+		}
+	]
+}

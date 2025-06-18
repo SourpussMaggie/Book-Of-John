@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "royalvariations:golden_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:royalspirit"
+		},
+		{
+			"weight": 1.0,
+			"key": "royalvariations:shine"
+		}
+	]
+}

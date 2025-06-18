@@ -1,0 +1,52 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ancient_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:ancient_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:better_golem_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:bonk"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:dark_oak_golem_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:golem_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:golem_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:step_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:step_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:step_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "plenty_of_golems:stomp"
+		}
+	]
+}

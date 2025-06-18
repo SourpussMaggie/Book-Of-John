@@ -1,0 +1,58 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "mobs_of_sins:bane_of_undead"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1320435,
+				"Instant": false,
+				"Name": "mobs_of_sins:emergency_peel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -9748440,
+				"Instant": false,
+				"Name": "mobs_of_sins:lingering_pheromones"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1320435,
+				"Instant": false,
+				"Name": "mobs_of_sins:paralyzing_sting"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -33280,
+				"Instant": false,
+				"Name": "mobs_of_sins:piercing_eyes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -195531,
+				"Instant": false,
+				"Name": "mobs_of_sins:serrated"
+			}
+		}
+	]
+}

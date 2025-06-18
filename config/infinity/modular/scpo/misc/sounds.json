@@ -1,0 +1,660 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scpo:big_door_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:big_door_error"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:big_door_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:big_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:boreal_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:bottle_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:camera_shutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:chopper_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:coffee_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:containment_door_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:containment_door_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:crowbar_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:crowbar_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:crying_child_087"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:drawer_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:drawer_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:empty_can_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:equip_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:femurbreaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:h2o"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:heavy_containment_door_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:heavy_containment_door_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:interact_keycard"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:keycard_error"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mask_breathing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mimicry_dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mimicry_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:mimicry_sweep"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:nvg_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:phone_notif"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:player_cough"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:player_cough_f"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:plush_squish"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:plushy_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_amongus"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_bleach"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_burning"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_darknight"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_donka"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_hardbass"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_hysteria"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_jojo"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_kayava"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_lethal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_lobotomy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_maxwell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_muzak"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_noiz"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_scpradio"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_seduce"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_shanty"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_spaces"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_squelsh"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:radio_zombooid"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:roomba"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_714equipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_breath"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_kidnap"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_searching"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_spotted"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_049_takeoffhazmat"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_beat"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_poem"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_058_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_066_beethoven"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_066_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_066_rolloing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_096_buildup"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_096_chase"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_096_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_096_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_096_kill"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_096_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_098_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_098_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1000_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_a_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_a_shriek"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_b_cry"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_c_punt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1048_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_aoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_chase"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_corrosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_decay"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_kneel"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_106_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_111_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_111_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_111_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_111_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_131_danger"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_131_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_131_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_131_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1507_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_1507_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_kill"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_open_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_scare"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_tantrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_173_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_2501_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_2501_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_250_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_250_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_250_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_250_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_3199_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_3199_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_3199_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_3199_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_420_j_song"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_457_talk"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_5175_desummon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_5175_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_revive"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_682_spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_939_swing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_966_echo"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_966_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_990"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_999_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_999_happy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_999_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_999_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_999_sleep"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_button_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:scp_card_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:screaming_096_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:soda_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:step_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:step_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:step_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:step_pd"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_powerup"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_shock"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:tesla_windup"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:use_tape_recorder"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "scpo:vm_item"
+		}
+	]
+}

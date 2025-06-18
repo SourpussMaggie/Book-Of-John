@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "LavaAgent",
+      "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
+    },
+    "time": 1747613551823,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cXl3erEhDU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LavaAgent",
+      "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
+    },
+    "time": 1747610714889,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JnKxRFtg16"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LavaAgent",
+      "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
+    },
+    "time": 1747294368952,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9jzHAmNhSp"
+    }
+  }
+]

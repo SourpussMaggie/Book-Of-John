@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "travelersbackpack:potion_fluid",
+				"Name": "minecraft:air"
+			}
+		}
+	]
+}

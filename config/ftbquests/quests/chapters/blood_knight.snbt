@@ -1,0 +1,902 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "octagon"
+	filename: "blood_knight"
+	group: ""
+	icon: {
+		Count: 1
+		id: "born_in_chaos_v1:nightmare_mantleofthe_night_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "300B64933B8A5754"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3F3B32595F81851D"
+			rewards: [
+				{
+					id: "6091D192E40A9013"
+					item: "caverns_and_chasms:netherite_horse_armor"
+					type: "item"
+				}
+				{
+					id: "1E661FDFC3172D91"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "it happens faster than you'd think"
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "born_in_chaos_v1:smoked_flesh"
+				id: "1975A98177A7C76B"
+				type: "kill"
+				value: 99L
+			}]
+			title: "The Struggle"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "74D2B68899C589E3"
+			rewards: [{
+				id: "7EC6D38A98A150BA"
+				item: {
+					Count: 1
+					id: "scguns:super_shotgun"
+					tag: {
+						AmmoCount: 2
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "welcome back 2016"
+			tasks: [
+				{
+					entity: "born_in_chaos_v1:zombie_clown"
+					icon: "toybox:clown_altar"
+					id: "4734F3B38AAA2CDB"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "toybox:bonk"
+					icon: "toybox:solved_rubix_cube"
+					id: "3AADCE6F32A44376"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "I Hate Clowns"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "1713C32C5F69CD56"
+			rewards: [{
+				id: "59A1F9E4ABDF4657"
+				item: "randomium:randomium"
+				type: "item"
+			}]
+			subtitle: "now it's a real horror modpack"
+			tasks: [{
+				entity: "cave_dweller:cave_dweller"
+				icon: "upgrade_aquatic:tooth_lantern"
+				id: "3FD5CBFC6A0E4467"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Dweller Feller"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "0EF498989DEF105D"
+			rewards: [
+				{
+					id: "2E558930426DAD56"
+					item: "mobs_of_sins:capucin_monkey_heart"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0E87529FDEAE908D"
+					item: "immersive_paintings:painting"
+					type: "item"
+				}
+			]
+			subtitle: "there are no mistakes"
+			tasks: [{
+				entity: "mowziesmobs:sculptor"
+				icon: {
+					Count: 1
+					id: "useless_sword:clay_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "58A923D102215C20"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Monkey Murderer"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "0DDCE56CA950A4FC"
+			rewards: [{
+				id: "64CAA2238D6EBFE0"
+				item: "farmersdelight:hamburger"
+				type: "item"
+			}]
+			subtitle: "come here you little shit taste the back of my palm"
+			tasks: [{
+				entity: "born_in_chaos_v1:maggot"
+				icon: "born_in_chaos_v1:fried_maggot"
+				id: "2D938F7F28066326"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Failed Revenge Kill"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "593A3F55663F2A71"
+			rewards: [{
+				count: 15
+				id: "27264A05B15D9BD0"
+				item: "supplementaries:bamboo_spikes"
+				type: "item"
+			}]
+			subtitle: "there's a lot more where that came from"
+			tasks: [{
+				entity: "john_mod_reborn:baby_john"
+				icon: "john_mod_reborn:baby_john_spawn_egg"
+				id: "7F2346CAA7A759B9"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Pest Control"
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "6A80B66AEAEAAE08"
+			rewards: [{
+				id: "39D939533AC19A06"
+				item: "travelersbackpack:netherite_tier_upgrade"
+				type: "item"
+			}]
+			subtitle: "shadow of the coljohnssus"
+			tasks: [{
+				entity: "john_mod_reborn:mega_john"
+				icon: "john_mod_reborn:veil_o_johns"
+				id: "4CB91AF8456FFFE3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Big One"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "5AA408E17ABF3652"
+			rewards: [
+				{
+					id: "1EAA484339B6AC1C"
+					item: "undead_revamp2:thebidy_spawn_egg"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "05A709F55B8ED29C"
+					item: "minecraft:slime_ball"
+					type: "item"
+				}
+			]
+			subtitle: "like mother like sons"
+			tasks: [
+				{
+					entity: "undead_revamp2:thepregnant"
+					icon: "undead_revamp2:thebidy_spawn_egg"
+					id: "157FA1A96B29343B"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "undead_revamp2:thebidy"
+					icon: "sons_of_sins:slime_rear"
+					id: "444021F56F02A087"
+					type: "kill"
+					value: 5L
+				}
+			]
+			title: "Foul Creatures"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "455F5E6CFA02201A"
+			rewards: [{
+				id: "4F5FA085C1F0B252"
+				item: "scguns:gun_bench"
+				type: "item"
+			}]
+			subtitle: "spooky"
+			tasks: [{
+				entity: "undead_revamp2:thehunter"
+				icon: "atmospheric:grimwood_door"
+				id: "1C9A96D4BBFBA58F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Hunter and the Hunted"
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "35A2B62660F4A80C"
+			rewards: [{
+				id: "7E15D4AECA0BEF04"
+				item: "farmersdelight:dog_food"
+				type: "item"
+			}]
+			subtitle: "common modding trope i guess"
+			tasks: [
+				{
+					entity: "enemyexpansion:direwolf"
+					icon: "farmersdelight:dog_food"
+					id: "4F4F2E0ABC1B84BC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "born_in_chaos_v1:dread_hound"
+					icon: "farmersdelight:dog_food"
+					id: "559BF020B1BBD5C1"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Bad Boys"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "4075A7B871AA666C"
+			rewards: [{
+				count: 8
+				id: "0AB717D1103CB362"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			subtitle: "you monster"
+			tasks: [{
+				entity: "unusualfishmod:sea_pancake"
+				icon: "supplementaries:pancake"
+				id: "64BAB2DB7ECA6BCF"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Sadist"
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "2A409CCFDE4772E9"
+			rewards: [{
+				id: "2A2A82D812951C93"
+				item: "etched:etching_table"
+				type: "item"
+			}]
+			subtitle: "ooh whee ooh"
+			tasks: [{
+				entity: "undead_revamp2:thesmoker"
+				icon: "minecraft:light_blue_concrete"
+				id: "3FD856D60D3A6BF0"
+				type: "kill"
+				value: 4L
+			}]
+			title: "Blue Album"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "735D7D31543067DE"
+			rewards: [
+				{
+					count: 10
+					id: "102F96AE559BB09A"
+					item: "minecraft:tnt"
+					type: "item"
+				}
+				{
+					id: "757818405FC8A6D5"
+					item: "scguns:diamond_steel_blueprint"
+					type: "item"
+				}
+				{
+					id: "6D88D86D9098FFB5"
+					item: "sons_of_sins:block_of_creeper_ribs"
+					type: "item"
+				}
+			]
+			subtitle: "boom boom boom"
+			tasks: [
+				{
+					entity: "minecraft:creeper"
+					icon: "minecraft:creeper_head"
+					id: "535ABB65DFB6BCE3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "mutantmonsters:mutant_creeper"
+					icon: "minecraft:creeper_head"
+					id: "6FD69BD2A4239102"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "enemyexpansion:intruder"
+					icon: "minecraft:creeper_head"
+					id: "66CDA2E5F0F1577D"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "legendary_monsters:bomber"
+					icon: "minecraft:creeper_head"
+					id: "5B93D2CA70347A68"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "enemyexpansion:crawler"
+					icon: "minecraft:creeper_head"
+					id: "32A348661CA02230"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "caverns_and_chasms:deeper"
+					icon: "minecraft:creeper_head"
+					id: "32A3D27EDDC1014E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "caverns_and_chasms:peeper"
+					icon: "minecraft:creeper_head"
+					id: "7C8131008AB0E15C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "enemyexpansion:faller"
+					icon: "minecraft:creeper_head"
+					id: "5AFDA9D53C9733CE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "royalvariations:royal_creeper"
+					icon: "minecraft:creeper_head"
+					id: "56E60DF40F9827EC"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Arigato Family"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "4DC61F22CE8884F2"
+			rewards: [
+				{
+					count: 2
+					id: "4F941A4217581775"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "7F79846769AA630B"
+					item: "a_man_with_plushies:blue_royale_king_plush"
+					type: "item"
+				}
+			]
+			subtitle: "the high council"
+			tasks: [
+				{
+					entity: "royalvariations:royal_zombie"
+					icon: {
+						Count: 1
+						id: "royalvariations:royal_staff"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "169EA46708756C15"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "royalvariations:royal_skeleton"
+					icon: "royalvariations:royal_bone"
+					id: "2B0DDB81594C602C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "royalvariations:royal_creeper"
+					icon: "royalvariations:royal_gunpowder"
+					id: "17E6A5C574B15F19"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "undead_revamp2:slaveman"
+					icon: {
+						Count: 1
+						id: "royalvariations:royal_knight_helmet_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "66377C0943217D06"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Royal Rumpus"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "10F9A9CB4719C78A"
+			rewards: [{
+				id: "56190C304D9ED220"
+				item: {
+					Count: 1
+					id: "dungeonsdelight:iron_cleaver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "beneath the trees where nobody sees"
+			tasks: [{
+				entity: "ribbits:ribbit"
+				icon: {
+					Count: 1
+					id: "immersive_melodies:lute"
+					tag: { }
+				}
+				id: "2418941FBE236567"
+				type: "kill"
+				value: 2L
+			}]
+			title: "Do It For The Morph"
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "242390851F8DB806"
+			rewards: [{
+				count: 3
+				id: "39CADFE7F72C0077"
+				item: "scguns:iron_blueprint"
+				type: "item"
+			}]
+			subtitle: "how hard can it be"
+			tasks: [
+				{
+					entity: "alexsmobs:elephant"
+					icon: "undergarden:brute_tusk"
+					id: "4F2CB82B62316A20"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "alexsmobs:grizzly_bear"
+					icon: "mobs_of_sins:grizzly_bear_ribs"
+					id: "1C6D105B320DB092"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "alexsmobs:rhinoceros"
+					icon: "alexsmobs:froststalker_horn"
+					id: "07AE8A3F92A5F905"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Regular Animals"
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			id: "12C5FF0DA612709A"
+			rewards: [
+				{
+					count: 2
+					id: "07319654A4FCD89E"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "alexsmobs:long_bug_pheromones"
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5E0A97467563D86A"
+					item: "gnumus:gnumus_pouch"
+					type: "item"
+				}
+			]
+			subtitle: "RIP Meatbug or whatever it was called"
+			tasks: [
+				{
+					entity: "species:roombug"
+					icon: "species:roombug_spawn_egg"
+					id: "7A39F214635C0D04"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "atmospheric:cochineal"
+					icon: "atmospheric:cochineal_spawn_egg"
+					id: "544DADC7FB032C93"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Obscure Bugs"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "7825F3AD9E43EB24"
+			rewards: [{
+				count: 10
+				id: "3607861B1360C3AB"
+				item: "stalwart_dungeons:chorundum"
+				type: "item"
+			}]
+			subtitle: "i can do you one better"
+			tasks: [{
+				entity: "born_in_chaos_v1:diamond_termite"
+				icon: "useless_sword:bugged_diamond"
+				id: "01EDCCEF411B5448"
+				type: "kill"
+				value: 90L
+			}]
+			title: "The Churning"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "20830F76FE72AA20"
+			rewards: [{
+				count: 100
+				id: "50D607460C0D7B3D"
+				item: "caverns_and_chasms:cupric_torch"
+				type: "item"
+			}]
+			subtitle: "real yakuza turn off subtitles"
+			tasks: [
+				{
+					entity: "born_in_chaos_v1:lifestealer"
+					icon: "born_in_chaos_v1:lifestealer_skull"
+					id: "09F165D356C2D8BC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "alexsmobs:centipede_head"
+					icon: "rats:centipede"
+					id: "4E12AC0A3A9A70F1"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Cave Dwellers (no affiliation)"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "0546EA1D71D3D3BC"
+			rewards: [{
+				id: "2CA2B8706B8E4FF1"
+				item: "vintagedelight:magic_peanut"
+				type: "item"
+			}]
+			subtitle: "when i first saw him, i was really scared"
+			tasks: [{
+				entity: "scpo:scp_173"
+				icon: "supplementaries:statue"
+				id: "0F92000E12C252D0"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Nutcracker"
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			id: "69930E0BA1ACACB3"
+			rewards: [{
+				count: 3
+				id: "5328221F570EE2D2"
+				item: "quarkdelight:cloud_latte"
+				type: "item"
+			}]
+			subtitle: "they fly now"
+			tasks: [
+				{
+					entity: "whisperwoods:zotzpyre"
+					icon: "miners_delight:bat_wing"
+					id: "486717F671910EDD"
+					type: "kill"
+					value: 2L
+				}
+				{
+					entity: "undead_revamp2:sucker"
+					icon: "undead_revamp2:suckermemebrane"
+					id: "0D0E166FBA66EFC8"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "undead_revamp2:bigsucker"
+					icon: "sons_of_sins:blood_bucket"
+					id: "67213439BF505774"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Airborne Undead"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "2DE57D4F8009F87E"
+			rewards: [{
+				count: 8
+				id: "215AC89B4B265E94"
+				item: "born_in_chaos_v1:monster_flesh"
+				type: "item"
+			}]
+			subtitle: "bzzzzzzz"
+			tasks: [
+				{
+					entity: "alexsmobs:fly"
+					icon: "hauntedharvest:rotten_apple"
+					id: "100D21A21EBE20C3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "born_in_chaos_v1:corpse_fly"
+					icon: "minecraft:rotten_flesh"
+					id: "48807CEBD30A1E3C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "enemyexpansion:botfly"
+					icon: "rats:trash_can"
+					id: "41EAEA7752D852A8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "born_in_chaos_v1:bloody_gadfly"
+					icon: "born_in_chaos_v1:bloody_gadfly_eye"
+					id: "2BFA5341FAB422FE"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Fly Swatter"
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "5A414C20144DA13D"
+			rewards: [
+				{
+					id: "71CB8721E0AA4E41"
+					item: "exposure:album"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4854DB08E9667778"
+					item: "dungeonsdelight:malicious_sandwich"
+					type: "item"
+				}
+			]
+			subtitle: "questions better left unanswered"
+			tasks: [
+				{
+					entity: "nirvana:reefer"
+					icon: "nirvana:hemp"
+					id: "097C382CD2A54F49"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "scpo:scp_0662"
+					icon: "scpo:scp_066"
+					id: "48E896BF66725477"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "alexsmobs:bunfungus"
+					icon: "alexsdelight:bunfungus_sandwich"
+					id: "41E51569E5C06BAE"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "God's Dumbest Creations"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "70887FF8ACB070AC"
+			rewards: [{
+				count: 10
+				id: "57462CC86396737A"
+				item: "born_in_chaos_v1:bone_heart"
+				type: "item"
+			}]
+			subtitle: "they come in packs"
+			tasks: [{
+				entity: "undead_revamp2:therod"
+				icon: "minecraft:lightning_rod"
+				id: "2B8815E95477F159"
+				type: "kill"
+				value: 3L
+			}]
+			title: "Bum Rush"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "5B2BD019EBEAE8C5"
+			rewards: [{
+				id: "2DF7D31AEEF31917"
+				item: {
+					Count: 1
+					id: "buildinggadgets2:template"
+					tag: { }
+				}
+				type: "item"
+			}]
+			subtitle: "you're not me"
+			tasks: [{
+				entity: "player_mobs:player_mob"
+				icon: {
+					Count: 1
+					id: "enemyexpansion:meathead_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6C4D8BC2F79A61E2"
+				type: "kill"
+				value: 3L
+			}]
+			title: "Monsters"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "008EB230E90F6910"
+			rewards: [{
+				count: 20
+				id: "2700892D3D4AC50F"
+				item: "alexsmobs:banana"
+				type: "item"
+			}]
+			subtitle: "social and ferocious"
+			tasks: [
+				{
+					entity: "alexsmobs:tiger"
+					icon: "mobs_of_sins:tiger_muscles"
+					id: "6C8199F6E5FB24F8"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "alexsmobs:gorilla"
+					icon: "alexsmobs:banana_peel"
+					id: "228B6459ABB9FC2A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "legendarycreatures:peacock_spider"
+					icon: "sons_of_sins:spider_heart"
+					id: "0EC214082900D1E5"
+					type: "kill"
+					value: 4L
+				}
+			]
+			title: "Jungle Japes"
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			id: "50E185622BAE698C"
+			rewards: [
+				{
+					id: "65607A6EC3114E3F"
+					item: "artifacts:pickaxe_heater"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "18D246DCE91179E8"
+					item: "scbrass:brass_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "destroy build destroy"
+			tasks: [{
+				entity: "plenty_of_golems:anvil_golem"
+				icon: "minecraft:damaged_anvil"
+				id: "6920B477BFBD4B78"
+				type: "kill"
+				value: 2L
+			}]
+			title: "VERSUS"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			description: ["mostly added this for the niche scenario of having enough iron for a TV but no amethyst"]
+			id: "2152C4CCC1468789"
+			rewards: [
+				{
+					id: "462E0C97A88E2EC9"
+					item: "scalinghealth:chance_heart"
+					type: "item"
+				}
+				{
+					id: "434EF2F4BA62DB52"
+					item: "minecraft:tinted_glass"
+					type: "item"
+				}
+			]
+			subtitle: "new Gerbil fight (HARDER THAN SANDS????)"
+			tasks: [{
+				entity: "born_in_chaos_v1:zombie_clown"
+				icon: "enemyexpansion:scorpion_tail"
+				id: "1923F5B06575295D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Delter Rune"
+			x: -3.0d
+			y: 3.0d
+		}
+	]
+	subtitle: ["all the world's creatures are yours to butcher"]
+	title: "GNASHING OF TEETH"
+}

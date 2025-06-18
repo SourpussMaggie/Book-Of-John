@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "xercapaint:item_canvas"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:item_canvas_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:item_canvas_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:item_canvas_tall"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:item_easel"
+		},
+		{
+			"weight": 1.0,
+			"key": "xercapaint:item_palette"
+		}
+	]
+}

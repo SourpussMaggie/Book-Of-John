@@ -1,0 +1,314 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	default_repeatable_quest: true
+	filename: "xp_shoppe"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: "quark:diamond_heart"
+	id: "51E2F65E057E426C"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "minecraft:ender_pearl"
+			id: "7A951A10AE21E0FB"
+			rewards: [{
+				id: "160EDA1AA181CCAC"
+				item: "minecraft:ender_pearl"
+				type: "item"
+			}]
+			subtitle: "oddly hard to come by nowadays"
+			tasks: [{
+				count: 9L
+				id: "1D912385301220B7"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "One Ender Pearl"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "minecraft:torch"
+			id: "4E86613D56F959FF"
+			rewards: [{
+				count: 10
+				id: "4A55835DDFF773BD"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			subtitle: "lazy ass"
+			tasks: [{
+				id: "588A7549560434B1"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Torches"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "minecraft:ancient_debris"
+			id: "58920B19258E7A36"
+			rewards: [{
+				id: "40BB593CEAB26DE7"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			subtitle: "mom i'm bored"
+			tasks: [{
+				count: 18L
+				id: "0AEB09DCBC311023"
+				item: { Count: 18, id: "born_in_chaos_v1:diamond_termite_shard" }
+				type: "item"
+			}]
+			title: "Ancient Debris"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "undead_revamp2:the_moonflower_spawn_egg"
+			id: "7C65C996E96D6962"
+			rewards: [{
+				id: "4DCDBF4BEBC96732"
+				item: "undead_revamp2:the_moonflower_spawn_egg"
+				type: "item"
+			}]
+			subtitle: "this would be a funny prank i think"
+			tasks: [{
+				count: 6L
+				id: "3E2A36ABE28CA89D"
+				item: { Count: 6, id: "born_in_chaos_v1:diamond_termite_shard" }
+				type: "item"
+			}]
+			title: "Moonflower Egg"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "born_in_chaos_v1:rotten_easter_egg"
+			id: "47DD105FFEA43E19"
+			rewards: [{
+				id: "0884E91E125FE1DB"
+				item: "born_in_chaos_v1:rotten_easter_egg"
+				type: "item"
+			}]
+			subtitle: "long-expired"
+			tasks: [{
+				count: 9L
+				id: "14A2C357DA0BE320"
+				item: { Count: 9, id: "born_in_chaos_v1:diamond_termite_shard" }
+				type: "item"
+			}]
+			title: "Rotten Easter Egg"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "born_in_chaos_v1:supreme_measure"
+			id: "70DCB8E79353249B"
+			rewards: [{
+				id: "3A18A91EABD0A63A"
+				item: "born_in_chaos_v1:supreme_measure"
+				type: "item"
+			}]
+			subtitle: "found this at a garage sale"
+			tasks: [{
+				count: 9999L
+				id: "3831E494A3F94BBD"
+				item: {
+					BigCount: 9999
+					Count: 9999
+					id: "born_in_chaos_v1:diamond_termite_shard"
+				}
+				type: "item"
+			}]
+			title: "Contraband"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "minecraft:diamond"
+			id: "45B453A2254968FD"
+			rewards: [{
+				count: 2
+				id: "2265135ACFE0D39B"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			subtitle: "those extra shards stack up, you know"
+			tasks: [{
+				count: 17L
+				id: "2ED229FE39C669A0"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Great Value"
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: {
+				Count: 1
+				id: "nirvana:joint"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "51F72B3A681B1B47"
+			rewards: [{
+				id: "45189039970ECD95"
+				item: {
+					Count: 1
+					id: "nirvana:joint"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "pass me some of that mary jane"
+			tasks: [{
+				count: 6L
+				id: "135F7A49466DA734"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "A Joint"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "miners_delight:noodle_soup_cup"
+			id: "09A54AD49E7F3C81"
+			rewards: [{
+				id: "5BBC535760C5A8CC"
+				item: "miners_delight:noodle_soup_cup"
+				type: "item"
+			}]
+			subtitle: "dining on a budget"
+			tasks: [{
+				count: 9L
+				id: "44958AA24812CB81"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Instant Ramen"
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "scguns:basic_poultice"
+			id: "22C01C3AE18D5597"
+			rewards: [{
+				id: "1C28D5E3079C037A"
+				item: "scguns:basic_poultice"
+				type: "item"
+			}]
+			subtitle: "good in a pinch"
+			tasks: [{
+				count: 3L
+				id: "016E79233BB32052"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Rations"
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "scalinghealth:chance_heart"
+			id: "00882C1D2D11CB5D"
+			rewards: [{
+				id: "582037C64670202E"
+				item: "scalinghealth:chance_heart"
+				type: "item"
+			}]
+			subtitle: "playing with lives here"
+			tasks: [{
+				count: 9L
+				id: "666DC2118A04A6E5"
+				item: { Count: 9, id: "born_in_chaos_v1:diamond_termite_shard" }
+				type: "item"
+			}]
+			title: "Gamblin' Heart"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "scalinghealth:cursed_heart"
+			id: "521330B4C70DF289"
+			rewards: [{
+				id: "1C968654E731A5D5"
+				item: "scalinghealth:cursed_heart"
+				type: "item"
+			}]
+			subtitle: "glutton for punishment"
+			tasks: [{
+				count: 6L
+				id: "4F65387E54C9BAEE"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Bad Idea"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "randomium:randomium_ore"
+			id: "72EDE43738A436E8"
+			rewards: [{
+				id: "0E604865C43DABD6"
+				item: "randomium:randomium_ore"
+				type: "item"
+			}]
+			subtitle: "you'll totally get a Chunky Cheese Token this time"
+			tasks: [{
+				count: 12L
+				id: "3310E1E5C315F62F"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Random Item"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "minecraft:chorus_fruit"
+			id: "1DFAE2FA8831BBB2"
+			rewards: [{
+				id: "3F68CBD81CF2C185"
+				item: "minecraft:chorus_fruit"
+				type: "item"
+			}]
+			subtitle: "loosey juicy"
+			tasks: [{
+				count: 5L
+				id: "3DD23ECDBAD2F7A3"
+				item: { Count: 5, id: "born_in_chaos_v1:diamond_termite_shard" }
+				type: "item"
+			}]
+			title: "Unstable Fruit"
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+	subtitle: ["One man's trash..."]
+	title: "Termite Shoppe"
+}

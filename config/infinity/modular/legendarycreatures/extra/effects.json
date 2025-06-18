@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9730918,
+				"Instant": false,
+				"Name": "legendarycreatures:convulsion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 9730918,
+				"Instant": false,
+				"Name": "legendarycreatures:root"
+			}
+		}
+	]
+}

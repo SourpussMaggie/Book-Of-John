@@ -1,0 +1,312 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_base_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:arcade_slot_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_base_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:cardtable_wide_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_1_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_2_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_2_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_3_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_3_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_3_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_4_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_4_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_5_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_5_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_6_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_6_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "casinocraft:rulebook_7_0"
+		}
+	]
+}

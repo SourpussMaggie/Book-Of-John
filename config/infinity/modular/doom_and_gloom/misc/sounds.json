@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:ambient.fog"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.bone_pile.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.bone_pile.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.bone_pile.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.bone_pile.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.bone_pile.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.corpse_stuffed"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.filled"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.harvest"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.rotting"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.sealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.sepulcher.unsealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:block.stone_tablet.engrave"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:entity.holler_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:entity.holler_hollers"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:entity.holler_hurts"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:entity.holler_shrieks"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:entity.villager.work_gravetender"
+		}
+	]
+}

@@ -1,0 +1,128 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stonezone:all_stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/cavesanddepths/chert_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/cavesanddepths/slate_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/deep_dark_regrowth/grimstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/deep_dark_regrowth/petronium_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/deep_dark_regrowth/polished_grimstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/enlightened_end/palerock_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/enlightened_end/palerock_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/enlightened_end/polished_palerock_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/enlightened_end/polished_void_shale_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/enlightened_end/void_shale_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/enlightened_end/void_shale_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/iter_rpg/grimstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/iter_rpg/grimstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/iter_rpg/hivestone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/iter_rpg/polished_grimstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/jellyfishing/coralstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/jellyfishing/coralstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/jellyfishing/polished_coralstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/luminous_nether/fungirrack_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/undergarden/depthrock_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/undergarden/depthrock_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/undergarden/polished_depthrock_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/undergarden/shiverstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/undergarden/tremblecrust_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/unusualend/gloopslate_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/unusualend/gloopstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/unusualend/polished_gloopslate_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/unusualend/polished_gloopstone_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/unusualend/polished_gneiss_vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stonezone:q/unusualend/polished_warped_stone_vertical_slab"
+		}
+	]
+}

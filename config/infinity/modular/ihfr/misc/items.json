@@ -1,0 +1,304 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ihfr:acid_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:artifical_maw"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:barnacle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bile_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_block_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_block_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:bone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:brain_mass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:brainstorm"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:caterpillar_patty"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:caterpillar_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:catterpillar_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:cooked_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:corporeal_handheld_harpoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:corporeal_hook_cooldown"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:dreamcatching_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:eye_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:flesh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:flesh_burger"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:flesh_maw"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:flesh_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:flesh_taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:fleshroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:fried_gangrenous_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gangrenous_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gaping_maw"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gilly"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gnasher"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gorebat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:gutworm_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:hollow_trypora"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:hulker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:icon_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:icon_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:marrow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:meaty_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:music_disc_sanguine"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:mystery_meat_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:nerval_branch_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:nightmare_nexus"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_flesh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:osseous_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:pendent_tendons"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:poroustrypora"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:raw_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:sanguine_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:scarred_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:scarred_flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:scarred_flesh_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:short_watching_fleshroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:sinew_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:snapper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:specimen_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:spinal_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:tall_fleshroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:tall_gazing_fleshroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:tendoncle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:veins"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:vomit_texture"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:watching_fleshroot"
+		}
+	]
+}

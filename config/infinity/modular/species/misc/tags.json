@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "species:limpet_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:mammutilation_body_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:mammutilation_remnant_invalid_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:petrified_egg_hatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:petrified_egg_hatch_boost"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:treeper_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "species:wraptor_nesting_blocks"
+		}
+	]
+}

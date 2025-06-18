@@ -1,0 +1,31 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 5490622,
+				"Instant": false,
+				"Name": "species:birtd"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": 6238159,
+				"Instant": false,
+				"Name": "species:gut_feeling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": 7435387,
+				"Instant": false,
+				"Name": "species:wither_resistance"
+			}
+		}
+	]
+}

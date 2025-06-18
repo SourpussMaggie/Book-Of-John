@@ -1,0 +1,696 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:aero_mono_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:aero_mono_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:amber_goby_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:amber_goby_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:ancient_weapon_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:bark_angelfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:bark_angelfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:beaked_herring_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:beaked_herring_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:blackcap_snail_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:blackcap_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:blind_sailfin_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:blind_sailfin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:blizzardfin_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:blizzardfin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:brick_snail_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:brick_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:celestial_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:chiseled_crimson_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:chiseled_relucent_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:circus_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:circus_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:clement_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:clownthorn_shark_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:clownthorn_shark_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:cooked_aero_mono_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:cooked_blizzard_tuna"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:cooked_lobster"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:cooked_mossthorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:cooked_shockcat"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:cooked_unusual_fillet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:copper_antenna"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:copperflame_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:copperflame_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:coral_skrimp_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:coral_skrimp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimson_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimsonshell_squid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crimsonshell_squid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:deep_crawler_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:deep_crawler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:demon_herring_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:demon_herring_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:depth_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:depth_scythe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:drooping_gourami_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:drooping_gourami_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:duality_damselfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:duality_damselfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:eyelash_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:eyelash_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:fluvial_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:forkfish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:forkfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:freshwater_mantis_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:freshwater_mantis_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:gnasher_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:hatchet_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:hatchet_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:kalappa_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:lobed_skipper_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:lobed_skipper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:lobster_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:lobster_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:mossthorn_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:mossthorn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:muddytop_snail_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:muddytop_snail_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:music_disc_seafoam"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:nautical_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:odd_fishsticks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:pickledish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:picklefish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:picklefish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:pinkfin_idol_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:pinkfin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:porcupine_lobsta_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:porcupine_lobsta_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:prawn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:prismarine_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_aero_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_aero_mono_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_amber_goby"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_bark_angelfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_beaked_herring"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_blind_sailfin"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_blizzard_tuna"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_circus_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_copperflame_anthias"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_demon_herring"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_drooping_gourami"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_duality_damselfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_eyelash"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_forkfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_hatchetfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_lobster"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_mossthorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_picklefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_sailor_barb"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_shockcat"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_sneep_snorp"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_snowflake"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_spindlefish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:raw_triple_twirl_pleco"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:relucent_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:rhino_tetra_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:ripper_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:ripper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:ripper_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:ripsaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:root_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:roughback_guitarfish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sailor_barb_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sailor_barb_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sea_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sea_mosquito_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sea_mosquito_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sea_pancake_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sea_spider_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sea_spider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:shockcat_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:shockcat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sneepsnorp_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sneepsnorp_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:snowflake_tail_fish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:snowflake_tail_fish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:spindlefish_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:spindlefish_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:spoon_shark_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:spoon_shark_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:squoddle_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:squoddle_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:stout_bichir_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:stout_bichir_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:strange_broth"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:tendril"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:thunderous_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:tiger_jungle_shark_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:tiger_puffer_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:tiger_puffer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:tribble_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:tribble_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:triple_twirl_pleco_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:triple_twirl_pleco_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:trumpet_squid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:trumpet_squid_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:unusual_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:volt_angler_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:volt_angler_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:volt_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:weapon_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:weird_goldfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:wizard_jelly_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:wizard_jelly_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:zebra_cornetfish_spawn_egg"
+		}
+	]
+}

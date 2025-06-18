@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -13421773,
+				"Name": "luminous_nether:ash_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -154,
+				"Name": "luminous_nether:fungal_plains"
+			}
+		}
+	]
+}

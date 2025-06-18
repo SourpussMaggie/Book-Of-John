@@ -1,0 +1,56 @@
+.cache/
+backups/
+crash-reports/
+data/
+datapacks/
+datapacks\ -\ Copy/
+defaultconfigs\ -\ Copy/
+downloads/
+downloads\ -\ Copy/
+essential/
+essential\ -\ Copy/
+etched-sounds/
+fancymenu_data/
+immersive_paintings/
+immersive_paintings_cache/
+kubejs/
+local/
+modernfix/
+patchouli_books/
+saves/
+screenshots/
+showdown/
+simplebackups/
+xaero/
+XaeroWaypoints_BACKUP032021/
+XaeroWaypoints_BACKUP240807/
+.cursedclient
+.qmenu_opened.marker
+EffekseerNativeForJava.dll
+emi.json
+fabricloader.log/
+hs_err_pid2400/
+hs_err_pid15552/
+hs_err_pid22164/
+hs_err_pid23532
+hs_err_pid25396
+hs_err_pid52544
+knownkeys.txt
+minecraftinstance.json
+ops.json
+options.txt
+patchouli_data.json
+README.md
+replay_pid22072
+replay_pid25396
+replay_pid52544
+rhino.local.properties
+servers.dat
+servers.dat_old
+servers.essential.dat
+supportercache.json
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+user-prefs.json
+whitelist.json

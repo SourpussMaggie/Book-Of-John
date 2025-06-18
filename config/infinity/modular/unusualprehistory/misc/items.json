@@ -1,0 +1,1272 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:adorned_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:amber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:amber_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:amber_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:amber_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:amber_gummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:amber_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ammon_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ammon_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ammon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ammonite_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ammonite_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ammonite_shell_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:analyzer"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anostylostroma_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anostylostroma_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:antarcto_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:anuro_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:archaefructus"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:archaefructus_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:archaeos"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:archao_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austro_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:austroraptor_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barin_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barina_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barina_whistle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:barinasuchus_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelz_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelz_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:beelze_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:bennet_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:bennett"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:blue_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:blue_fruit_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:brachi_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:clathrodictyon"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:clathrodictyon_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:clathrodictyon_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:clathrodictyon_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cooked_austro"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cooked_coty"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cooked_ginkgo_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cooked_mammoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cooked_scau"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cooked_stetha"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:coty_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:cultivator"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dead_clathrodictyon"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dead_clathrodictyon_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dead_clathrodictyon_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:deepslate_amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:deepslate_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:deepslate_opal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:deepslate_plant_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:deepslate_tar_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:defrosted_frozen_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dino_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dna_fridge"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_nuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dryo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:dunk_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_organ"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_sack"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encrusted_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:encyclopedia"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:eryon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxii_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:foxxi_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:frog_saliva"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:frozen_fossil_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:fruit_loot_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:giganto_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ginkgo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:gold_engraved_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:golden_scau"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:grog"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:handmade_battleaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:handmade_club"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:handmade_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:horsetail"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:horsetail_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:hwacha_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:incubator"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:insulator"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:kentro_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:leefructus"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:leefructus_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_scute"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:majunga_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_meatball"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mammoth_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:meat_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:meaty_buffet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megala_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megala_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megalania_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megath_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megath_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:megatherium_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:mezo_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:nelumbites"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:nelumbites_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:opal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:opal_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:opal_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:opalescent_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:opalescent_shuriken"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:organic_ooze"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:pachy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaeo_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:palaophis_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paleo_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paracer_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paracer_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:paraceratherium_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:permafrost"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:permafrost_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:petrified_wood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:plant_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:plant_fossil_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:polished_petrified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:polished_petrified_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:polished_petrified_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:primal_macuahuitl"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:quartz_engraved_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:quereuxia"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:quereuxia_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:quereuxia_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raiguenrayun"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raiguenrayun_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_feathers"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raptor_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raw_austro"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raw_coty"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raw_ginkgo_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raw_mammoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raw_scau"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:raw_stetha"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:red_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:red_fruit_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_boombox"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:rex_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sarr_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sarracenia"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:scau_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:scau_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:scau_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:scau_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:scau_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:shedscale_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:shedscale_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:shedscale_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:shedscale_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:shell_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sloth_pouch_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:sludge_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilo_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilo_fur"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilodon_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:smilodon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:splattered_tar"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stetha_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stetha_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stetha_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stetha_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stetha_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stone_amber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stone_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stone_opal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stone_tar_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_dryo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_dryo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_foxxi_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_foxxi_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_ginkgo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_ginkgo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_petrified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:stripped_petrified_wood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tall_horsetail"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tall_horsetail_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tall_sarracenia"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:talpanas_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tar_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tar_fossil_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:trike_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:tyrants_crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:ulugh_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:veloci_fossil"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:veloci_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:veloci_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:warpick"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:white_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:white_fruit_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:yellow_fruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:yellow_fruit_scraps"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:zuloagae"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:zuloagae_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualprehistory:zulogae_disc"
+		}
+	]
+}

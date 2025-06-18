@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ae2:blacklisted/annihilation_plane"
+		},
+		{
+			"weight": 1.0,
+			"key": "ae2:blacklisted/spatial"
+		}
+	]
+}

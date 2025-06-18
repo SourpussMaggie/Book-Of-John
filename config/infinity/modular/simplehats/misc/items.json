@@ -1,0 +1,1248 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplehats:acornhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:aegishat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:alien_antennae"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:alienphil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:amalgalichhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:angel_and_devil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:angrymask"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:antlers"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:artsy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:artsy_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:astronaut"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:axolotl_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:azumanga_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:baby_crewmate"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:babydolphin"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:babyturtle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bandana"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bandanargb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:baseballeaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:baseballhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:baseballhatfestive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:baseballhatjuly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:baseballhatrgb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:batwinghat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beanie"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beanieeaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beaniefestive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beaniejuly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beaniergb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beaniespooky"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bee_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beehat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beetle_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:beret_ribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bicorne"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bigbrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bigcrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bigeyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bigribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bigstevehead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:binky"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bluefireeye"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bowler"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:breadhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:brownbrick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:bunnyhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:burgerhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:burning_m_bison"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:caddycap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:camera"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:camerabeard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:candleonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:candycane"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cardboard_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:carrotonstick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cartoonegg"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cat_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cat_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:caterpillar_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:chalk_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cheeseslice"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:chefshat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:chi_ears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:chickenhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:chickenonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:chocolate_sauced"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:christmascakehat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:christmastree"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:circular_glasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:clockface"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cowboy"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cowboyrgb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:crabonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:crown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:crystal_horns"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cucumbereyemask"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cuphead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:cyclopseye"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dairyqueen"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dangereqsue"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dangeresquejuly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dejiko"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:demoneyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:demonhorns"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:digger"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dimmahat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dipper"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:discoball"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:disguise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:doctorhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dorkglassesandteeth"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:doubletake"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dragonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dragonskull"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dragonskullender"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:drinkinhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:druid_antlers"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:druid_antlers_rare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dumhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:dwarfminerbeard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:easterhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eevee_ears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:egghead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eggonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:elfhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:explorerhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eyeholder_beeholder"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eyeholder_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eyeholder_evil"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eyeholder_warm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eyeholder_xanath"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:eyepatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fakeblight"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fakefire"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:farmerbrim"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:festiveantlers"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:festiveribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fez"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:finnhood"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fireworks"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fishing_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fishonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:flagjuly"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:flies"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:floatinghearts"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:floatingstar"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:flowercrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:floweronhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:foxhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fro"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:frozenhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:fullironhelm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:ghostmask"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:gnome"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:gnome_clover_wig"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:grandmadisguise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:greaser"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:greenbirb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:grinchhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:halo"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hat_of_discipline"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_common"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_easter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_epic"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_festive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_halloween"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_rare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_summer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatbag_uncommon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatdisplay"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:haticon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_common"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_easter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_festive"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_halloween"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_rare"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_summer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hatscraps_uncommon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:headbolts"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:headphonesblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:headshot"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hockeymask"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:holyhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:horsemask"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:hosthat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:icedragonskull"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:jackohat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:jesterhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:julydouble"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:kirbymouthful"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:ladybug_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:largehorns"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:lightning_eyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:lil_bows"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:lil_termagant"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:lilbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:longfoxears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:madscientist"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:magikarp"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:medusa"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:megamanhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:milady_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mimic_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mimic_head_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mimic_head_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mindflayer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mindflayer_alhoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mistletoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:mohawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:monkeyking"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:monocle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:moreeyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:murdered"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:nekoears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:nyan_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:octodad"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:orange_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:palmtree"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:paperbag"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:partyhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:paypay"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:penguinbaby"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:penguinhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:peppino"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:pighead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:pika_ears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:pinhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:plaguedoctor"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:pog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:pohatoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:policebucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:policesiren"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:pom_moog"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:poofballhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:poofballrgb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:popehat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:potionhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:presentsstack"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:propelhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:puchiko"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:questbook"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rabbitears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rabbitonhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rabi_en_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rainboworbiters"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:raincloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:ranahat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:redeyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rednose"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:redstache"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbbigribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbbowler"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbdragonskull"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbdrinkinhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbeasterhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbfullhelm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbpartyhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbsmallbowler"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbsunglasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbtoptophathat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rgbushanka"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:right_hand_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:round_purple_wig"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:round_red_wig"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:rubbernipple"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sandcastle"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:santaclaus"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sausage"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:scouter"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:seaweedhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:shakehat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sheep"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:shrekears"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:shroomcap"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:simsgem"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sleepeyemask"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:slime_cube_dnd"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:slime_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:smokingpipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:snowmanbaby"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sombrero"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sonichood"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:spadesoldier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:special"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:spiderweb"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sport_sunglasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:springer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:spyzombie"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:stackofeggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:stinkycheeseman"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:strawberry_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:stress"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:stuck_lollipop"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:summerhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sunglasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:sunglassesbig"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:supersandhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:swimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tanuki_leaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:teddy_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:the_noise"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:the_noisier"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:thumbnail"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tick_on_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tinkerhat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tomato_splats"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:topcathat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tophat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:toptophathat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:toy_story_alien"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:traffic_cone"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:triangleshades"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tricorne"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:tvhead"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:twilight_doll"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:udder_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:unicornhorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:ushanka"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:vikinghatbeard"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:villagernose"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:winghat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:worm_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:worms_mine"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplehats:zigzagwitchhat"
+		}
+	]
+}

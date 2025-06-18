@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:arthropod_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:arthropod_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:baby_elephant_bird_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:baby_elephant_bird_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:baby_elephant_bird_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:caris_armor_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:caris_armor_crack"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:caris_armor_damage"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:caris_armor_equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:caris_armor_repair"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:caris_armor_unequip"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:creature_flops"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:creature_swim"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dodo_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dodo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dodo_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dolphin_blowhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:egg_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_grumble"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:josepho_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:josepho_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:josepho_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:large_footsteps"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_land_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_alert"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_yawn"
+		}
+	]
+}

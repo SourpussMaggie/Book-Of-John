@@ -1,0 +1,388 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:arithmetic_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:backwards_holo_remote"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:battery_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:bioluminescent_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:broken_holo_remote"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:campfire_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:chiseled_organic_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:chiseled_organic_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:chunk_loader"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:chunkrodite"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:chunkrodite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:color_detector_rail_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:corrugated_silica_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:coupler"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:cross_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:filter_unloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:flag_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:glass_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:glass_spines"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:hard_light_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:high_speed_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:holo_remote"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:holo_scaffold_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:iron_pushcart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:levitation_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:lightspeed_cross_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:lightspeed_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:lightspeed_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:locking_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:maglev_cross_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:maglev_parallel_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:maglev_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:maglev_projector_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:maglev_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:maglev_rail_turn"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:minecart_loader"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:minecart_unloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:minecart_with_chunk_loader"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:minecart_with_net"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:organic_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:organic_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:parallel_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:pearl_stasis_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:pearl_stasis_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:piston_lifter_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:piston_pushcart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:powered_locking_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:projector_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_signal_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:rail_turn"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:silica_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:silica_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:silica_steel_mix"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:silica_steel_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:simple_holo_remote"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:soulfire_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:sticky_piston_pushcart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:tank_cart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:transport_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:transport_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:wooden_cross_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:wooden_parallel_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:wooden_projector_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:wooden_pushcart"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:wooden_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "moreminecarts:wooden_rail_turn"
+		}
+	]
+}

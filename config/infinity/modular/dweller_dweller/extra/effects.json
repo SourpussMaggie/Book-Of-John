@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -16750900,
+				"Instant": false,
+				"Name": "dweller_dweller:scared"
+			}
+		}
+	]
+}

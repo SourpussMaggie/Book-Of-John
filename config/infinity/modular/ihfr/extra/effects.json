@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "neutral",
+				"Color": -16777216,
+				"Instant": false,
+				"Name": "ihfr:blackout"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8355751,
+				"Instant": false,
+				"Name": "ihfr:sickness"
+			}
+		}
+	]
+}

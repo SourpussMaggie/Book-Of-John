@@ -1,0 +1,292 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gnumus:bags"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:baked_gnumus_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:baked_gnumus_clay_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:baked_gnumus_clay_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:baked_gnumus_clay_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:baked_patterned_gnumus_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:big_snout_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:business_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:fragile_gnumus_jug"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_chickpeas"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_clay_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_clay_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_clay_brick_slap"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_clay_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_clay_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_doubloons"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_helmet_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_hummus"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_hunter_not_dispawn_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_hunter_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_jug"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_merchant_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_pouch_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_pouch_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_shaman_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_tools"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumus_worker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumusstaff"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:grilled_juicy_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:hammer_vintage_universal_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:hearty_dinner"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:juicy_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:lucky_hat_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:marsupial_mousse_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:morda"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:mouse_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:overripe_carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:packaged_goods"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:pileof_gnumus_doubloons"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:pitcher_mouse_pac_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:pitcher_mousse_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:scion_weed"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:small_snout_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_gnumus_bonfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_gnumus_camp"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_gnumus_farm"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_gnumus_ruins"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_gnumus_settlement"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_gnumus_statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_large_gnumus_settlement"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_shamans_hut"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_small_gnumus_settlement"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:spawn_structures_traders_rest"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_alloy_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_alloy_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_bullet"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_charger"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_gnumus_cutlass"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_gnumus_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_parts"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:vintage_tools"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:wrapper_with_goods"
+		}
+	]
+}

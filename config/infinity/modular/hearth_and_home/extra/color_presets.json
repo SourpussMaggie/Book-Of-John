@@ -1,0 +1,587 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:gray_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:black_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:brown_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:red_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:orange_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:yellow_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:lime_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:green_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:blue_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:cyan_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:purple_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:magenta_paper_lantern"
+				},
+				{
+					"Name": "hearth_and_home:pink_paper_lantern"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:gray_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:black_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:brown_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:red_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:orange_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:yellow_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:lime_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:green_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:blue_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:cyan_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:purple_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:magenta_shingle_slab"
+				},
+				{
+					"Name": "hearth_and_home:pink_shingle_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:gray_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:black_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:brown_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:red_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:orange_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:yellow_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:lime_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:green_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:blue_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:cyan_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:purple_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:magenta_shingle_stairs"
+				},
+				{
+					"Name": "hearth_and_home:pink_shingle_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_shingles"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_shingles"
+				},
+				{
+					"Name": "hearth_and_home:gray_shingles"
+				},
+				{
+					"Name": "hearth_and_home:black_shingles"
+				},
+				{
+					"Name": "hearth_and_home:brown_shingles"
+				},
+				{
+					"Name": "hearth_and_home:red_shingles"
+				},
+				{
+					"Name": "hearth_and_home:orange_shingles"
+				},
+				{
+					"Name": "hearth_and_home:yellow_shingles"
+				},
+				{
+					"Name": "hearth_and_home:lime_shingles"
+				},
+				{
+					"Name": "hearth_and_home:green_shingles"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_shingles"
+				},
+				{
+					"Name": "hearth_and_home:blue_shingles"
+				},
+				{
+					"Name": "hearth_and_home:cyan_shingles"
+				},
+				{
+					"Name": "hearth_and_home:purple_shingles"
+				},
+				{
+					"Name": "hearth_and_home:magenta_shingles"
+				},
+				{
+					"Name": "hearth_and_home:pink_shingles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:gray_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:black_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:brown_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:red_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:orange_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:yellow_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:lime_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:green_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:blue_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:cyan_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:purple_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:magenta_stained_barred_glass"
+				},
+				{
+					"Name": "hearth_and_home:pink_stained_barred_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:gray_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:black_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:brown_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:red_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:orange_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:yellow_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:lime_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:green_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:blue_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:cyan_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:purple_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:magenta_stained_barred_glass_pane"
+				},
+				{
+					"Name": "hearth_and_home:pink_stained_barred_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:gray_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:black_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:brown_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:red_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:orange_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:yellow_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:lime_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:green_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:blue_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:cyan_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:purple_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:magenta_terracotta_brick_slab"
+				},
+				{
+					"Name": "hearth_and_home:pink_terracotta_brick_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:gray_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:black_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:brown_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:red_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:orange_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:yellow_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:lime_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:green_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:blue_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:cyan_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:purple_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:magenta_terracotta_brick_stairs"
+				},
+				{
+					"Name": "hearth_and_home:pink_terracotta_brick_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:gray_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:black_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:brown_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:red_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:orange_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:yellow_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:lime_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:green_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:blue_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:cyan_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:purple_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:magenta_terracotta_bricks"
+				},
+				{
+					"Name": "hearth_and_home:pink_terracotta_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:gray_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:black_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:brown_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:red_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:orange_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:yellow_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:lime_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:green_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:blue_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:cyan_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:purple_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:magenta_tile_slab"
+				},
+				{
+					"Name": "hearth_and_home:pink_tile_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "hearth_and_home:white_tiles"
+				},
+				{
+					"Name": "hearth_and_home:light_gray_tiles"
+				},
+				{
+					"Name": "hearth_and_home:gray_tiles"
+				},
+				{
+					"Name": "hearth_and_home:black_tiles"
+				},
+				{
+					"Name": "hearth_and_home:brown_tiles"
+				},
+				{
+					"Name": "hearth_and_home:red_tiles"
+				},
+				{
+					"Name": "hearth_and_home:orange_tiles"
+				},
+				{
+					"Name": "hearth_and_home:yellow_tiles"
+				},
+				{
+					"Name": "hearth_and_home:lime_tiles"
+				},
+				{
+					"Name": "hearth_and_home:green_tiles"
+				},
+				{
+					"Name": "hearth_and_home:light_blue_tiles"
+				},
+				{
+					"Name": "hearth_and_home:blue_tiles"
+				},
+				{
+					"Name": "hearth_and_home:cyan_tiles"
+				},
+				{
+					"Name": "hearth_and_home:purple_tiles"
+				},
+				{
+					"Name": "hearth_and_home:magenta_tiles"
+				},
+				{
+					"Name": "hearth_and_home:pink_tiles"
+				}
+			]
+		}
+	]
+}

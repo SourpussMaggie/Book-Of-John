@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gnumus:bitterness_part"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:gnumpart"
+		},
+		{
+			"weight": 1.0,
+			"key": "gnumus:parr"
+		}
+	]
+}

@@ -1,0 +1,512 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalocaris_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalocaris_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalocaris_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalocaris_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalocaris_scute"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalocaris_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:anomalous_goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:arandaspis_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:arandaspis_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:arandaspis_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:arandaspis_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:baby_anomalocaris_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:baby_ophthalmo_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:boiled_elephant_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:charnia"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:charnia_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:cooked_saca"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:cooksonia"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:cooksonia_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:cracked_elephant_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dickinsonia"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dickinsonia_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dodo_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dodo_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:dodo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:egg_shell_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:egg_shellmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:elephant_bird_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:golden_saca"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:hallu_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:hallu_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:hallu_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:hallu_slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:hallu_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:josepho_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:josepho_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:josepho_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:jumbo_omelette"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:magic_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:ophthalmo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:pikaia_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:pikaia_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:pikaia_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:pikaia_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:potted_sigillaria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:proto_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:prototaxites_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:saca_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:saca_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:saca_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:saca_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sacabambaspis"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:sigillaria_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_sea_cow_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_sea_cow_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_sea_cow_milk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:steller_sea_cow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:stripped_sigillaria_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:stripped_sigillaria_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:stripped_zuloagae_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:tab_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_dna"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_embryo"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:thylacine_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:trilo_bite"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:trilo_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:trilo_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:trilo_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:trilobite_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:warning"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:wiwaxia"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:wiwaxia_flask"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvelous_menagerie:zuloagae_trapdoor"
+		}
+	]
+}

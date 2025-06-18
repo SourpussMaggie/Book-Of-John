@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminousworld:aerie"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:amethystdisc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blanksound"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blizzard"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:farlands"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:firebugs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:gator"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:gator2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:medievalsands"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:modulo"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:null"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:pheonixfeather"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:submerged"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunrise"
+		}
+	]
+}

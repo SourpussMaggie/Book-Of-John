@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -10444421,
+				"Name": "rediscovered:cold_skylands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -13583605,
+				"Name": "rediscovered:rainforest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9001394,
+				"Name": "rediscovered:skylands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": -9001394,
+				"Name": "rediscovered:wooded_skylands"
+			}
+		}
+	]
+}

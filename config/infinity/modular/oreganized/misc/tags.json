@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oreganized:blows_lead_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:creates_lead_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:crystal_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:crystal_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:fire_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:mineable/scribe"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:no_silktouch_using_scribe"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:prevents_lead_cloud"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:silktouch_using_scribe"
+		},
+		{
+			"weight": 1.0,
+			"key": "oreganized:stone_types/glance"
+		}
+	]
+}

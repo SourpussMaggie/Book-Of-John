@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8005644,
+				"Instant": false,
+				"Name": "stalwart_dungeons:burning"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -6020055,
+				"Instant": false,
+				"Name": "stalwart_dungeons:spore"
+			}
+		}
+	]
+}

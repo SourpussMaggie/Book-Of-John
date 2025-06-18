@@ -1,0 +1,322 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "another_furniture:white_curtain"
+				},
+				{
+					"Name": "another_furniture:light_gray_curtain"
+				},
+				{
+					"Name": "another_furniture:gray_curtain"
+				},
+				{
+					"Name": "another_furniture:black_curtain"
+				},
+				{
+					"Name": "another_furniture:brown_curtain"
+				},
+				{
+					"Name": "another_furniture:red_curtain"
+				},
+				{
+					"Name": "another_furniture:orange_curtain"
+				},
+				{
+					"Name": "another_furniture:yellow_curtain"
+				},
+				{
+					"Name": "another_furniture:lime_curtain"
+				},
+				{
+					"Name": "another_furniture:green_curtain"
+				},
+				{
+					"Name": "another_furniture:light_blue_curtain"
+				},
+				{
+					"Name": "another_furniture:blue_curtain"
+				},
+				{
+					"Name": "another_furniture:cyan_curtain"
+				},
+				{
+					"Name": "another_furniture:purple_curtain"
+				},
+				{
+					"Name": "another_furniture:magenta_curtain"
+				},
+				{
+					"Name": "another_furniture:pink_curtain"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "another_furniture:white_lamp"
+				},
+				{
+					"Name": "another_furniture:light_gray_lamp"
+				},
+				{
+					"Name": "another_furniture:gray_lamp"
+				},
+				{
+					"Name": "another_furniture:black_lamp"
+				},
+				{
+					"Name": "another_furniture:brown_lamp"
+				},
+				{
+					"Name": "another_furniture:red_lamp"
+				},
+				{
+					"Name": "another_furniture:orange_lamp"
+				},
+				{
+					"Name": "another_furniture:yellow_lamp"
+				},
+				{
+					"Name": "another_furniture:lime_lamp"
+				},
+				{
+					"Name": "another_furniture:green_lamp"
+				},
+				{
+					"Name": "another_furniture:light_blue_lamp"
+				},
+				{
+					"Name": "another_furniture:blue_lamp"
+				},
+				{
+					"Name": "another_furniture:cyan_lamp"
+				},
+				{
+					"Name": "another_furniture:purple_lamp"
+				},
+				{
+					"Name": "another_furniture:magenta_lamp"
+				},
+				{
+					"Name": "another_furniture:pink_lamp"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "another_furniture:white_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:light_gray_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:gray_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:black_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:brown_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:red_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:orange_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:yellow_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:lime_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:green_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:light_blue_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:blue_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:cyan_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:purple_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:magenta_lamp_connector"
+				},
+				{
+					"Name": "another_furniture:pink_lamp_connector"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "another_furniture:white_sofa"
+				},
+				{
+					"Name": "another_furniture:light_gray_sofa"
+				},
+				{
+					"Name": "another_furniture:gray_sofa"
+				},
+				{
+					"Name": "another_furniture:black_sofa"
+				},
+				{
+					"Name": "another_furniture:brown_sofa"
+				},
+				{
+					"Name": "another_furniture:red_sofa"
+				},
+				{
+					"Name": "another_furniture:orange_sofa"
+				},
+				{
+					"Name": "another_furniture:yellow_sofa"
+				},
+				{
+					"Name": "another_furniture:lime_sofa"
+				},
+				{
+					"Name": "another_furniture:green_sofa"
+				},
+				{
+					"Name": "another_furniture:light_blue_sofa"
+				},
+				{
+					"Name": "another_furniture:blue_sofa"
+				},
+				{
+					"Name": "another_furniture:cyan_sofa"
+				},
+				{
+					"Name": "another_furniture:purple_sofa"
+				},
+				{
+					"Name": "another_furniture:magenta_sofa"
+				},
+				{
+					"Name": "another_furniture:pink_sofa"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "another_furniture:white_stool"
+				},
+				{
+					"Name": "another_furniture:light_gray_stool"
+				},
+				{
+					"Name": "another_furniture:gray_stool"
+				},
+				{
+					"Name": "another_furniture:black_stool"
+				},
+				{
+					"Name": "another_furniture:brown_stool"
+				},
+				{
+					"Name": "another_furniture:red_stool"
+				},
+				{
+					"Name": "another_furniture:orange_stool"
+				},
+				{
+					"Name": "another_furniture:yellow_stool"
+				},
+				{
+					"Name": "another_furniture:lime_stool"
+				},
+				{
+					"Name": "another_furniture:green_stool"
+				},
+				{
+					"Name": "another_furniture:light_blue_stool"
+				},
+				{
+					"Name": "another_furniture:blue_stool"
+				},
+				{
+					"Name": "another_furniture:cyan_stool"
+				},
+				{
+					"Name": "another_furniture:purple_stool"
+				},
+				{
+					"Name": "another_furniture:magenta_stool"
+				},
+				{
+					"Name": "another_furniture:pink_stool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "another_furniture:white_tall_stool"
+				},
+				{
+					"Name": "another_furniture:light_gray_tall_stool"
+				},
+				{
+					"Name": "another_furniture:gray_tall_stool"
+				},
+				{
+					"Name": "another_furniture:black_tall_stool"
+				},
+				{
+					"Name": "another_furniture:brown_tall_stool"
+				},
+				{
+					"Name": "another_furniture:red_tall_stool"
+				},
+				{
+					"Name": "another_furniture:orange_tall_stool"
+				},
+				{
+					"Name": "another_furniture:yellow_tall_stool"
+				},
+				{
+					"Name": "another_furniture:lime_tall_stool"
+				},
+				{
+					"Name": "another_furniture:green_tall_stool"
+				},
+				{
+					"Name": "another_furniture:light_blue_tall_stool"
+				},
+				{
+					"Name": "another_furniture:blue_tall_stool"
+				},
+				{
+					"Name": "another_furniture:cyan_tall_stool"
+				},
+				{
+					"Name": "another_furniture:purple_tall_stool"
+				},
+				{
+					"Name": "another_furniture:magenta_tall_stool"
+				},
+				{
+					"Name": "another_furniture:pink_tall_stool"
+				}
+			]
+		}
+	]
+}

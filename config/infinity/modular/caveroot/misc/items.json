@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "caveroot:cave_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "caveroot:torch_spore"
+		}
+	]
+}

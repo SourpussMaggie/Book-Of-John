@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -8987828,
+				"Instant": false,
+				"Name": "luminousworld:universal_poison"
+			}
+		}
+	]
+}

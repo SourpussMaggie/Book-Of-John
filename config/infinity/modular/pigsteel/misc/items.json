@@ -1,0 +1,208 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pigsteel:corrupted_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:corrupted_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:corrupted_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:corrupted_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:corrupted_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:corrupted_refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:infected_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:infected_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:infected_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:infected_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:infected_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:infected_refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:pigsteel_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:pigsteel_chunk_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:porkslag"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_corrupted_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_corrupted_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_corrupted_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_corrupted_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_corrupted_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_corrupted_refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_infected_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_infected_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_infected_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_infected_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_infected_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_infected_refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_zombified_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_zombified_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_zombified_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_zombified_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_zombified_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:waxed_zombified_refined_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombified_cut_pigsteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombified_cut_pigsteel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombified_cut_pigsteel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombified_pigsteel_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombified_pigsteel_soul_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "pigsteel:zombified_refined_pigsteel"
+		}
+	]
+}

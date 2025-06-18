@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:alien_cat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:alien_rat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:alien_rat_entity_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:cumbia_del_marcianito"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:energy_drink"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:interplanetary_caller"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:ligth_saber"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:meteorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:moon_cheese"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:wormholed_apple"
+		}
+	]
+}

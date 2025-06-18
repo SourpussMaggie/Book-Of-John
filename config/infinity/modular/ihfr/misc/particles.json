@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ihfr:gasses"
+		},
+		{
+			"weight": 1.0,
+			"key": "ihfr:hook_particle"
+		}
+	]
+}

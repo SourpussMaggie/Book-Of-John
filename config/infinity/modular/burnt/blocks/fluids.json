@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "burnt:flaming_tar",
+				"Name": "burnt:flaming_tar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "burnt:geyser_water",
+				"Name": "burnt:geyser_water"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "burnt:liquid_magma",
+				"Name": "burnt:liquid_magma"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "burnt:tar",
+				"Name": "burnt:tar"
+			}
+		}
+	]
+}

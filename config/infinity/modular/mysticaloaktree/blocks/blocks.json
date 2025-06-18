@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "mysticaloaktree:wise_oak",
+				"full": true
+			}
+		}
+	]
+}

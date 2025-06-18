@@ -1,0 +1,110 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "carpettrapdoors:white_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:light_gray_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:gray_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:black_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:brown_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:red_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:orange_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:yellow_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:lime_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:green_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:light_blue_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:blue_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:cyan_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:purple_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:magenta_carpet_iron_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:pink_carpet_iron_trapdoor"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "carpettrapdoors:white_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:light_gray_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:gray_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:black_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:brown_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:red_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:orange_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:yellow_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:lime_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:green_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:light_blue_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:blue_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:cyan_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:purple_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:magenta_carpet_trapdoor"
+				},
+				{
+					"Name": "carpettrapdoors:pink_carpet_trapdoor"
+				}
+			]
+		}
+	]
+}

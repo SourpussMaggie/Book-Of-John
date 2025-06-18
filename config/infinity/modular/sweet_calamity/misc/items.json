@@ -1,0 +1,816 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:baker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:beetroot_churro"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:big_blueberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:big_blueberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bittersweet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:blue_gummy_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:blueberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:blueberry_dought"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:blueberry_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bomber_cherry_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:bonbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cake_penguin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_blueberry_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_white_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_white_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_white_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candied_white_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_armor_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_cane_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_cane_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_cane_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_gummies"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_gummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_knight_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:candy_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:caramelized_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cherries"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cherry_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chiseled_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chiseled_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chiseled_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chiseled_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_cane"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_magic_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_sponge_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolate_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:chocolates"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_cone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_cone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_cone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cookie_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cotton_candy_cow_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:creaking_clown_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cream_magic_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:creamy_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:creamy_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:crispy_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:crunchy_magic_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cupcake"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cut_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cut_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cut_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:cut_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:dried_dulce_de_leche"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:dulce_de_leche_creeper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:echo_lollipop"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:eclipse_carduus"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:fish_in_chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:flying_boat_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:fresh_melon"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:fruit_gummies"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:fruit_gummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gigant_blueberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:glazed_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:glazed_sponge_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gomurro_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:grape_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:green_gummy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gum_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gum_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gum_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gum_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gum_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gum_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummi_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummy_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:gummy_tree"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:honeyed_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:ice_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:ice_cream_penguin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:liquid_gum"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:liquid_gum_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:lollipop"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_candy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:magic_pumpkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:meat_roll_stuffed_with_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:milk_chocolate_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:milk_chocolate_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:milk_chocolate_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:milk_chocolate_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:music_disc_popsicle"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:pancakes"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:petrified_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:petrified_cookie_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_blue_candy_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_blue_candy_cane_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_blue_candy_cane_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_blue_candy_cane_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_candy_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_candy_cane_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_candy_cane_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_candy_cane_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_colorful_candy_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_colorful_candy_cane_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_colorful_candy_cane_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_colorful_candy_cane_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_orange_candy_cane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_orange_candy_cane_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_orange_candy_cane_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:polished_orange_candy_cane_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:potato_split"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:recipe_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:red_gummy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:solid_dulce_de_leche"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:solid_gummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sponge_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sticky_magic_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:strawberry_ice_cream_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:stripped_cookie_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:stripped_cookie_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:stripped_gummi_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:stripped_gummi_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sugar_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sugar_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sugar_sprouts_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sugar_sprouts_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sugar_sprouts_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sugar_sprouts_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweet_cotton"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweet_lands"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweet_lands_portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweet_magic_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweet_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweet_witch_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:sweetened_pig_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:totem_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:watermelon_gummies"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:watermelon_gummy"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:weathered_copper_cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chiseled_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chiseled_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chiseled_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chiseled_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_chocolate_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_cut_chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_cut_chocolate_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_cut_chocolate_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:white_cut_chocolate_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "sweet_calamity:yellow_gummy_leaves"
+		}
+	]
+}

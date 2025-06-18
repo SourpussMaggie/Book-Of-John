@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "camera:album"
+		},
+		{
+			"weight": 1.0,
+			"key": "camera:camera"
+		},
+		{
+			"weight": 1.0,
+			"key": "camera:image"
+		},
+		{
+			"weight": 1.0,
+			"key": "camera:image_frame"
+		}
+	]
+}

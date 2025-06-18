@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:johns_bane_hearts"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:spirit_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "john_mod_reborn:weakness_bane"
+		}
+	]
+}

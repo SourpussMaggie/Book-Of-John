@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminousworld:blue_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:sunset_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:white_petunias"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:yellowpetunias"
+		}
+	]
+}

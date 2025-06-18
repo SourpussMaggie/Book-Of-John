@@ -1,0 +1,684 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ash_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ash_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ash_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ash_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ash_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ash_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ashes"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:basalt_exectioner_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:basalt_executioner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:basalt_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:basalt_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:bigfungirrackbricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:blank_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:blank_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:bump_pad_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:candle_stand_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:candle_stand_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:charred_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:chiseled_fungirrack_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:chiseled_heavy_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cooked_mushroom_protein"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cracked_ash_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimson_contaminant"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimson_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimson_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimson_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:crimson_walker_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cult_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cult_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cultist_archer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cultist_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:cultist_rider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:dart_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:decorative_ash_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:decorative_fungirrack_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:decorative_heavy_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ember_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:executioner_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:executioner_hood_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:executioner_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack_dart_trap_inactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirracklamp_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirracklamp_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirracklampblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirracklamporange"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirracklamppurple"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:fungirracklampred"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:furnace_disk"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:furnace_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghost_vent_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ghostly_essence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:gilded_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:gilded_cultist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:gilded_piglin_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:glider_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:glowingroots"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_fungi"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_nylium"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_pop_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:golden_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:goldenstem"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:goldgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:goldmushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ground_ghost_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:haunt_armor_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:heavy_ash_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:heavy_nether_brick_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:heavy_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:heavy_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:heavy_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:heavy_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:large_popshroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:large_withered_pop_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:lit_skull_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:lit_wither_skull_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:loot_vase_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:lootvase_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:molten_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushlin_bumper_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushlin_spewer_2_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushlin_spewer_3_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushlin_spewer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushlin_spewer_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushoom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:mushroom_trap_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:nether_beast_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:nether_candle_stand_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:nether_candle_stand_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:nether_wall_candle_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_cultist_leader_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_cultist_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_executioner_2_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_executioner_3_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_executioner_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:piglin_ghost_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:popshroom_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:raw_mushroom_protein"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:revenant_skeleton_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ritual_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:ritual_tableoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:shredded_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:skull_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:solid_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_bone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_cauldron_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_cauldron_blue_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_cauldron_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_cauldron_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_cauldron_orange_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_ember_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_furnace_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:soul_furnace_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:spore_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:spore_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:tall_ash_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:tall_gold_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:the_furnace_2_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:the_furnace_3_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:the_furnace_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:torn_rag"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:wall_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:warped_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:warped_flag_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:warped_flag_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:warped_spewer_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:warped_spewer_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:white_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:wither_skull_candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_pop_shroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminous_nether:withered_trap_door"
+		}
+	]
+}

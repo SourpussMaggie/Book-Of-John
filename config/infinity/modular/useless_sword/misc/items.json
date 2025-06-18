@@ -1,0 +1,472 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "useless_sword:alloy_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:amethyst_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:ancient_guardian_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:bamboo_saber"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:basalt_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:beacon_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:big_ghast_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:brain_coral_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:brass_head_turner"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:bubble_coral_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:bugged_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:bugged_diamond_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:bugged_netherite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:cactus_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:charged_copper_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:charged_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:chocolate_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:clay_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:coal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:copper_jigsaw_slicer"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:copper_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:crismon_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:crying_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:dimensional_breacher"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:dna_cutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:dragon_breath_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:dragon_breath_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:dragon_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:dripstone_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:elder_guardian_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:emerald_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:emerald_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:end_crystal_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:ender_catalyst_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:ender_claymore"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:enderman_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:enderman_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:endstone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:fire_coral_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:frosted_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:frozen_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:furnace_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:ghast_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:glass_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:glowstone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:gold_ingot_and_iron_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:gold_iron_alloy_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:guardian_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:guardian_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:guster_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:hemolymph_broadsword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:honneycomb_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:horn_coral_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:invisible_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:lapis_lazuli_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:lava_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:life_draining_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:magma_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:magma_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:magmatic_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:magmatic_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:message_in_a_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:molten_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:mushroom_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:naga_slicer"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:neptunium_grab_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:nether_catalyst_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:nether_striker"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:netherite_slash_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:netherrack_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:pesting_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:pillager_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:prismarine_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:pyro_soul_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:pyro_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:quartz_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:ravager_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:ravager_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:red_sand_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:red_sandstone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:redstone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:refined_radiance_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:rotten_fish_rapier"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:sand_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:sandstone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:sculk_buster"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:shulker_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:silvillager"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:slime_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:soul_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:soul_sand_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:spider_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:sword_of_immortality"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:tamed_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:thorny_diamond_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:thorny_golden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:thorny_iron_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:thorny_stone_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:thorny_wooden_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:tooth_glaive"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:tube_coral_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:turtle_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:undying_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:undying_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:undying_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:useless_sword_compatibility_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:uselesswordicon"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:valhalla_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:valhalla_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:vex_ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:vex_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:warped_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:water_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:wither_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:wither_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:wither_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "useless_sword:witherred_sword"
+		}
+	]
+}

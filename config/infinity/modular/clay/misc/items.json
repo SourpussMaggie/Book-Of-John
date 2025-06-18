@@ -1,0 +1,128 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "clay:disruptor/clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:disruptor/obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:disruptor/terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/carrot"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/grassy"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/snowy"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:horse/soul_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/lightblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "clay:soldier/yellow"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:burial_dirt_convertible"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:gravetender_lightables"
+		},
+		{
+			"weight": 1.0,
+			"key": "doom_and_gloom:vigil_candles"
+		}
+	]
+}

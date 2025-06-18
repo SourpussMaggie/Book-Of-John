@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crab_chatter"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:crab_scuttling"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:deep_water"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:evil_chattering"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:gnasher_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:sawing"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:seafoam"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:small_enemy"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:squid_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "unusualfishmod:unchoppable"
+		}
+	]
+}

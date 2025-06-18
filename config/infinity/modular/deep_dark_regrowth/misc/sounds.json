@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:abominationambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:betweengems"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:castle"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:cavechimes"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:debilitatortrigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:dungeon"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:hunterscreech"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:hunterwalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:jumpscare"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:observerambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:omnitridentuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pulseflowerambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:pulseflowerjump"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:randomtrack01"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:rottencavernsmood"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stalkerambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stalkerdeath"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stalkerhurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:stalkerstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "deep_dark_regrowth:weakenedbedrockambient"
+		}
+	]
+}

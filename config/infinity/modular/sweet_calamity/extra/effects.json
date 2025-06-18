@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "beneficial",
+				"Color": -1104786,
+				"Instant": false,
+				"Name": "sweet_calamity:reach"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Category": "harmful",
+				"Color": -1007750,
+				"Instant": false,
+				"Name": "sweet_calamity:sweetening"
+			}
+		}
+	]
+}

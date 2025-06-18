@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:ayeyyya"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:calling"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:cumbia_del_marcianito"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:evangelion_alien_cover"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:llegada"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:ratita"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:squealing"
+		},
+		{
+			"weight": 1.0,
+			"key": "bogos_binted:wormjole"
+		}
+	]
+}

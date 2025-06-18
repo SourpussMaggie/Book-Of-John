@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "luminousworld:golden_particle"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:oakleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:purple_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:toxic"
+		},
+		{
+			"weight": 1.0,
+			"key": "luminousworld:toxic_bubble"
+		}
+	]
+}
