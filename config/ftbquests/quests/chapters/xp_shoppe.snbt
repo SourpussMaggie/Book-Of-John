@@ -308,6 +308,46 @@
 			x: 2.0d
 			y: 3.0d
 		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			id: "5D7C847E57BBA4E8"
+			rewards: [{
+				count: 6
+				id: "227678E0A76B0896"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			shape: "gear"
+			subtitle: "useless hand-shaped geodes"
+			tasks: [{
+				id: "02256C514BF2F4C8"
+				item: "scalinghealth:power_crystal"
+				type: "item"
+			}]
+			title: "CRYSTAL CRUSHER"
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			id: "4858BC5009DBEB9F"
+			rewards: [{
+				count: 4
+				id: "3289A9A1943E9699"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			shape: "gear"
+			subtitle: "blood donation"
+			tasks: [{
+				id: "64BD73B629349152"
+				item: "scalinghealth:heart_crystal"
+				type: "item"
+			}]
+			title: "HEART BREAKER"
+			x: 0.5d
+			y: 5.0d
+		}
 	]
 	subtitle: ["One man's trash..."]
 	title: "Termite Shoppe"
