@@ -627,6 +627,28 @@
         "value": 100
       }
     },
+    "legendarysurvivaloverhaul:permanent_heart": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "cave_stuff:yblocklook": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 99999,
+        "value": 99999
+      }
+    },
     "expanded_combat:heat_dmg": {
       "enabled": false,
       "min": {
@@ -1133,6 +1155,17 @@
         "value": 1024
       }
     },
+    "cave_stuff:xblocklook": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 99999,
+        "value": 99999
+      }
+    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -1329,6 +1362,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "legendarysurvivaloverhaul:broken_heart": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "iter_rpg:spell_burnout_multiplier": {
@@ -2420,6 +2464,17 @@
         "value": 1000
       }
     },
+    "legendarysurvivaloverhaul:broken_heart_resilience": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "irons_spellbooks:ender_magic_resist": {
       "enabled": false,
       "min": {
@@ -2539,6 +2594,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "cave_stuff:zblocklook": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 99999,
+        "value": 99999
       }
     },
     "vminus:mining_speed": {

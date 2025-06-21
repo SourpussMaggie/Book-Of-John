@@ -26,10 +26,10 @@ clockHudEnabled = true
 ["Custom Preset Options"]
 	#Anchor point for custom preset. It is important if you want you preset to be compatible with different GUI scaling.
 	#Allowed Values: CENTER, TOP, BOTTOM, LEFT, RIGHT, TOP_LEFT, BOTTOM_LEFT, TOP_RIGHT, BOTTOM_RIGHT
-	customPresetAnchorPoint = "BOTTOM_RIGHT"
+	customPresetAnchorPoint = "CENTER"
 	#The offset on X axis from chosen anchor point.
 	#Range: > -2147483648
-	customPresetXOffset = -80
+	customPresetXOffset = -200
 	#The offset on Y axis from chosen anchor point.
 	#Range: > -2147483648
 	customPresetYOffset = -92

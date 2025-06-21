@@ -348,6 +348,26 @@
 			x: 0.5d
 			y: 5.0d
 		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "legendarysurvivaloverhaul:plaster"
+			id: "7A8ACD753243C0C9"
+			rewards: [{
+				count: 4
+				id: "316182064C9AACEF"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "owie"
+			tasks: [{
+				id: "76FF70090AAB638A"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Band-Aids"
+			x: -2.0d
+			y: -1.5d
+		}
 	]
 	subtitle: ["One man's trash..."]
 	title: "Termite Shoppe"

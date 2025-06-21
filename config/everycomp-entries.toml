@@ -74,6 +74,11 @@
 		[types.wood_type.ars_nouveau]
 			archwood = true
 
+		[types.wood_type.cave_stuff]
+			tawari = true
+			russulat = true
+			bishopsinkcaps = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.ecologics]
@@ -146,6 +151,9 @@
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
 
+		[types.leaves_type.cave_stuff]
+			tawari = true
+
 	[types.stone_type]
 
 		[types.stone_type.enlightened_end]
@@ -211,6 +219,11 @@
 
 		[types.stone_type.ars_nouveau]
 			sourcestone = true
+
+		[types.stone_type.cave_stuff]
+			blueschiststairs = true
+			blueschistslab = true
+			novaculiteslab = true
 
 	[types.cake]
 
