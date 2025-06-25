@@ -37,7 +37,7 @@
 ["Spawn Conditions"]
 	#The spawn chance per tick (once the spawn timer is finished)
 	#Range: 0.0 ~ 1.0
-	spawn_chance_per_tick = 0.005
+	spawn_chance_per_tick = 0.003
 	#Depth at which the Cave Dweller can start to spawn
 	spawn_height = 40
 	#Whether the Cave Dweller can spawn on the surface or not
@@ -50,10 +50,10 @@
 	block_light_level = 15
 	#The maximum amount of cave dwellers which can exist at the same time
 	#Range: 0 ~ 100
-	maximum_amount = 3
+	maximum_amount = 1
 	#How close to players the cave dweller is allowed to spawn (in blocks)
 	#Range: 0 ~ 64
-	spawn_distance = 16
+	spawn_distance = 64
 	#If set to true the cave dweller will try to find a spawn position with a possible path to the player
 	check_path_to_spawn = true
 

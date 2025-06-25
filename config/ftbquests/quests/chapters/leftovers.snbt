@@ -499,6 +499,23 @@
 			x: 3.0d
 			y: 1.5d
 		}
+		{
+			id: "1A44E0DB0BED20D5"
+			rewards: [{
+				id: "6A3928370BD5C9D6"
+				item: "environmental:plum_sapling"
+				type: "item"
+			}]
+			subtitle: "gotta start somewhere"
+			tasks: [{
+				id: "1FBE119F1DB1206A"
+				item: "rehooked:wood_hook"
+				type: "item"
+			}]
+			title: "Actually Useful Wooden Tool"
+			x: 0.0d
+			y: -3.0d
+		}
 	]
 	subtitle: ["table scraps"]
 	title: "RENAISSANCE MAN"

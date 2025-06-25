@@ -484,7 +484,7 @@
 				type: "kill"
 				value: 2L
 			}]
-			title: "Do It For The Morph"
+			title: "Frog-kin Flayer"
 			x: 4.5d
 			y: 3.0d
 		}
@@ -831,11 +831,11 @@
 					value: 1L
 				}
 				{
-					entity: "legendarycreatures:peacock_spider"
-					icon: "sons_of_sins:spider_heart"
-					id: "0EC214082900D1E5"
+					entity: "alexsmobs:anteater"
+					icon: "cave_stuff:roastedalbinocaveant"
+					id: "3F5CD7DF71410B7B"
 					type: "kill"
-					value: 4L
+					value: 1L
 				}
 			]
 			title: "Jungle Japes"
@@ -895,6 +895,41 @@
 			title: "Delter Rune"
 			x: -3.0d
 			y: 3.0d
+		}
+		{
+			id: "04D62F507BE8F7D9"
+			rewards: [{
+				count: 55
+				id: "799D56681812B70A"
+				item: "dungeonsdelight:spider_salmagundi"
+				type: "item"
+			}]
+			subtitle: "BOSS BUTCH"
+			tasks: [
+				{
+					entity: "illageandspillage:old_ragno"
+					icon: "deep_dark_regrowth:illager_polished_deepslate"
+					id: "734C1CB64829AA2C"
+					type: "kill"
+					value: 2L
+				}
+				{
+					entity: "cave_stuff:europeancavespider"
+					icon: {
+						Count: 1
+						id: "cave_stuff:europeancavespiderlocatoritem"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "0A50CF370EEDD943"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "#1 Spider Slayer"
+			x: -3.0d
+			y: 0.0d
 		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]

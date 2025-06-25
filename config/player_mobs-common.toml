@@ -70,7 +70,7 @@
 	#Range: > 0
 	"Reload Interval" = 60
 	#A list of names that the player mobs can have.
-	"Mob Names" = ["crust", "huxter", "jointed", "monster", "tofu", "classic", "brain", "hero", "wild card", "mosquito", "konbini", "shepherdess", "warrior", "specialfeeling", "rook"]
+	"Mob Names" = ["crust", "huxter", "jointed", "monster", "tofu", "classic", "brain", "hero", "wild card", "mosquito", "konbini", "shepherdess", "specialfeeling", "rook", "alloy"]
 	#If the names in the whitelist should be used for the player mobs.
 	"Use Whitelist" = true
 

@@ -436,6 +436,24 @@
 			x: 0.0d
 			y: 1.5d
 		}
+		{
+			id: "19DB41118EF95B90"
+			rewards: [{
+				count: 30
+				id: "443D32B0F690B26D"
+				item: "minecraft:cobweb"
+				type: "item"
+			}]
+			subtitle: "creature feature"
+			tasks: [{
+				id: "0E8F268DD365A3B3"
+				item: "cave_stuff:cookedlongleggedharvestmenleg"
+				type: "item"
+			}]
+			title: "Spider Bites"
+			x: 1.5d
+			y: -4.5d
+		}
 	]
 	subtitle: ["the hollowness within you grows ever deeper"]
 	title: "TARRARE'S TOUCH"

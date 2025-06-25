@@ -19,22 +19,36 @@
 				}
 			}
 			id: "6C3CFFB67DF42E0D"
-			rewards: [{
-				id: "63502E8D05741122"
-				item: {
-					Count: 1
-					id: "travelersbackpack:standard"
-					tag: {
-						StarterUpgrades: {
-							Items: [{
-								Count: 1b
-								id: "travelersbackpack:tanks_upgrade"
-							}]
+			rewards: [
+				{
+					id: "63502E8D05741122"
+					item: {
+						Count: 1
+						id: "travelersbackpack:standard"
+						tag: {
+							StarterUpgrades: {
+								Items: [{
+									Count: 1b
+									id: "travelersbackpack:tanks_upgrade"
+								}]
+							}
 						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "56E307D619DC3521"
+					item: {
+						Count: 1
+						id: "scguns:flintlock_pistol"
+						tag: {
+							AmmoCount: 1
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
 			subtitle: "the first one's free"
 			tasks: [{
 				dimension: "minecraft:overworld"
