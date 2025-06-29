@@ -547,23 +547,14 @@
 				}
 			]
 			subtitle: "RIP Meatbug or whatever it was called"
-			tasks: [
-				{
-					entity: "species:roombug"
-					icon: "species:roombug_spawn_egg"
-					id: "7A39F214635C0D04"
-					type: "kill"
-					value: 1L
-				}
-				{
-					entity: "atmospheric:cochineal"
-					icon: "atmospheric:cochineal_spawn_egg"
-					id: "544DADC7FB032C93"
-					type: "kill"
-					value: 1L
-				}
-			]
-			title: "Obscure Bugs"
+			tasks: [{
+				entity: "atmospheric:cochineal"
+				icon: "atmospheric:cochineal_spawn_egg"
+				id: "544DADC7FB032C93"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Obscure Bug"
 			x: 1.5d
 			y: -1.5d
 		}
@@ -875,7 +866,7 @@
 			rewards: [
 				{
 					id: "462E0C97A88E2EC9"
-					item: "scalinghealth:chance_heart"
+					item: "randomium:randomium_ore_deepslate"
 					type: "item"
 				}
 				{
@@ -930,6 +921,26 @@
 			title: "#1 Spider Slayer"
 			x: -3.0d
 			y: 0.0d
+		}
+		{
+			id: "22DC99D76EB3AAB0"
+			rewards: [{
+				count: 9
+				id: "7683DEE3FBE0D505"
+				item: "gobber2:gobber2_ingot_nether"
+				type: "item"
+			}]
+			subtitle: "these things don't grow on trees!"
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "minecraft:wither_skeleton_skull"
+				id: "7213B797C5A48AA6"
+				type: "kill"
+				value: 2L
+			}]
+			title: "Modded Endgame Grocery Shopping"
+			x: 6.0d
+			y: 3.0d
 		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]

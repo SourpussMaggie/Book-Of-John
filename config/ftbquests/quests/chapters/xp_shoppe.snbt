@@ -199,7 +199,7 @@
 			}]
 			subtitle: "dining on a budget"
 			tasks: [{
-				count: 9L
+				count: 2L
 				id: "44958AA24812CB81"
 				item: "born_in_chaos_v1:diamond_termite_shard"
 				type: "item"
@@ -219,7 +219,7 @@
 			}]
 			subtitle: "good in a pinch"
 			tasks: [{
-				count: 3L
+				count: 2L
 				id: "016E79233BB32052"
 				item: "born_in_chaos_v1:diamond_termite_shard"
 				type: "item"
@@ -227,46 +227,6 @@
 			title: "Rations"
 			x: 2.0d
 			y: -1.5d
-		}
-		{
-			dependencies: ["74B8ED65A94D8E4E"]
-			icon: "scalinghealth:chance_heart"
-			id: "00882C1D2D11CB5D"
-			rewards: [{
-				id: "582037C64670202E"
-				item: "scalinghealth:chance_heart"
-				type: "item"
-			}]
-			subtitle: "playing with lives here"
-			tasks: [{
-				count: 9L
-				id: "666DC2118A04A6E5"
-				item: { Count: 9, id: "born_in_chaos_v1:diamond_termite_shard" }
-				type: "item"
-			}]
-			title: "Gamblin' Heart"
-			x: 1.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["74B8ED65A94D8E4E"]
-			icon: "scalinghealth:cursed_heart"
-			id: "521330B4C70DF289"
-			rewards: [{
-				id: "1C968654E731A5D5"
-				item: "scalinghealth:cursed_heart"
-				type: "item"
-			}]
-			subtitle: "glutton for punishment"
-			tasks: [{
-				count: 6L
-				id: "4F65387E54C9BAEE"
-				item: "born_in_chaos_v1:diamond_termite_shard"
-				type: "item"
-			}]
-			title: "Bad Idea"
-			x: 1.0d
-			y: 0.0d
 		}
 		{
 			dependencies: ["74B8ED65A94D8E4E"]
@@ -305,34 +265,14 @@
 				type: "item"
 			}]
 			title: "Unstable Fruit"
-			x: 2.0d
+			x: 1.0d
 			y: 3.0d
-		}
-		{
-			dependencies: ["74B8ED65A94D8E4E"]
-			id: "5D7C847E57BBA4E8"
-			rewards: [{
-				count: 6
-				id: "227678E0A76B0896"
-				item: "born_in_chaos_v1:diamond_termite_shard"
-				type: "item"
-			}]
-			shape: "gear"
-			subtitle: "useless hand-shaped geodes"
-			tasks: [{
-				id: "02256C514BF2F4C8"
-				item: "scalinghealth:power_crystal"
-				type: "item"
-			}]
-			title: "CRYSTAL CRUSHER"
-			x: -0.5d
-			y: 5.0d
 		}
 		{
 			dependencies: ["74B8ED65A94D8E4E"]
 			id: "4858BC5009DBEB9F"
 			rewards: [{
-				count: 4
+				count: 6
 				id: "3289A9A1943E9699"
 				item: "born_in_chaos_v1:diamond_termite_shard"
 				type: "item"
@@ -341,11 +281,11 @@
 			subtitle: "blood donation"
 			tasks: [{
 				id: "64BD73B629349152"
-				item: "scalinghealth:heart_crystal"
+				item: "legendarysurvivaloverhaul:heart_container"
 				type: "item"
 			}]
 			title: "HEART BREAKER"
-			x: 0.5d
+			x: 0.0d
 			y: 5.0d
 		}
 		{
@@ -353,7 +293,7 @@
 			icon: "legendarysurvivaloverhaul:plaster"
 			id: "7A8ACD753243C0C9"
 			rewards: [{
-				count: 4
+				count: 3
 				id: "316182064C9AACEF"
 				item: "legendarysurvivaloverhaul:plaster"
 				type: "item"
@@ -367,6 +307,46 @@
 			title: "Band-Aids"
 			x: -2.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "jellyfishing:krabby_patty"
+			id: "1F7F17609F55C157"
+			rewards: [{
+				id: "562979CCA397CD65"
+				item: "jellyfishing:krabby_patty"
+				type: "item"
+			}]
+			subtitle: "how original"
+			tasks: [{
+				count: 9L
+				id: "1D71D9C8AA4F89EE"
+				item: { Count: 9, id: "born_in_chaos_v1:diamond_termite_shard" }
+				type: "item"
+			}]
+			title: "Soggy Burger"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			icon: "gobber2:gobber2_lucky_block"
+			id: "6625368C7DAB30CA"
+			rewards: [{
+				id: "52F1B908DC0A6B5E"
+				item: "gobber2:gobber2_lucky_block"
+				type: "item"
+			}]
+			subtitle: "gobbergobbergobber"
+			tasks: [{
+				count: 3L
+				id: "16B973EC5FCB5D45"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Gobber Meal"
+			x: -2.0d
+			y: 3.0d
 		}
 	]
 	subtitle: ["One man's trash..."]

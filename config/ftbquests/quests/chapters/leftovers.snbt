@@ -328,7 +328,7 @@
 				item: "scguns:scorched_ingot"
 				type: "item"
 			}]
-			subtitle: "luxurious leggings"
+			subtitle: "these legs don't lie"
 			tasks: [
 				{
 					id: "38727E0DD7512263"
@@ -357,6 +357,17 @@
 					item: {
 						Count: 1
 						id: "stalwart_dungeons:chorundum_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5ABD2155FB9F2DEB"
+					item: {
+						Count: 1
+						id: "gobber2:gobber2_leggings_end"
 						tag: {
 							Damage: 0
 						}
@@ -515,6 +526,48 @@
 			title: "Actually Useful Wooden Tool"
 			x: 0.0d
 			y: -3.0d
+		}
+		{
+			id: "2BDAAE180DFE0918"
+			rewards: [{
+				id: "7747932320B0440C"
+				item: "gobber2:gobber2_globette"
+				type: "item"
+			}]
+			subtitle: "the payoff is huge"
+			tasks: [{
+				id: "25A97EDABF6F70AA"
+				item: {
+					Count: 1
+					id: "gobber2:gobber2_boots_dragon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Idiot Plot"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "1ECF74F675D67807"
+			rewards: [{
+				count: 2
+				id: "6EABDB35667B1EF4"
+				item: "iwannaskate:skateboard_wheels"
+				type: "item"
+			}]
+			subtitle: "kill"
+			tasks: [{
+				count: 150L
+				id: "30B75947940B0303"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			title: "Hall of Meat"
+			x: 1.5d
+			y: 3.0d
 		}
 	]
 	subtitle: ["table scraps"]

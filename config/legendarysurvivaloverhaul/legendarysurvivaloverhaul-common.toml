@@ -9,7 +9,7 @@
 	# Whether body members receive localized damages.
 	"Localized Body Damage Enabled" = true
 	# Whether the overhaul health system is enabled.
-	"Health Overhaul Enabled" = false
+	"Health Overhaul Enabled" = true
 
 	[core.advanced]
 		# How often player temperature, thirst, body damage and health is regularly synced between the client and server, in ticks.
@@ -420,7 +420,7 @@
 [health-overhaul]
 	# How much of Additional Health a player can accumulate. 2 Heath means a full heart.
 	#Range: 0.0 ~ 10000.0
-	"Maximum Additional Health" = 20.0
+	"Maximum Additional Health" = 80.0
 
 	[health-overhaul.shield-health]
 		# How much of Shield Health a player can accumulate. 2 Shield Heath means a full shield.
@@ -434,11 +434,11 @@
 	[health-overhaul.heart-loss]
 		# The number of Hearts lost on death.
 		#Range: 0 ~ 10000
-		"Hearts Lost On Death" = 0
+		"Hearts Lost On Death" = 1
 		# The number of Hearts below which player can't lose hearts upon death.
 		# The hearts below this limit are de facto Permanent Hearts.
 		#Range: 1 ~ 10000
-		"Permanent Hearts" = 10
+		"Permanent Hearts" = 5
 
 	[health-overhaul.broken-hearts]
 		# Broken Hearts are an interaction with the localized body damage feature. Enables both feature to have it.
@@ -446,10 +446,10 @@
 		# The Resilient Hearts is the number of heart below which Broken Hearts can no longer be added.
 		# By default, the player has 2 resilient heart, meaning no matter the amount of broken hearts, the player won't go below 2 hearts.
 		#Range: 1 ~ 10000
-		"Minimum Amount Of Player's Heart With Broken Hearts (Broken Heart Resilience)" = 2
+		"Minimum Amount Of Player's Heart With Broken Hearts (Broken Heart Resilience)" = 5
 		# Amount of Broken Hearts added per limbs fully injured.
 		#Range: 0 ~ 10000
-		"Added Broken Hearts Per Injured Limb" = 0.1
+		"Added Broken Hearts Per Injured Limb" = 1
 
 	# Options related to localized body damage
 	# The damageSourceBodyParts.json allows you to define for specific damage source, the damage spread across specified body parts.
@@ -460,7 +460,7 @@
 		"Headshot Multiplier" = 2.0
 		# How much of the hurt player's damage is assigned to the body parts.
 		#Range: 0.0 ~ 1000.0
-		"Body Damage Multiplier" = 0.5
+		"Body Damage Multiplier" = 1.0
 		# How much health ratio are recovered in all body parts from bed sleeping.
 		#Range: 0.0 ~ 1.0
 		"Body Part Health Ratio Recovered" = 1.0
@@ -541,18 +541,18 @@
 			# Any other value will default to SIMPLE.
 			"Body Part Health Mode" = "DYNAMIC"
 			#Range: 0.0 ~ 1000.0
-			"Head Part Health" = 0.4
+			"Head Part Health" = 0.5
 			# Both arms will have this health.
 			#Range: 0.0 ~ 1000.0
-			"Arms Part Health" = 0.4
+			"Arms Part Health" = 0.5
 			#Range: 0.0 ~ 1000.0
-			"Chest Part Health" = 0.6
+			"Chest Part Health" = 0.7
 			# Both legs will have this health.
 			#Range: 0.0 ~ 1000.0
-			"Legs Part Health" = 0.6
+			"Legs Part Health" = 0.7
 			# Both feet will have this health.
 			#Range: 0.0 ~ 1000.0
-			"Feet Part Health" = 0.4
+			"Feet Part Health" = 0.5
 
 		[health-overhaul.body-damage.body-parts-effects]
 

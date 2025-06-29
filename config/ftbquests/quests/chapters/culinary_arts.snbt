@@ -454,6 +454,80 @@
 			x: 1.5d
 			y: -4.5d
 		}
+		{
+			id: "279A158FDEA1C68E"
+			rewards: [{
+				id: "68662863134A4DF0"
+				item: "gobberdelight:nether_gobburger"
+				type: "item"
+			}]
+			subtitle: "you must know humility to appreciate luxury"
+			tasks: [{
+				id: "0F4A7E084C09EA50"
+				item: "jellyfishing:jellyfish_jelly_sandwich"
+				type: "item"
+			}]
+			title: "Taste of Greatness"
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			id: "379A99EE0EFBAC1B"
+			rewards: [
+				{
+					count: 5
+					id: "3D3888B12974DAAD"
+					item: "exposure:color_film"
+					type: "item"
+				}
+				{
+					id: "2DCFB2B7838741F4"
+					item: "alexsmobs:spawn_egg_capuchin_monkey"
+					type: "item"
+				}
+			]
+			subtitle: "esoteric reference here"
+			tasks: [{
+				count: 6L
+				id: "2BD628CCAC807ADC"
+				item: { Count: 6, id: "jellyfishing:seanut_butter_jellyfish_jelly_sandwich" }
+				type: "item"
+			}]
+			title: "Normal Quest for Normal People"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "6C2D8C55193C259A"
+			rewards: [{
+				id: "5DA5F7300E272A42"
+				item: {
+					Count: 1
+					id: "alexsmobs:fedora"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "you uh you should really relish uh relish this moment"
+			tasks: [
+				{
+					id: "3CAB56DB1F3E63A6"
+					item: "vintagedelight:relish_mason_jar"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "720B2D79A5B2EAEB"
+					item: { Count: 2, id: "vintagedelight:relish_bottle" }
+					type: "item"
+				}
+			]
+			title: "The Relish Quest"
+			x: -1.5d
+			y: 1.5d
+		}
 	]
 	subtitle: ["the hollowness within you grows ever deeper"]
 	title: "TARRARE'S TOUCH"
