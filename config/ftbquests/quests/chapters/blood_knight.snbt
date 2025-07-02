@@ -942,6 +942,25 @@
 			x: 6.0d
 			y: 3.0d
 		}
+		{
+			id: "264457BE3FB3515A"
+			rewards: [{
+				id: "1C46EC1579432EDB"
+				item: "all_da_nuggets:nugget_knife"
+				type: "item"
+			}]
+			subtitle: "not that kind of slaying"
+			tasks: [{
+				entity: "mowziesmobs:naga"
+				icon: "all_da_nuggets:raw_chicken_nugget"
+				id: "1D107E71A6718D18"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Intro to Dragon Slaying"
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]
 	title: "GNASHING OF TEETH"

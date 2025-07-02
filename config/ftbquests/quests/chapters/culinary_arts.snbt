@@ -528,6 +528,65 @@
 			x: -1.5d
 			y: 1.5d
 		}
+		{
+			id: "67796210CD977C01"
+			rewards: [{
+				count: 2
+				id: "00030095E32312D4"
+				item: "dungeonsdelight:chicken_jockey_sandwich"
+				type: "item"
+			}]
+			subtitle: "fringe nugget technology"
+			tasks: [
+				{
+					id: "129D3EEF04B3A235"
+					item: "all_da_nuggets:steak_nugget"
+					type: "item"
+				}
+				{
+					id: "3F4D960881F6A0DB"
+					item: "all_da_nuggets:cooked_mutton_nugget"
+					type: "item"
+				}
+				{
+					id: "037EBBF7080782CE"
+					item: "all_da_nuggets:cooked_porkchop_nugget"
+					type: "item"
+				}
+				{
+					id: "1BEC28EB483670E8"
+					item: "all_da_nuggets:cooked_rabbit_nugget"
+					type: "item"
+				}
+			]
+			title: "Outside the Box"
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			id: "632FB6544941543F"
+			rewards: [{
+				id: "6473208194580A55"
+				item: {
+					Count: 1
+					id: "cloudstorage:balloon_buddy"
+					tag: {
+						Personality: 3
+						color: 15149353
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "best served with condiments not included in this modpack"
+			tasks: [{
+				id: "760C0FA5370A392B"
+				item: "all_da_nuggets:nugget_box"
+				type: "item"
+			}]
+			title: "Fit For a King"
+			x: 3.0d
+			y: 1.5d
+		}
 	]
 	subtitle: ["the hollowness within you grows ever deeper"]
 	title: "TARRARE'S TOUCH"

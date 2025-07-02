@@ -771,7 +771,7 @@
 	"Big Stone Clusters" = true
 	"Blossom Trees" = true
 	"Chorus Vegetation" = true
-	Corundum = true
+	Corundum = false
 	"Fairy Rings" = true
 	"Fallen Logs" = false
 	"Glimmering Weald" = true

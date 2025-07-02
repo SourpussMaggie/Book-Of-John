@@ -414,7 +414,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "joke by Sourpuss"
+			subtitle: "JOKE BY SOURPUSS"
 			tasks: [{
 				count: 8L
 				id: "1DF96462A5CE2CBC"
@@ -568,6 +568,32 @@
 			title: "Hall of Meat"
 			x: 1.5d
 			y: 3.0d
+		}
+		{
+			description: ["in honor of Miller starting a TerraFirmaGreg save"]
+			id: "364E2FB34B1AFF73"
+			rewards: [{
+				count: 3
+				id: "61D3493EA001BE85"
+				item: "cave_stuff:canof_beans"
+				type: "item"
+			}]
+			subtitle: "my convoluted survival mechanics are cooler than your convoluted survival mechanics"
+			tasks: [
+				{
+					id: "0006BCA44F4226F2"
+					item: "solclassic:wicker_basket"
+					type: "item"
+				}
+				{
+					id: "4990EE7138ED8A05"
+					item: "legendarysurvivaloverhaul:medikit"
+					type: "item"
+				}
+			]
+			title: "TerraFirmaGreg WISHES"
+			x: -1.5d
+			y: -3.0d
 		}
 	]
 	subtitle: ["table scraps"]

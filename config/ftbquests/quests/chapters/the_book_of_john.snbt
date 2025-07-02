@@ -181,33 +181,6 @@
 			y: 0.5d
 		}
 		{
-			id: "74D26EEC115425B3"
-			rewards: [{
-				id: "38C22646E31807E8"
-				item: {
-					Count: 1
-					id: "minecraft:enchanted_book"
-					tag: {
-						StoredEnchantments: [{
-							id: "archeryexp:baby_face"
-							lvl: 2s
-						}]
-					}
-				}
-				type: "item"
-			}]
-			subtitle: "back to the past samurai jack"
-			tasks: [{
-				dimension: "rediscovered:skylands"
-				icon: "rediscovered:ruby_flute"
-				id: "3BDEF8C7FE579302"
-				type: "dimension"
-			}]
-			title: "But Not Forgotten"
-			x: -2.5d
-			y: -1.0d
-		}
-		{
 			id: "4EDFF1A266433184"
 			rewards: [{
 				id: "4AE6E334AE014E19"

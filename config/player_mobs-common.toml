@@ -19,7 +19,7 @@
 	#The chance of player mobs dropping their head.
 	#Set to -1 to disable.
 	#Range: -1.0 ~ 1.0
-	"Mob Head Drop Chance" = 0.1
+	"Mob Head Drop Chance" = -1.0
 
 #Configs related to spawning the mobs
 [spawning]
@@ -56,7 +56,7 @@
 	#Allow for a change to spawn a random tipped arrow when the mob is holding a projectile weapon
 	"Spawn Tipped Arrows" = true
 	#A list of potion "namespace:id" to block from getting applied to tipped arrows
-	"Tipped Arrow Blocklist" = ["minecraft:awkward", "minecraft:empty", "minecraft:fire_resistance", "minecraft:healing", "minecraft:invisibility", "minecraft:leaping", "minecraft:long_fire_resistance", "minecraft:long_invisibility", "minecraft:long_leaping", "minecraft:long_night_vision", "minecraft:long_regeneration", "minecraft:long_strength", "minecraft:long_swiftness", "minecraft:long_turtle_master", "minecraft:long_water_breathing", "minecraft:luck", "minecraft:mundane", "minecraft:night_vision", "minecraft:regeneration", "minecraft:strength", "minecraft:strong_healing", "minecraft:strong_leaping", "minecraft:strong_regeneration", "minecraft:strong_strength", "minecraft:strong_swiftness", "minecraft:strong_turtle_master", "minecraft:swiftness", "minecraft:thick", "minecraft:turtle_master", "minecraft:water", "minecraft:water_breathing"]
+	"Tipped Arrow Blocklist" = ["minecraft:empty"]
 
 #Configs related to the names of the mobs.
 [names]
@@ -70,7 +70,7 @@
 	#Range: > 0
 	"Reload Interval" = 60
 	#A list of names that the player mobs can have.
-	"Mob Names" = ["crust", "huxter", "jointed", "monster", "tofu", "classic", "brain", "hero", "wild card", "mosquito", "konbini", "shepherdess", "specialfeeling", "rook", "alloy"]
+	"Mob Names" = ["crust", "huxter", "jointed", "monster", "tofu", "classic", "brain", "hero", "mosquito", "konbini", "shepherdess", "specialfeeling", "rook", "alloy"]
 	#If the names in the whitelist should be used for the player mobs.
 	"Use Whitelist" = true
 

@@ -438,7 +438,7 @@
 		# The number of Hearts below which player can't lose hearts upon death.
 		# The hearts below this limit are de facto Permanent Hearts.
 		#Range: 1 ~ 10000
-		"Permanent Hearts" = 5
+		"Permanent Hearts" = 6
 
 	[health-overhaul.broken-hearts]
 		# Broken Hearts are an interaction with the localized body damage feature. Enables both feature to have it.
@@ -446,7 +446,7 @@
 		# The Resilient Hearts is the number of heart below which Broken Hearts can no longer be added.
 		# By default, the player has 2 resilient heart, meaning no matter the amount of broken hearts, the player won't go below 2 hearts.
 		#Range: 1 ~ 10000
-		"Minimum Amount Of Player's Heart With Broken Hearts (Broken Heart Resilience)" = 5
+		"Minimum Amount Of Player's Heart With Broken Hearts (Broken Heart Resilience)" = 3
 		# Amount of Broken Hearts added per limbs fully injured.
 		#Range: 0 ~ 10000
 		"Added Broken Hearts Per Injured Limb" = 1
@@ -460,7 +460,7 @@
 		"Headshot Multiplier" = 2.0
 		# How much of the hurt player's damage is assigned to the body parts.
 		#Range: 0.0 ~ 1000.0
-		"Body Damage Multiplier" = 1.0
+		"Body Damage Multiplier" = 0.8
 		# How much health ratio are recovered in all body parts from bed sleeping.
 		#Range: 0.0 ~ 1.0
 		"Body Part Health Ratio Recovered" = 1.0
@@ -541,18 +541,18 @@
 			# Any other value will default to SIMPLE.
 			"Body Part Health Mode" = "DYNAMIC"
 			#Range: 0.0 ~ 1000.0
-			"Head Part Health" = 0.5
+			"Head Part Health" = 0.4
 			# Both arms will have this health.
 			#Range: 0.0 ~ 1000.0
-			"Arms Part Health" = 0.5
+			"Arms Part Health" = 0.4
 			#Range: 0.0 ~ 1000.0
-			"Chest Part Health" = 0.7
+			"Chest Part Health" = 0.6
 			# Both legs will have this health.
 			#Range: 0.0 ~ 1000.0
-			"Legs Part Health" = 0.7
+			"Legs Part Health" = 0.6
 			# Both feet will have this health.
 			#Range: 0.0 ~ 1000.0
-			"Feet Part Health" = 0.5
+			"Feet Part Health" = 0.4
 
 		[health-overhaul.body-damage.body-parts-effects]
 

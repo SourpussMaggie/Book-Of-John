@@ -79,6 +79,9 @@
 			russulat = true
 			bishopsinkcaps = true
 
+		[types.wood_type.evenbetternether]
+			mushroom = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.ecologics]
@@ -98,9 +101,6 @@
 			yellow_maple = true
 			orange_maple = true
 			red_maple = true
-
-		[types.leaves_type.rediscovered]
-			ancient_cherry = true
 
 		[types.leaves_type.quark]
 			ancient = true
@@ -230,6 +230,9 @@
 		[types.cake.dungeonsdelight]
 			monster_cake = true
 
+		[types.cake.galospheric_delight]
+			salted_caramel_cake = true
+
 #Disables specific entries
 [entries]
 
@@ -243,10 +246,6 @@
 			shutter = true
 			bench = true
 			chair = true
-
-		[entries.wood_type.rediscovered]
-			chair = true
-			table = true
 
 		[entries.wood_type.quark]
 			hollow_log = true
