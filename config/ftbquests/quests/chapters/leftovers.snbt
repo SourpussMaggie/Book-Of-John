@@ -150,8 +150,8 @@
 			id: "7DDAE7D32D345F7B"
 			rewards: [{
 				count: 2
-				id: "7B875C51B19AEC01"
-				item: "iter_rpg:beer_mug"
+				id: "5BADDDAC5AC5289A"
+				item: "arsdelight:bastion_hornbeer"
 				type: "item"
 			}]
 			subtitle: "locker room talk"

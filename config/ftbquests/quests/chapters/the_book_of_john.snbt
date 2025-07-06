@@ -216,6 +216,30 @@
 			x: -1.0d
 			y: 2.0d
 		}
+		{
+			can_repeat: true
+			description: ["A STORY SPUN YOUR WOUNDS UNDONE SHOW ME YOUR"]
+			icon: "legendarysurvivaloverhaul:heart_fragment"
+			id: "07D079F7C17957FE"
+			rewards: [{
+				id: "6EB55503586DBA1D"
+				item: "legendarysurvivaloverhaul:heart_container"
+				type: "item"
+			}]
+			shape: "heart"
+			size: 1.5d
+			subtitle: "DO YOU CRAVE IT?"
+			tasks: [{
+				icon: "minecraft:experience_bottle"
+				id: "600AD847E53F54CB"
+				points: false
+				type: "xp"
+				value: 40L
+			}]
+			title: "MY LOVE"
+			x: -1.0d
+			y: -4.5d
+		}
 	]
 	subtitle: ["worlds ad infinitum"]
 	title: "THE YEARNING"

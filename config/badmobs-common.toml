@@ -9652,7 +9652,7 @@
 	#Spawning options for species:leaf_hanger
 	[species.leaf_hanger]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -16756,31 +16756,6 @@
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 
-#Options for the rehooked mod.
-[rehooked]
-
-	#Spawning options for rehooked:hook_projectile
-	[rehooked.hook_projectile]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
-	#Spawning options for rehooked:direction_cube
-	[rehooked.direction_cube]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-
 #Options for the iwannaskate mod.
 [iwannaskate]
 
@@ -18516,6 +18491,31 @@
 
 	#Spawning options for hamsters:seat
 	[hamsters.seat]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the rehooked mod.
+[rehooked]
+
+	#Spawning options for rehooked:hook_projectile
+	[rehooked.hook_projectile]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for rehooked:direction_cube
+	[rehooked.direction_cube]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?

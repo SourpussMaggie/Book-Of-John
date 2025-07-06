@@ -5,6 +5,32 @@
       "name": "LavaAgent",
       "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
     },
+    "time": 1751618314812,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ilBn0iMsAj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Sourpuss4444",
+      "uniqueId": "aa750508-9982-4a13-b902-2db707176742"
+    },
+    "time": 1751437696890,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Yrv6FQ1vv4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LavaAgent",
+      "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
+    },
     "time": 1747613551823,
     "type": "Profiler",
     "data": {

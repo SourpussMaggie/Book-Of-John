@@ -278,6 +278,7 @@
 				type: "item"
 			}]
 			shape: "gear"
+			size: 1.25d
 			subtitle: "blood donation"
 			tasks: [{
 				id: "64BD73B629349152"
