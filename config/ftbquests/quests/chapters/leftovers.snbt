@@ -528,29 +528,6 @@
 			y: -3.0d
 		}
 		{
-			id: "2BDAAE180DFE0918"
-			rewards: [{
-				id: "7747932320B0440C"
-				item: "gobber2:gobber2_globette"
-				type: "item"
-			}]
-			subtitle: "the payoff is huge"
-			tasks: [{
-				id: "25A97EDABF6F70AA"
-				item: {
-					Count: 1
-					id: "gobber2:gobber2_boots_dragon"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			title: "Idiot Plot"
-			x: 0.0d
-			y: 3.0d
-		}
-		{
 			id: "1ECF74F675D67807"
 			rewards: [{
 				count: 2
@@ -593,6 +570,30 @@
 			]
 			title: "TerraFirmaGreg WISHES"
 			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "32C570316B6C65D4"
+			rewards: [
+				{
+					id: "0F711EA7CB1936BB"
+					item: "cloudstorage:happy_cloud_in_a_bottle"
+					type: "item"
+				}
+				{
+					id: "699F3A389AF87B08"
+					item: "cloudstorage:angry_cloud_in_a_bottle"
+					type: "item"
+				}
+			]
+			subtitle: "redundancy department called"
+			tasks: [{
+				id: "080C760607EFF6B4"
+				item: "artifacts:cloud_in_a_bottle"
+				type: "item"
+			}]
+			title: "Well This Sucks"
+			x: 1.5d
 			y: -3.0d
 		}
 	]

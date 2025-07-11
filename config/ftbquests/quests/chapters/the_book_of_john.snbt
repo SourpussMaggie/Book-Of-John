@@ -177,7 +177,7 @@
 				type: "dimension"
 			}]
 			title: "True Endgame"
-			x: -1.0d
+			x: 0.5d
 			y: 0.5d
 		}
 		{
@@ -234,11 +234,29 @@
 				id: "600AD847E53F54CB"
 				points: false
 				type: "xp"
-				value: 40L
+				value: 35L
 			}]
 			title: "MY LOVE"
 			x: -1.0d
 			y: -4.5d
+		}
+		{
+			id: "79F695A78C932918"
+			rewards: [{
+				id: "2EDF79A56821F36A"
+				item: "ars_additions:ancient_codex_entry"
+				type: "item"
+			}]
+			subtitle: "actually it's quite nice"
+			tasks: [{
+				dimension: "cyberspace:cyberspace_dimension"
+				icon: "cyberspace:cybervoid_block"
+				id: "3BD931573B82B87A"
+				type: "dimension"
+			}]
+			title: "My Special Hell"
+			x: -2.5d
+			y: -1.0d
 		}
 	]
 	subtitle: ["worlds ad infinitum"]

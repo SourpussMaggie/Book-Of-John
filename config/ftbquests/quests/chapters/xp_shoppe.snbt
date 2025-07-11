@@ -329,26 +329,6 @@
 			x: 3.0d
 			y: -1.5d
 		}
-		{
-			dependencies: ["74B8ED65A94D8E4E"]
-			icon: "gobber2:gobber2_lucky_block"
-			id: "6625368C7DAB30CA"
-			rewards: [{
-				id: "52F1B908DC0A6B5E"
-				item: "gobber2:gobber2_lucky_block"
-				type: "item"
-			}]
-			subtitle: "gobbergobbergobber"
-			tasks: [{
-				count: 3L
-				id: "16B973EC5FCB5D45"
-				item: "born_in_chaos_v1:diamond_termite_shard"
-				type: "item"
-			}]
-			title: "Gobber Meal"
-			x: -2.0d
-			y: 3.0d
-		}
 	]
 	subtitle: ["One man's trash..."]
 	title: "Termite Shoppe"

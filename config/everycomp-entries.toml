@@ -166,7 +166,6 @@
 			jasper = true
 			shale = true
 			myalite = true
-			permafrost = true
 
 		[types.stone_type.unusualend]
 			gneiss = true
@@ -181,13 +180,8 @@
 		[types.stone_type.jellyfishing]
 			coralstone = true
 
-		[types.stone_type.the_banished]
-			voidstone = true
-
 		[types.stone_type.undergarden]
 			depthrock = true
-			shiverstone = true
-			tremblecrust = true
 
 		[types.stone_type.deep_dark_regrowth]
 			petronium = true
@@ -195,12 +189,6 @@
 
 		[types.stone_type.scguns]
 			phosphorite = true
-
-		[types.stone_type.upgrade_aquatic]
-			coralstone = true
-
-		[types.stone_type.vintagedelight]
-			salt = true
 
 		[types.stone_type.caverns_and_chasms]
 			sugilite = true

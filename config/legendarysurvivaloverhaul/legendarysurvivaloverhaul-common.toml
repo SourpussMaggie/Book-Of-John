@@ -28,7 +28,7 @@
 		# If enabled, the player can regenerate health naturally if their hunger is full enough (doesn't affect external healing, such as golden apples, the Regeneration effect, etc.)
 		"Natural Regeneration Enabled" = true
 		# If enabled, the player suffers vanilla freeze when inside powder snow.
-		"Vanilla Freeze Enabled" = false
+		"Vanilla Freeze Enabled" = true
 		# How much health player will have initially.
 		#Range: 1.0 ~ 10000.0
 		"Initial Player Health" = 20.0
@@ -438,7 +438,7 @@
 		# The number of Hearts below which player can't lose hearts upon death.
 		# The hearts below this limit are de facto Permanent Hearts.
 		#Range: 1 ~ 10000
-		"Permanent Hearts" = 6
+		"Permanent Hearts" = 9
 
 	[health-overhaul.broken-hearts]
 		# Broken Hearts are an interaction with the localized body damage feature. Enables both feature to have it.
