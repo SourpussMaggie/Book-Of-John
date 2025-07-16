@@ -1,0 +1,227 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "angels_guide_me"
+	group: ""
+	icon: "dungeonsdelight:guardian_angel_block"
+	id: "388440034F69F19C"
+	images: [{
+		click: "https://open.spotify.com/playlist/54Qff9q8qpZPsHxmZHiBuF?si=13c7f77f40a3460c"
+		height: 1.0d
+		image: "etched:item/jukebox_minecart"
+		rotation: 0.0d
+		width: 1.0d
+		x: 0.0d
+		y: 0.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			description: ["A STORY SPUN YOUR WOUNDS UNDONE SHOW ME YOUR"]
+			icon: "legendarysurvivaloverhaul:heart_fragment"
+			id: "07D079F7C17957FE"
+			rewards: [{
+				id: "6EB55503586DBA1D"
+				item: "legendarysurvivaloverhaul:heart_container"
+				type: "item"
+			}]
+			shape: "heart"
+			size: 1.5d
+			subtitle: "DO YOU CRAVE IT?"
+			tasks: [{
+				icon: "minecraft:experience_bottle"
+				id: "600AD847E53F54CB"
+				points: false
+				type: "xp"
+				value: 35L
+			}]
+			title: "MY LOVE"
+			x: 0.0d
+			y: -3.75d
+		}
+		{
+			id: "74B8ED65A94D8E4E"
+			rewards: [{
+				count: 8
+				id: "5F0BBB1DDFFCC36D"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			subtitle: "scrappy mechanic?"
+			tasks: [{
+				id: "6025CDCAF82477FC"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			title: "Bamboozled"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Welcome to the Book of John!"
+				"(full title: Gallows Humor 2: The Book of John)"
+				""
+				"This modpack is designed to be a maximalist horror sandbox! An adventure pack without the usual Terraria-progression baggage! Your goal is just to exist in the world and make progress however you see fit. There should be an endless amount of ways to spend your time should you seek them out."
+				""
+				"It won't be easy, but it won't be a slog either. Hopefully."
+			]
+			id: "10BB1B744376F9BB"
+			rewards: [{
+				count: 2
+				id: "6EFAAEDD3825FF0D"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "the witching hour"
+			tasks: [{
+				id: "7AC145EF29EDE341"
+				title: "An Introduction"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["10BB1B744376F9BB"]
+			description: [
+				"This modpack is largely defined by its expansive and often brutal cast of creatures. Darkness is unforgiving, and crawling with bloodthirsty renegades waiting for a foolish traveler to waltz into their line of sight. Wise survivors will take advantage of lengthy daylight hours, especially since passing the night will require more effort than simply owning a bed."
+				""
+				"Caves are greatly expanded as well, with a wide range of sights to see, treasures to find, and monsters to fear. Torches will be more vital than ever."
+			]
+			icon: "cavesanddepths:soul_copper_lantern"
+			id: "734865FB5E0ECA85"
+			rewards: [{
+				id: "6E1C2F2E24A128D4"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "bump in the night"
+			tasks: [{
+				id: "5A1130F241B3BC2B"
+				title: "What Lurks Beneath"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10BB1B744376F9BB"]
+			description: [
+				"Your items will remain with you even after your own death. However, you will pay in other ways. These consequences can be undone, but not without a deal of effort. Shards of life force can be looted from the remains of:"
+				""
+				"-John, and his offspring"
+				"-the perpetual soldiers, who wear the skin of travelers before you"
+				"-benevolent collectors of all that glitters"
+				"-she who dwells beneath the stone and dirt"
+				"-the song of the swamp"
+			]
+			icon: "born_in_chaos_v1:bone_heart"
+			id: "4D8C55E485D887CC"
+			rewards: [{
+				id: "54F5CED9C51E9FD2"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "fear the reaper"
+			tasks: [{
+				id: "6CB00DFD877E28D0"
+				title: "Life and Death"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10BB1B744376F9BB"]
+			description: [
+				"This book is written non-linearly, so that it does not take away from the sandbox laid out before you. Rifling through its chapters may be a good way to pass the time on a particularly lonely night."
+				""
+				"ANGELS GUIDE ME: for seeking guidance, and possibly more "
+				""
+				"THE YEARNING: for cataloguing expeditions to worlds beyond your own"
+				""
+				"TARRARE'S TOUCH: for the curious chef, who's talents will prove necessary for survival"
+				""
+				"GNASHING OF TEETH: for slaying even the most vicious of enemies"
+				""
+				"RENAISSANCE MAN: for objectives that do not fit within the other chapters"
+				""
+				"and the _______ ______, for the impatient traveler"
+			]
+			icon: "minecraft:writable_book"
+			id: "744E55BEB803DAAE"
+			rewards: [{
+				id: "34426AE4B6ED0EA7"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "this ain't your daddy's quest tree"
+			tasks: [{
+				id: "375F5302D0EFC78C"
+				title: "This Book"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10BB1B744376F9BB"]
+			description: [
+				"There are many features included in this pack to benefit multiplayer specifically."
+				""
+				"-instruments, which provide harmony when combined"
+				"-media players, for lying down on the couch and passing the long hours of the night together"
+				"-proximity chat, for a more immersive coexistence"
+				""
+				"And so on, and so forth. It goes without saying that your survival, too, will be easier with allies."
+			]
+			icon: {
+				Count: 1
+				id: "immersive_melodies:lute"
+				tag: { }
+			}
+			id: "456389031558070B"
+			rewards: [{
+				id: "571D8B6D97AEDDF1"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "(platonic) love on the battlefield"
+			tasks: [{
+				id: "2F0168916C10C81E"
+				title: "Companionship"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["10BB1B744376F9BB"]
+			description: [
+				"Enabling all available texture packs (excluding \"sidegrade\" packs, such as changing HUD colors) is recommended."
+				""
+				"This pack is also best paired with a bespoke Spotify playlist droning in the background, accessed by clicking on the image of a jukebox on this chapter's page."
+			]
+			icon: "cyberspace:terminal"
+			id: "1057F65C44A2142C"
+			rewards: [{
+				id: "3EFD83C2860066CE"
+				item: "legendarysurvivaloverhaul:plaster"
+				type: "item"
+			}]
+			subtitle: "mama knows best"
+			tasks: [{
+				id: "3B0293E4F15FB4FD"
+				title: "Supplementary Material"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+	]
+	subtitle: ["some call it a tutorial"]
+	title: "ANGELS GUIDE ME"
+}

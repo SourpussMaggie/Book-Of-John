@@ -517,6 +517,17 @@
         "value": 2
       }
     },
+    "spore:toxicity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "irons_spellbooks:lightning_spell_power": {
       "enabled": false,
       "min": {
@@ -845,6 +856,17 @@
       "max": {
         "default": 3,
         "value": 3
+      }
+    },
+    "spore:laceration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "irons_spellbooks:fire_spell_power": {
@@ -1584,6 +1606,28 @@
         "value": 1024
       }
     },
+    "spore:grinding": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "spore:localization": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "stardew_fishing:exp_multiplier": {
       "enabled": false,
       "min": {
@@ -1969,6 +2013,17 @@
         "value": 30
       }
     },
+    "sons_of_sins:cooldown_cap": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 240,
+        "value": 240
+      }
+    },
     "attributeslib:mining_speed": {
       "enabled": false,
       "min": {
@@ -2154,6 +2209,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "spore:rejuvenation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "health_and_disease:saccharides": {
@@ -2563,6 +2629,17 @@
         "value": 2048
       }
     },
+    "spore:corrosives": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "vminus:blunt_protection": {
       "enabled": false,
       "min": {
@@ -2572,6 +2649,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "spore:ballistic": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
       }
     },
     "iter_rpg:stat_strength": {

@@ -6,11 +6,11 @@
 	hide_quest_until_deps_complete: true
 	icon: "alexsmobs:void_worm_eye"
 	id: "7A306B3A63DCC79F"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["the quests in this pack are &lnon-linear&r because linear quest progression is stupid and antithetical to the sandbox-y way this modpack is designed"]
+			description: ["good luck out there ;)"]
 			icon: {
 				Count: 1
 				id: "toybox:vortex_of_fun"
@@ -58,7 +58,7 @@
 			}]
 			title: "Howdy"
 			x: -1.0d
-			y: -1.0d
+			y: -2.5d
 		}
 		{
 			description: ["&nFUN FACT&r: there was a short-lived period of this modpack's development where the player initially spawned in Toybox. that was dumb i'm glad i got rid of it"]
@@ -109,7 +109,7 @@
 			}]
 			title: "Get Buzzed"
 			x: -1.0d
-			y: -2.5d
+			y: 0.5d
 		}
 		{
 			id: "2C09FA2C8A01CC12"
@@ -197,48 +197,6 @@
 			title: "Space Adventure"
 			x: -2.5d
 			y: 0.5d
-		}
-		{
-			id: "74B8ED65A94D8E4E"
-			rewards: [{
-				count: 8
-				id: "5F0BBB1DDFFCC36D"
-				item: "born_in_chaos_v1:diamond_termite_shard"
-				type: "item"
-			}]
-			subtitle: "scrappy mechanic?"
-			tasks: [{
-				id: "6025CDCAF82477FC"
-				item: "born_in_chaos_v1:diamond_termite_shard"
-				type: "item"
-			}]
-			title: "Bamboozled"
-			x: -1.0d
-			y: 2.0d
-		}
-		{
-			can_repeat: true
-			description: ["A STORY SPUN YOUR WOUNDS UNDONE SHOW ME YOUR"]
-			icon: "legendarysurvivaloverhaul:heart_fragment"
-			id: "07D079F7C17957FE"
-			rewards: [{
-				id: "6EB55503586DBA1D"
-				item: "legendarysurvivaloverhaul:heart_container"
-				type: "item"
-			}]
-			shape: "heart"
-			size: 1.5d
-			subtitle: "DO YOU CRAVE IT?"
-			tasks: [{
-				icon: "minecraft:experience_bottle"
-				id: "600AD847E53F54CB"
-				points: false
-				type: "xp"
-				value: 35L
-			}]
-			title: "MY LOVE"
-			x: -1.0d
-			y: -4.5d
 		}
 		{
 			id: "79F695A78C932918"

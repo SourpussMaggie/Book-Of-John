@@ -11,7 +11,7 @@
 		}
 	}
 	id: "41D4A08DB491B560"
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -131,8 +131,9 @@
 		{
 			id: "3AECB4C4CBD6DB20"
 			rewards: [{
+				count: 3
 				id: "5999B7274CF0CA80"
-				item: "unusualfishmod:tiger_puffer_bucket"
+				item: "seadwellers:collector_loot_crate"
 				type: "item"
 			}]
 			subtitle: "lucky you"
@@ -364,14 +365,8 @@
 					type: "item"
 				}
 				{
-					id: "5ABD2155FB9F2DEB"
-					item: {
-						Count: 1
-						id: "gobber2:gobber2_leggings_end"
-						tag: {
-							Damage: 0
-						}
-					}
+					id: "73EE6318D7377F9E"
+					item: "the_day_of_the_beast:antique_armor_leggings"
 					type: "item"
 				}
 			]

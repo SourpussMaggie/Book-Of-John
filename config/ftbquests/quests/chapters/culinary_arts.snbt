@@ -5,7 +5,7 @@
 	group: ""
 	icon: "scpo:scp_458"
 	id: "7A42B9DAA1832E59"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -46,46 +46,40 @@
 		{
 			id: "5E5DB887911A072F"
 			rewards: [{
-				id: "12CEC4B2D2584D37"
-				item: "aquaculture:neptunium_block"
+				id: "41330D7861D1779C"
+				item: "unusualfishmod:picklefish_bucket"
 				type: "item"
 			}]
-			subtitle: "i am a god amongst men"
+			subtitle: "yeah"
 			tasks: [
 				{
-					count: 10L
 					id: "0D83CF4E7914391E"
-					item: { Count: 10, id: "vintagedelight:kimchi" }
+					item: "vintagedelight:kimchi"
 					type: "item"
 				}
 				{
-					count: 10L
 					id: "554302032E1402DB"
-					item: { Count: 10, id: "vintagedelight:pickle" }
+					item: "vintagedelight:pickle"
 					type: "item"
 				}
 				{
-					count: 10L
 					id: "49B8DB570EC41118"
-					item: { Count: 10, id: "vintagedelight:pickled_onion" }
+					item: "vintagedelight:pickled_onion"
 					type: "item"
 				}
 				{
-					count: 10L
 					id: "1EF1EBC76664F0AA"
-					item: { Count: 10, id: "vintagedelight:pickled_egg" }
+					item: "vintagedelight:pickled_egg"
 					type: "item"
 				}
 				{
-					count: 10L
 					id: "61FBBABEBB2DC786"
-					item: { Count: 10, id: "vintagedelight:pickled_pepper" }
+					item: "vintagedelight:pickled_pepper"
 					type: "item"
 				}
 				{
-					count: 10L
 					id: "6329DDD32162C1BE"
-					item: { Count: 10, id: "vintagedelight:pickled_pitcher_pod" }
+					item: "vintagedelight:pickled_pitcher_pod"
 					type: "item"
 				}
 				{

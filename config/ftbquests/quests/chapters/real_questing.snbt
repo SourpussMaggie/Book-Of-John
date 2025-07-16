@@ -1,0 +1,94 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "real_questing"
+	group: ""
+	icon: "unusualfishmod:pickledish"
+	id: "75DB46FC035E1338"
+	images: [
+		{
+			click: "https://cdn.discordapp.com/attachments/775862155189682226/1394824998723649627/aw6au3pir39a1.jpg?ex=68783782&is=6876e602&hm=d68cd3df29dbbe32cc260506d5f4663c68d04ccc95de700999ca0eaa002246ab&"
+			color: 5635925
+			dependency: "5E5DB887911A072F"
+			height: 1.0d
+			image: "immersive_paintings:item/painting"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			click: "https://s.wsj.net/public/resources/images/B3-AY570_0627PI_G_20180627171620.jpg"
+			color: 5635925
+			dependency: "5E5DB887911A072F"
+			height: 1.0d
+			image: "immersive_paintings:item/painting"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			click: "https://soundcloud.com/nicko-the-peel/dirty-pickle"
+			color: 5635925
+			dependency: "5E5DB887911A072F"
+			height: 1.0d
+			image: "immersive_paintings:item/painting"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			click: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FmF2j5R2PAwVr5LBCpV5Pdi4gRBE98kDwQ&s"
+			color: 5635925
+			dependency: "5E5DB887911A072F"
+			height: 1.0d
+			image: "immersive_paintings:item/painting"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			click: "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/2/4d/24d2c3fa-5236-50c0-822b-a9db893bf9c6/57c0d3176bab1.image.jpg?resize=750%2C502"
+			color: 5635925
+			dependency: "5E5DB887911A072F"
+			height: 1.0d
+			image: "immersive_paintings:item/painting"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["5E5DB887911A072F"]
+		hide_dependency_lines: true
+		hide_dependent_lines: true
+		hide_until_deps_complete: true
+		icon: "vintagedelight:golden_egg"
+		id: "5315E6B3FA96EC94"
+		rewards: [{
+			id: "1E60A61B0BC39302"
+			item: "vintagedelight:golden_egg"
+			type: "item"
+		}]
+		shape: "circle"
+		size: 1.3d
+		subtitle: "tabi no tochū de deatta yūjin-tachi"
+		tasks: [{
+			id: "71784A1FCAEB2CBF"
+			points: false
+			type: "xp"
+			value: 99L
+		}]
+		title: "jajaja"
+		x: 0.0d
+		y: 0.0d
+	}]
+	subtitle: ["誰かが気にかけてくれていると知って嬉しい"]
+	title: "リアルクエスト"
+}
