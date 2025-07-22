@@ -82,6 +82,9 @@
 		[types.wood_type.evenbetternether]
 			mushroom = true
 
+		[types.wood_type.palegarden]
+			pale = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.ecologics]
@@ -166,6 +169,7 @@
 			jasper = true
 			shale = true
 			myalite = true
+			permafrost = true
 
 		[types.stone_type.unusualend]
 			gneiss = true
@@ -182,6 +186,8 @@
 
 		[types.stone_type.undergarden]
 			depthrock = true
+			shiverstone = true
+			tremblecrust = true
 
 		[types.stone_type.deep_dark_regrowth]
 			petronium = true
@@ -212,6 +218,12 @@
 			blueschiststairs = true
 			blueschistslab = true
 			novaculiteslab = true
+
+		[types.stone_type.the_banished]
+			voidstone = true
+
+		[types.stone_type.upgrade_aquatic]
+			coralstone = true
 
 	[types.cake]
 

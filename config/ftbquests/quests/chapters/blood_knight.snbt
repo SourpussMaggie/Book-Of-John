@@ -103,9 +103,8 @@
 					type: "item"
 				}
 				{
-					count: 10
-					id: "0E87529FDEAE908D"
-					item: "immersive_paintings:painting"
+					id: "08323B7C4D8CB3A9"
+					item: "minecraft:ender_chest"
 					type: "item"
 				}
 			]
@@ -924,12 +923,19 @@
 		}
 		{
 			id: "22DC99D76EB3AAB0"
-			rewards: [{
-				count: 9
-				id: "7683DEE3FBE0D505"
-				item: "gobber2:gobber2_ingot_nether"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "6AAD9565281E959A"
+					item: "ars_additions:ancient_codex_entry"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4A0FCE305BF94BBC"
+					item: "galospheric_delight:membranburger"
+					type: "item"
+				}
+			]
 			subtitle: "these things don't grow on trees!"
 			tasks: [{
 				entity: "minecraft:wither"
@@ -960,6 +966,25 @@
 			title: "Intro to Dragon Slaying"
 			x: 6.0d
 			y: 0.0d
+		}
+		{
+			id: "5B059D153B6AA650"
+			rewards: [{
+				id: "4FBEE19AF1D1FFFB"
+				item: "brazil_legends:rescued_baby"
+				type: "item"
+			}]
+			subtitle: "aowie"
+			tasks: [{
+				entity: "lummobs:purpleguy"
+				icon: "lummobs:purpleguy_spawn_egg"
+				id: "73387DE0BE5A6600"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Better Left Alone"
+			x: 1.5d
+			y: -3.0d
 		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]

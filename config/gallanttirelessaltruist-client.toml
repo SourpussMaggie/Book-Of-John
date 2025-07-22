@@ -1,0 +1,9 @@
+
+["Client Setting"]
+	#Just enable KillEffect.
+	enableKillEffect = true
+	#Just enable HurtEffect.
+	enableHurtEffect = true
+	#Just disable vanilla HurtShake.
+	disableHurtEffect = true
+

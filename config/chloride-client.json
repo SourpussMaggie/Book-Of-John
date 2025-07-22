@@ -27,7 +27,7 @@
   "darknessEndFogBright": 0.5,
   "darknessByDefault": true,
   "darknessDimensionWhiteList": [],
-  "darknessOnNoSkyLight": true,
+  "darknessOnNoSkyLight": false,
   "darknessBlockLightOnly": false,
   "darknessAffectedByMoonPhase": true,
   "darknessNewMoonBright": 0.0,
