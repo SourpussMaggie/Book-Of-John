@@ -438,7 +438,7 @@
 		# The number of Hearts below which player can't lose hearts upon death.
 		# The hearts below this limit are de facto Permanent Hearts.
 		#Range: 1 ~ 10000
-		"Permanent Hearts" = 5
+		"Permanent Hearts" = 9
 
 	[health-overhaul.broken-hearts]
 		# Broken Hearts are an interaction with the localized body damage feature. Enables both feature to have it.
