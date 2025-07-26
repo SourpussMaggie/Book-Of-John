@@ -986,6 +986,35 @@
 			x: 1.5d
 			y: -3.0d
 		}
+		{
+			id: "64227C4E8A92CC2E"
+			rewards: [{
+				count: 5
+				id: "271217B0A226943F"
+				item: "nirvana:hemp_seeds"
+				type: "item"
+			}]
+			subtitle: "Jennifer du-- actually I think the advancements already did that joke"
+			tasks: [
+				{
+					entity: "lummobs:cacus"
+					icon: "minecraft:wheat_seeds"
+					id: "4572485F5A347B86"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "mowziesmobs:foliaath"
+					icon: "mowziesmobs:foliaath_seed"
+					id: "65BBE4BA51FCCDBB"
+					type: "kill"
+					value: 2L
+				}
+			]
+			title: "Rudimentary Gardening"
+			x: 1.5d
+			y: 6.0d
+		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]
 	title: "GNASHING OF TEETH"

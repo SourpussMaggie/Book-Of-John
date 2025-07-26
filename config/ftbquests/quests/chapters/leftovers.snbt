@@ -591,6 +591,82 @@
 			x: 1.5d
 			y: -3.0d
 		}
+		{
+			id: "43EC4B4E5BA7782B"
+			rewards: [{
+				count: 15
+				id: "4C8F9F4E84830968"
+				item: "legendarysurvivaloverhaul:morphine"
+				type: "item"
+			}]
+			subtitle: "made me chuckle"
+			tasks: [
+				{
+					advancement: "mowziesmobs:kill_foliaath"
+					criterion: ""
+					id: "745B79DD1BC9BD46"
+					type: "advancement"
+				}
+				{
+					advancement: "yungscavebiomes:the_snack_that_bites_back"
+					criterion: ""
+					id: "5539FF08F170474F"
+					type: "advancement"
+				}
+				{
+					advancement: "quark:ancient_apple_overlevel"
+					criterion: ""
+					id: "2700FFD5C72E53A3"
+					type: "advancement"
+				}
+				{
+					advancement: "occult:you_suck"
+					criterion: ""
+					id: "3F25E18165210CEF"
+					type: "advancement"
+				}
+				{
+					advancement: "scpo:obtain_178"
+					criterion: ""
+					id: "357C61E16A3EAD19"
+					type: "advancement"
+				}
+			]
+			title: "Funny Advancement Names"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "7E969BF8AD33D655"
+			rewards: [
+				{
+					id: "177172E0999CE347"
+					item: "dungeonsdelight:cooked_snifferwurst"
+					type: "item"
+				}
+				{
+					id: "5B000CE6DE04D247"
+					item: {
+						Count: 1
+						id: "brazil_legends:magic_hat_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "thing is that's exactly what i wanted actually"
+			tasks: [{
+				advancement: "enemyexpansion:troll_petrified"
+				criterion: ""
+				id: "07B6CA61C2CC506C"
+				type: "advancement"
+			}]
+			title: "no no that's cool dude"
+			x: -1.5d
+			y: 3.0d
+		}
 	]
 	subtitle: ["table scraps"]
 	title: "RENAISSANCE MAN"

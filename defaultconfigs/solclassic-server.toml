@@ -2,15 +2,15 @@
 [SolClassicSettings]
 	#Maximum number of food history entries to track
 	#Range: 5 ~ 300
-	maxFoodHistorySize = 30
+	maxFoodHistorySize = 100
 	#Maximum number of food short history entries to track
 	#Range: 1 ~ 100
-	maxShortFoodHistorySize = 9
+	maxShortFoodHistorySize = 1
 	#Long decay modifiers for food recovery
 	#Range: 0.0 ~ 1.0
-	longFoodDecayModifiers = 0.01
+	longFoodDecayModifiers = 0.03
 	#List of decay modifiers for food recovery, applied sequentially
-	shortFoodDecayModifiers = [1.0, 0.95, 0.9, 0.8, 0.7, 0.6, 0.5, 0.3, 0.2]
+	shortFoodDecayModifiers = [1.0]
 	#List of food items that should not be tracked
 	foodBlacklist = ["minecraft:dried_kelp"]
 	#Enable Wicker Basket

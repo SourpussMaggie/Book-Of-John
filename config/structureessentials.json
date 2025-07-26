@@ -39,7 +39,7 @@
   },
   "autoBiomeCompat": {
     "desc:": "Automatically analyzes present biomes and adjust structure spawning to include fitting ones, Note that this may also spawn structures in undesired biomes, check the logging and adjust the strictness up/down to achieve a good result. Default: false",
-    "enableBiomeCompat": false,
+    "enableBiomeCompat": true,
     "enableLogging": true,
     "strictness": {
       "desc:": "Sets a modifier for how strict the autoBiomeCompat is, lower allows adding less similar biomes to be added. E.g. 0.5 decreases the similarity requirements by 50% . Default: 1.2",

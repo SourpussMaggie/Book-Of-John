@@ -286,7 +286,7 @@
 				type: "item"
 			}]
 			title: "HEART BREAKER"
-			x: 0.0d
+			x: -0.625d
 			y: 5.0d
 		}
 		{
@@ -328,6 +328,27 @@
 			title: "Soggy Burger"
 			x: 3.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["74B8ED65A94D8E4E"]
+			id: "2C9577390346418D"
+			rewards: [{
+				id: "0C295F417D535B65"
+				item: "born_in_chaos_v1:diamond_termite_shard"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.25d
+			subtitle: "might as well"
+			tasks: [{
+				count: 9L
+				id: "4B36B11E86E87291"
+				item: { Count: 9, id: "scpo:cobalt_ingot" }
+				type: "item"
+			}]
+			title: "INEFFICIENT ALCHEMY"
+			x: 0.625d
+			y: 5.0d
 		}
 	]
 	subtitle: ["One man's trash..."]

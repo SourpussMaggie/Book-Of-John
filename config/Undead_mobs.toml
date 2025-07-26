@@ -20,6 +20,10 @@
 [bomber]
 	#bomber explosion radius
 	"Bomber explosion in block area" = 9.0
+	#bomber explosion damage
+	"Explosion impact damage" = 1.0
+	#bomber explosion goo effect duration (In ticks: 20 ticks = 1 second)
+	"Explosion goo duration" = 400.0
 
 [clogger]
 	#Clogger will usaully not tolererate player cheesing in a fight
@@ -50,4 +54,20 @@
 ["The Dungeon"]
 	#Can The Dungeon mob and its structures spawn in thiss world?
 	"Enable or Disabling dungeons" = true
+
+[bidy]
+	#bidy explosion damage
+	"Explosion impact damage" = 4.5
+	#bidy explosion radius.
+	"Explosion radius" = 4.0
+	#bidy goo explosion effect durarion (In ticks: 20 ticks = 1 second)
+	"Explosion goo duration" = 80.0
+
+["The Possesive"]
+	#Can The Posessive mob and its structures spawn in thiss world?
+	"Enable or Disabling Ocean banks" = true
+
+["The Rabidus"]
+	#Per hit
+	"Change of inflicting rabies" = 0.12
 

@@ -1,0 +1,45 @@
+
+["Dynamite Base Damage"]
+	#Base explosion power of basic Dynamite (default: 2.0)
+	#Range: 0.0 ~ 100.0
+	dynamiteBasePower = 2.0
+	#Base explosion power of Dynamite II (default: 3.0)
+	#Range: 0.0 ~ 100.0
+	dynamiteIIBasePower = 3.0
+	#Base explosion power of Dynamite III (default: 4.0)
+	#Range: 0.0 ~ 100.0
+	dynamiteIIIBasePower = 4.0
+	#Base explosion power of Soul Dynamite (default: 5.0)
+	#Range: 0.0 ~ 100.0
+	soulDynamiteBasePower = 5.0
+	#Base explosion power of Soul Dynamite II (default: 6.0)
+	#Range: 0.0 ~ 100.0
+	soulDynamiteIIBasePower = 6.0
+	#Base explosion power of Soul Dynamite III (default: 7.0)
+	#Range: 0.0 ~ 100.0
+	soulDynamiteIIIBasePower = 7.0
+
+[Modifiers]
+	#List of modifiers applied to dynamite by default
+	defaultModifiers = []
+	#List of modifiers that are not allowed to be applied
+	restrictedModifiers = []
+
+[Performance]
+	#How many ticks should a bomb exist before it despawns? (default: 1200)
+	#Range: > 40
+	bombTimeoutTime = 1200
+
+["Mob Spawning"]
+	#What is the chance for prospectors and honses to spawn per minute? (default: 0.001)
+	#Range: 0.0 ~ 1.0
+	prospectorSpawnChance = 0.001
+	#Minimum number of groups (1 honse, 2 prospectors) that try to spawn at a time (default: 2)
+	#Range: > 0
+	prospectorGroupMin = 2
+	#Maximum number of groups (1 honse, 2 prospectors) that try to spawn at a time (default: 3)
+	#Range: > 0
+	prospectorGroupMax = 3
+	#List of modifiers applied to prospector's dynamite on spawn
+	prospectorDefaultModifiers = ["contained"]
+
