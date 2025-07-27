@@ -667,6 +667,36 @@
 			x: -1.5d
 			y: 3.0d
 		}
+		{
+			id: "136390AA4881BB82"
+			rewards: [{
+				count: 5
+				id: "5D855A43EF76944F"
+				item: "iwannaskate:energy_drink"
+				type: "item"
+			}]
+			subtitle: "thank god"
+			tasks: [
+				{
+					id: "28584F138CE5A266"
+					item: "legendarysurvivaloverhaul:canteen"
+					type: "item"
+				}
+				{
+					id: "0E61A8D5749024C2"
+					item: "legendarysurvivaloverhaul:ice_fern_leaf"
+					type: "item"
+				}
+				{
+					id: "01375E7E6312D441"
+					item: "legendarysurvivaloverhaul:sun_fern_leaf"
+					type: "item"
+				}
+			]
+			title: "Mechanic Not Found"
+			x: 3.0d
+			y: 3.0d
+		}
 	]
 	subtitle: ["table scraps"]
 	title: "RENAISSANCE MAN"

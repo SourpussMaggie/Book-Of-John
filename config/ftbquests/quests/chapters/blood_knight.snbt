@@ -1015,6 +1015,48 @@
 			x: 1.5d
 			y: 6.0d
 		}
+		{
+			id: "567BFEAD867A78A1"
+			rewards: [
+				{
+					count: 2
+					id: "2663CC5EE0C8F988"
+					item: {
+						Count: 1
+						id: "species:harpoon"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "046081DD1A79438F"
+					item: "jellyfishing:grease_upgrade_template"
+					type: "item"
+				}
+			]
+			subtitle: "it'll be funny"
+			tasks: [
+				{
+					entity: "alexsmobs:cachalot_whale"
+					icon: "alexsmobs:cachalot_whale_tooth"
+					id: "5D63AA7B04C10E5C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "alexsmobs:giant_squid"
+					icon: "miners_delight:squid"
+					id: "799F976BE9B7DE6A"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "go fight the ocean"
+			x: 3.0d
+			y: 6.0d
+		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]
 	title: "GNASHING OF TEETH"
