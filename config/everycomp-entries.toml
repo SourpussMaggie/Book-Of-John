@@ -21,18 +21,11 @@
 			wigglewood = true
 			grongle = true
 
-		[types.wood_type.enlightened_end]
-			indigo = true
-			cerulean = true
-
 		[types.wood_type.autumnity]
 			maple = true
 
 		[types.wood_type.snifferent]
 			globar = true
-
-		[types.wood_type.unusualend]
-			chorus_nest = true
 
 		[types.wood_type.quark]
 			azalea = true
@@ -79,11 +72,35 @@
 			russulat = true
 			bishopsinkcaps = true
 
-		[types.wood_type.evenbetternether]
-			mushroom = true
-
 		[types.wood_type.palegarden]
 			pale = true
+
+		[types.wood_type.betternether]
+			anchor_tree = true
+			mushroom_fir = true
+			nether_sakura = true
+			rubeus = true
+			stalagnate = true
+			wart = true
+			willow = true
+			nether_reed = true
+			nether_mushroom = true
+
+		[types.wood_type.enlightened_end]
+			indigo = true
+			cerulean = true
+
+		[types.wood_type.betterend]
+			end_lotus = true
+			jellyshroom = true
+			lucernia = true
+			mossy_glowshroom = true
+			pythadendron = true
+			dragon_tree = true
+			helix_tree = true
+			lacugrove = true
+			tenanea = true
+			umbrella_tree = true
 
 	[types.leaves_type]
 
@@ -157,11 +174,20 @@
 		[types.leaves_type.cave_stuff]
 			tawari = true
 
-	[types.stone_type]
+		[types.leaves_type.betternether]
+			willow = true
+			rubeus = true
+			anchor_tree = true
+			nether_sakura = true
 
-		[types.stone_type.enlightened_end]
-			void_shale = true
-			palerock = true
+		[types.leaves_type.betterend]
+			pythadendron = true
+			lacugrove = true
+			dragon_tree = true
+			tenanea = true
+			lucernia = true
+
+	[types.stone_type]
 
 		[types.stone_type.quark]
 			soul_sandstone = true
@@ -170,12 +196,6 @@
 			shale = true
 			myalite = true
 			permafrost = true
-
-		[types.stone_type.unusualend]
-			gneiss = true
-			gloopstone = true
-			gloopslate = true
-			warped_stone = true
 
 		[types.stone_type.cavesanddepths]
 			slate = true
@@ -224,6 +244,19 @@
 
 		[types.stone_type.upgrade_aquatic]
 			coralstone = true
+
+		[types.stone_type.enlightened_end]
+			void_shale = true
+			palerock = true
+
+		[types.stone_type.betterend]
+			azure_jadestone = true
+			sandy_jadestone = true
+			virid_jadestone = true
+			sulphuric_rock = true
+			flavolite = true
+			violecite = true
+			umbralith = true
 
 	[types.cake]
 

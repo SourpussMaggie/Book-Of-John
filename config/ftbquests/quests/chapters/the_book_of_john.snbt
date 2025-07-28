@@ -187,14 +187,14 @@
 				item: "royalvariations:spiritual_crown"
 				type: "item"
 			}]
-			subtitle: "say hi to Jean for me"
+			subtitle: "abyss"
 			tasks: [{
 				dimension: "minecraft:the_end"
 				icon: "minecraft:dragon_head"
 				id: "2E0B419C290EA57D"
 				type: "dimension"
 			}]
-			title: "Space Adventure"
+			title: "Tour De Cosmos"
 			x: -2.5d
 			y: 0.5d
 		}

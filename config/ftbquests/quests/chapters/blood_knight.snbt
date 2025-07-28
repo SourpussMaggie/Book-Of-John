@@ -1057,6 +1057,48 @@
 			x: 3.0d
 			y: 6.0d
 		}
+		{
+			id: "615821BD8D0B16B9"
+			rewards: [
+				{
+					count: 5
+					id: "302B3674CD31A80C"
+					item: "undead_revamp2:ancientbread"
+					type: "item"
+				}
+				{
+					id: "3DAD4A4515CD230A"
+					item: {
+						Count: 1
+						id: "born_in_chaos_v1:nut_hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "KILL THE PAST"
+			tasks: [
+				{
+					entity: "nethers_exorcism_reborn:strampler"
+					icon: "nethers_exorcism_reborn:strampler_egg"
+					id: "1FDB705E372C5DB2"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:sniffer"
+					icon: "minecraft:sniffer_egg"
+					id: "67C74CAB8CD3A112"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "CAVEMAN QUEST"
+			x: 0.0d
+			y: -3.0d
+		}
 	]
 	subtitle: ["all the world's creatures are yours to butcher"]
 	title: "GNASHING OF TEETH"
