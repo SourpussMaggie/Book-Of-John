@@ -697,6 +697,62 @@
 			x: 3.0d
 			y: 3.0d
 		}
+		{
+			id: "5D864BB317D6EFAF"
+			rewards: [{
+				id: "0B8E7FD7C9316550"
+				item: "nirvana:thc"
+				type: "item"
+			}]
+			subtitle: "life in Arizona"
+			tasks: [{
+				biome: "betternether:magma_land"
+				icon: "betternether:geyser"
+				id: "0EC0F41DA368B142"
+				type: "biome"
+			}]
+			title: "well this sucks"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "2493D1A6B63F7858"
+			rewards: [{
+				id: "43C5F56BE96546E2"
+				item: "cave_stuff:europeancavespiderfood"
+				type: "item"
+			}]
+			subtitle: "all shapes and sizes"
+			tasks: [
+				{
+					biome: "betternether:nether_jungle"
+					icon: "betternether:eye_seed"
+					id: "29030516736A0612"
+					type: "biome"
+				}
+				{
+					biome: "betterend:umbrella_jungle"
+					icon: "betterend:umbrella_tree_sapling"
+					id: "1E18AD121CF3F311"
+					type: "biome"
+				}
+				{
+					biome: "underground_jungle:underground_jungle"
+					icon: {
+						Count: 1
+						id: "underground_jungle:temple_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "5F42FCC5C6705ABC"
+					type: "biome"
+				}
+			]
+			title: "Unusual Jungles"
+			x: -3.0d
+			y: 3.0d
+		}
 	]
 	subtitle: ["table scraps"]
 	title: "RENAISSANCE MAN"

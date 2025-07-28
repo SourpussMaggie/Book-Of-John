@@ -151,7 +151,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "get broiled idiot"
+			subtitle: "you get what you came for"
 			tasks: [{
 				dimension: "minecraft:the_nether"
 				icon: "nethersdelight:raw_stuffed_hoglin"
@@ -187,7 +187,7 @@
 				item: "royalvariations:spiritual_crown"
 				type: "item"
 			}]
-			subtitle: "abyss"
+			subtitle: "megalophobic macrocosm"
 			tasks: [{
 				dimension: "minecraft:the_end"
 				icon: "minecraft:dragon_head"
