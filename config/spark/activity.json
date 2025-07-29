@@ -5,6 +5,19 @@
       "name": "LavaAgent",
       "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
     },
+    "time": 1753753868405,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/pUoWw1vtAQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "LavaAgent",
+      "uniqueId": "ba5a5f66-6d4c-443d-a0b1-1c53ffb4c5a3"
+    },
     "time": 1751618314812,
     "type": "Profiler (live)",
     "data": {
